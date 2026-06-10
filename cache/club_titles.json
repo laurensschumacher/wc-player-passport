@@ -1,4 +1,57 @@
 {
-  "Liverpool": "Liverpool football club",
-  "Pisa": "PINT Football Club"
+  "Atlético Madrid": {
+    "description": "Association football club in Spain",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Atletico_Madrid_Logo_2024.svg/330px-Atletico_Madrid_Logo_2024.svg.png",
+    "title": "Atlético Madrid"
+  },
+  "Barcelona": {
+    "description": "Association football club in Spain",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/330px-FC_Barcelona_%28crest%29.svg.png",
+    "title": "FC Barcelona"
+  },
+  "Borussia Dortmund": {
+    "description": "Association football club in Germany",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/330px-Borussia_Dortmund_logo.svg.png",
+    "title": "Borussia Dortmund"
+  },
+  "FC Barcelona": {
+    "description": "Association football club in Spain",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/330px-FC_Barcelona_%28crest%29.svg.png",
+    "title": "FC Barcelona"
+  },
+  "Liverpool": {
+    "description": "Association football club in England",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/330px-Liverpool_FC.svg.png",
+    "title": "Liverpool F.C."
+  },
+  "Liverpool FC": {
+    "description": "Association football club in England",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/330px-Liverpool_FC.svg.png",
+    "title": "Liverpool F.C."
+  },
+  "Manchester United": {
+    "description": "Association football club in England",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/330px-Manchester_United_FC_crest.svg.png",
+    "title": "Manchester United F.C."
+  },
+  "Pisa": {
+    "description": "Association football club in Italy",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Pisa_SC_crest.svg/330px-Pisa_SC_crest.svg.png",
+    "title": "Pisa SC"
+  },
+  "Real Madrid": {
+    "description": "Association football club in Spain",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/330px-Real_Madrid_CF.svg.png",
+    "title": "Real Madrid CF"
+  },
+  "SSC Napoli": {
+    "description": "Association football club in Italy",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/SSC_Napoli_2025_%28white_and_azure%29.svg/330px-SSC_Napoli_2025_%28white_and_azure%29.svg.png",
+    "title": "SSC Napoli"
+  },
+  "Sagan Tosu": {
+    "description": "Japanese football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Sagan_Tosu_logo.svg/330px-Sagan_Tosu_logo.svg.png",
+    "title": "Sagan Tosu"
+  }
 }
