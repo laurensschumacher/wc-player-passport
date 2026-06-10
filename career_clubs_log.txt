@@ -1,0 +1,279 @@
+Indexing https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads
+  Mexico: 26 players indexed
+  South Korea: 26 players indexed
+  Switzerland: 26 players indexed
+  Brazil: 26 players indexed
+  Morocco: 26 players indexed
+  Australia: 26 players indexed
+  Paraguay: 26 players indexed
+  United States: 26 players indexed
+  Ecuador: 26 players indexed
+  Germany: 26 players indexed
+  Ivory Coast: 26 players indexed
+  Japan: 26 players indexed
+  Netherlands: 26 players indexed
+  Sweden: 26 players indexed
+  Belgium: 26 players indexed
+  Iran: 26 players indexed
+  Spain: 26 players indexed
+  Uruguay: 26 players indexed
+  France: 26 players indexed
+  Senegal: 26 players indexed
+  Argentina: 25 players indexed
+  Colombia: 26 players indexed
+  Portugal: 26 players indexed
+  Croatia: 26 players indexed
+  England: 26 players indexed
+  Ghana: 26 players indexed
+Indexing https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_squads
+  Ecuador: 26 players indexed
+  Netherlands: 26 players indexed
+  Senegal: 26 players indexed
+  England: 26 players indexed
+  Iran: 25 players indexed
+  United States: 26 players indexed
+  Argentina: 26 players indexed
+  Mexico: 26 players indexed
+  Poland: 26 players indexed
+  Australia: 26 players indexed
+  Denmark: 26 players indexed
+  France: 26 players indexed
+  Germany: 26 players indexed
+  Japan: 26 players indexed
+  Spain: 26 players indexed
+  Belgium: 26 players indexed
+  Croatia: 26 players indexed
+  Morocco: 26 players indexed
+  Brazil: 26 players indexed
+  Cameroon: 26 players indexed
+  Serbia: 26 players indexed
+  Switzerland: 26 players indexed
+  Ghana: 26 players indexed
+  Portugal: 26 players indexed
+  South Korea: 26 players indexed
+  Uruguay: 26 players indexed
+Indexing https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_squads
+  Russia: 23 players indexed
+  Uruguay: 23 players indexed
+  Iran: 23 players indexed
+  Morocco: 23 players indexed
+  Portugal: 23 players indexed
+  Spain: 23 players indexed
+  Australia: 23 players indexed
+  Denmark: 23 players indexed
+  France: 23 players indexed
+  Argentina: 23 players indexed
+  Croatia: 23 players indexed
+  Nigeria: 23 players indexed
+  Brazil: 23 players indexed
+  Serbia: 23 players indexed
+  Switzerland: 23 players indexed
+  Germany: 23 players indexed
+  Mexico: 23 players indexed
+  South Korea: 23 players indexed
+  Sweden: 23 players indexed
+  Belgium: 23 players indexed
+  England: 23 players indexed
+  Colombia: 23 players indexed
+  Japan: 23 players indexed
+  Poland: 23 players indexed
+  Senegal: 23 players indexed
+Indexing https://en.wikipedia.org/wiki/2014_FIFA_World_Cup_squads
+  Brazil: 23 players indexed
+  Cameroon: 23 players indexed
+  Croatia: 23 players indexed
+  Mexico: 23 players indexed
+  Australia: 23 players indexed
+  Netherlands: 23 players indexed
+  Spain: 23 players indexed
+  Colombia: 23 players indexed
+  Ivory Coast: 23 players indexed
+  Japan: 23 players indexed
+  England: 23 players indexed
+  Italy: 23 players indexed
+  Uruguay: 23 players indexed
+  Ecuador: 23 players indexed
+  France: 23 players indexed
+  Switzerland: 23 players indexed
+  Argentina: 23 players indexed
+  Iran: 23 players indexed
+  Nigeria: 23 players indexed
+  Germany: 23 players indexed
+  Ghana: 23 players indexed
+  Portugal: 23 players indexed
+  United States: 23 players indexed
+  Belgium: 23 players indexed
+  Russia: 23 players indexed
+  South Korea: 23 players indexed
+Indexing https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_squads
+  France: 23 players indexed
+  Mexico: 23 players indexed
+  Uruguay: 23 players indexed
+  Argentina: 23 players indexed
+  Nigeria: 23 players indexed
+  South Korea: 23 players indexed
+  England: 23 players indexed
+  United States: 23 players indexed
+  Australia: 23 players indexed
+  Germany: 23 players indexed
+  Ghana: 23 players indexed
+  Serbia: 23 players indexed
+  Cameroon: 23 players indexed
+  Denmark: 23 players indexed
+  Japan: 23 players indexed
+  Netherlands: 23 players indexed
+  Italy: 23 players indexed
+  Paraguay: 23 players indexed
+  Brazil: 23 players indexed
+  Ivory Coast: 23 players indexed
+  Portugal: 23 players indexed
+  Spain: 23 players indexed
+  Switzerland: 23 players indexed
+Indexing https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_squads
+  Ecuador: 23 players indexed
+  Germany: 23 players indexed
+  Poland: 23 players indexed
+  England: 23 players indexed
+  Paraguay: 23 players indexed
+  Sweden: 23 players indexed
+  Argentina: 23 players indexed
+  Ivory Coast: 23 players indexed
+  Netherlands: 23 players indexed
+  Iran: 23 players indexed
+  Mexico: 23 players indexed
+  Portugal: 23 players indexed
+  Ghana: 23 players indexed
+  Italy: 23 players indexed
+  United States: 23 players indexed
+  Australia: 23 players indexed
+  Brazil: 23 players indexed
+  Croatia: 23 players indexed
+  Japan: 23 players indexed
+  France: 23 players indexed
+  South Korea: 23 players indexed
+  Switzerland: 23 players indexed
+  Spain: 23 players indexed
+Indexing https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_squads
+  Denmark: 23 players indexed
+  France: 23 players indexed
+  Senegal: 23 players indexed
+  Uruguay: 23 players indexed
+  Paraguay: 23 players indexed
+  Spain: 23 players indexed
+  Brazil: 23 players indexed
+  Poland: 23 players indexed
+  Portugal: 23 players indexed
+  South Korea: 23 players indexed
+  United States: 23 players indexed
+  Cameroon: 23 players indexed
+  Germany: 23 players indexed
+  Argentina: 23 players indexed
+  England: 23 players indexed
+  Nigeria: 23 players indexed
+  Sweden: 23 players indexed
+  Croatia: 23 players indexed
+  Ecuador: 23 players indexed
+  Italy: 23 players indexed
+  Mexico: 23 players indexed
+  Belgium: 23 players indexed
+  Japan: 23 players indexed
+  Russia: 23 players indexed
+Wrote squad title index (2890 entries)
+  [ 19/286] Maxi Rodriguez                 -> 7 clubs (via 'Maxi Rodríguez')
+  [ 22/286] Cafu                           -> 4 clubs (via 'Cafu')
+  [ 23/286] Roberto Carlos                 -> 8 clubs (via 'Roberto Carlos')
+  [ 25/286] Robinho                        -> 9 clubs (via 'Robinho')
+  [ 27/286] Thiago Silva                   -> 10 clubs (via 'Thiago Silva')
+  [ 28/286] Marcelo                        -> 4 clubs (via 'Marcelo (footballer, born 1988)')
+  [ 29/286] Dani Alves                     -> 8 clubs (via 'Dani Alves')
+  [ 33/286] Lucas Paqueta                  -> 5 clubs (via 'Lucas Paquetá')
+  [ 34/286] Fernandinho                    -> 4 clubs (via 'Fernandinho (footballer, born May 1985)')
+  [ 35/286] Julio Cesar                    -> 6 clubs (via 'Júlio César (football goalkeeper, born 1979)')
+  [ 36/286] Ramires                        -> 6 clubs (via 'Ramires')
+  [ 37/286] Miroslav Klose                 -> 7 clubs (via 'Miroslav Klose')
+  [ 38/286] Michael Ballack                -> 8 clubs (via 'Michael Ballack')
+  [ 39/286] Philipp Lahm                   -> 2 clubs (via 'Philipp Lahm')
+  [ 40/286] Bastian Schweinsteiger         -> 4 clubs (via 'Bastian Schweinsteiger')
+  [ 41/286] Lukas Podolski                 -> 10 clubs (via 'Lukas Podolski')
+  [ 42/286] Thomas Muller                  -> 3 clubs (via 'Thomas Müller')
+  [ 43/286] Manuel Neuer                   -> 3 clubs (via 'Manuel Neuer')
+  [ 44/286] Toni Kroos                     -> 3 clubs (via 'Toni Kroos')
+  [ 52/286] Jens Lehmann                   -> 6 clubs (via 'Jens Lehmann')
+  [ 53/286] Joshua Kimmich                 -> 2 clubs (via 'Joshua Kimmich')
+  [ 54/286] Ilkay Gundogan                 -> 8 clubs (via 'İlkay Gündoğan')
+  [ 55/286] Leroy Sane                     -> 4 clubs (via 'Leroy Sané')
+  [ 56/286] Kai Havertz                    -> 3 clubs (via 'Kai Havertz')
+  [ 57/286] Jamal Musiala                  -> 2 clubs (via 'Jamal Musiala')
+  [ 58/286] Antonio Rudiger                -> 5 clubs (via 'Antonio Rüdiger')
+  [ 59/286] Marc-Andre ter Stegen          -> 3 clubs (via 'Marc-André ter Stegen')
+  [ 60/286] Iker Casillas                  -> 4 clubs (via 'Iker Casillas')
+  [ 61/286] David Villa                    -> 8 clubs (via 'David Villa')
+  [ 62/286] Fernando Torres                -> 6 clubs (via 'Fernando Torres')
+  [ 63/286] Xavi Hernandez                 -> no squad link
+  [ 71/286] Juan Mata                      -> 8 clubs (via 'Juan Mata')
+  [ 72/286] Pedri                          -> 2 clubs (via 'Pedri')
+  [ 73/286] Gavi                           -> 2 clubs (via 'Gavi (footballer)')
+  [ 74/286] Ferran Torres                  -> 4 clubs (via 'Ferran Torres')
+  [ 75/286] Rodri                          -> 4 clubs (via 'Rodri (footballer, born 1996)')
+  [ 76/286] Dani Carvajal                  -> 3 clubs (via 'Dani Carvajal')
+  [ 77/286] Jordi Alba                     -> 5 clubs (via 'Jordi Alba')
+  [ 78/286] Raul                           -> 6 clubs (via 'Raúl (footballer)')
+  [ 79/286] Thierry Henry                  -> 6 clubs (via 'Thierry Henry')
+  [ 88/286] Antoine Griezmann              -> 4 clubs (via 'Antoine Griezmann')
+  [ 89/286] Ousmane Dembele                -> 5 clubs (via 'Ousmane Dembélé')
+  [ 90/286] Olivier Giroud                 -> 8 clubs (via 'Olivier Giroud')
+  [ 91/286] Lucas Hernandez                -> 4 clubs (via 'Lucas Hernandez')
+  [ 92/286] Aurelien Tchouameni            -> 4 clubs (via 'Aurélien Tchouaméni')
+  [ 93/286] William Gallas                 -> 6 clubs (via 'William Gallas')
+  [ 95/286] Luis Figo                      -> 4 clubs (via 'Luís Figo')
+  [ 96/286] Deco                           -> 8 clubs (via 'Deco')
+  [ 97/286] Simao Sabrosa                  -> no squad link
+  [106/286] Arjen Robben                   -> 6 clubs (via 'Arjen Robben')
+  [107/286] Dirk Kuyt                      -> 7 clubs (via 'Dirk Kuyt')
+  [108/286] Robin van Persie               -> 5 clubs (via 'Robin van Persie')
+  [109/286] Wesley Sneijder                -> 6 clubs (via 'Wesley Sneijder')
+  [110/286] Mark van Bommel                -> 6 clubs (via 'Mark van Bommel')
+  [111/286] Virgil van Dijk                -> 4 clubs (via 'Virgil van Dijk')
+  [112/286] Memphis Depay                  -> 6 clubs (via 'Memphis Depay')
+  [113/286] Frenkie de Jong                -> 4 clubs (via 'Frenkie de Jong')
+  [114/286] Denzel Dumfries                -> 4 clubs (via 'Denzel Dumfries')
+  [115/286] David Beckham                  -> 4 clubs (via 'David Beckham')
+  [116/286] Wayne Rooney                   -> 5 clubs (via 'Wayne Rooney')
+  [117/286] Frank Lampard                  -> 4 clubs (via 'Frank Lampard')
+  [128/286] Bukayo Saka                    -> 1 clubs (via 'Bukayo Saka')
+  [129/286] Gianluigi Buffon               -> 5 clubs (via 'Gianluigi Buffon')
+  [130/286] Fabio Cannavaro                -> 7 clubs (via 'Fabio Cannavaro')
+  [131/286] Andrea Pirlo                   -> 5 clubs (via 'Andrea Pirlo')
+  [132/286] Francesco Totti                -> 1 clubs (via 'Francesco Totti')
+  [133/286] Alessandro Del Piero           -> 4 clubs (via 'Alessandro Del Piero')
+  [134/286] Gianluca Zambrotta             -> 6 clubs (via 'Gianluca Zambrotta')
+  [135/286] Gennaro Gattuso                -> 5 clubs (via 'Gennaro Gattuso')
+  [136/286] Daniele De Rossi               -> 2 clubs (via 'Daniele De Rossi')
+  [137/286] Giorgio Chiellini              -> 4 clubs (via 'Giorgio Chiellini')
+  [138/286] Leonardo Bonucci               -> 9 clubs (via 'Leonardo Bonucci')
+  [149/286] Yannick Carrasco               -> 6 clubs (via 'Yannick Carrasco')
+  [150/286] Thibaut Courtois               -> 3 clubs (via 'Thibaut Courtois')
+  [151/286] Diego Forlan                   -> 10 clubs (via 'Diego Forlán')
+  [152/286] Luis Suarez                    -> 9 clubs (via 'Luis Suárez')
+  [153/286] Edison Cavani                  -> no squad link
+  [154/286] Diego Godin                    -> 9 clubs (via 'Diego Godín')
+  [155/286] Maximiliano Pereira            -> no squad link
+  [156/286] Nicolas Lodeiro                -> 9 clubs (via 'Nicolás Lodeiro')
+  [157/286] Rodrigo Bentancur              -> 3 clubs (via 'Rodrigo Bentancur')
+  [158/286] Federico Valverde              -> 3 clubs (via 'Federico Valverde')
+  [159/286] Darwin Nunez                   -> 5 clubs (via 'Darwin Núñez')
+  [160/286] Diego Lugano                   -> 8 clubs (via 'Diego Lugano')
+  [162/286] Darijo Srna                    -> 3 clubs (via 'Darijo Srna')
+  [163/286] Ivan Rakitic                   -> 9 clubs (via 'Ivan Rakitić')
+  [164/286] Mario Mandzukic                -> 9 clubs (via 'Mario Mandžukić')
+  [165/286] Ivan Perisic                   -> 8 clubs (via 'Ivan Perišić')
+  [166/286] Mateo Kovacic                  -> 5 clubs (via 'Mateo Kovačić')
+  [167/286] Marcelo Brozovic               -> 5 clubs (via 'Marcelo Brozović')
+  [168/286] Dejan Lovren                   -> 7 clubs (via 'Dejan Lovren')
+  [169/286] Andrej Kramaric                -> 4 clubs (via 'Andrej Kramarić')
+  [170/286] Stipe Pletikosa                -> 5 clubs (via 'Stipe Pletikosa')
+  [171/286] Ivica Olic                     -> 11 clubs (via 'Ivica Olić')
+  [172/286] Josko Gvardiol                 -> 4 clubs (via 'Joško Gvardiol')
+  [173/286] Rafael Marquez                 -> 7 clubs (via 'Rafael Márquez')
+  [174/286] Guillermo Ochoa                -> 9 clubs (via 'Guillermo Ochoa')
+  [175/286] Andres Guardado                -> 6 clubs (via 'Andrés Guardado')
