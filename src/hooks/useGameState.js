@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useState } from "react";
+import { useCallback, useState } from "react";
 import {
   CLUBS_HINT_COST,
   CORRECT_FLOOR,
@@ -21,14 +21,18 @@ export function useGameState(player) {
   const [status, setStatus] = useState("playing"); // playing | won | gave-up
   const [shake, setShake] = useState(0); // increments on wrong guess (anim trigger)
 
-  // Reset when the player changes.
-  useEffect(() => {
+  // Reset synchronously when the player changes so the new player never
+  // renders with the previous round's status (which would briefly reveal
+  // the answer / hints on the new card).
+  const [prevPlayerId, setPrevPlayerId] = useState(player?.id);
+  if (player?.id !== prevPlayerId) {
+    setPrevPlayerId(player?.id);
     setHintUsed(false);
     setClubsHintUsed(false);
     setWrongGuesses([]);
     setStatus("playing");
     setShake(0);
-  }, [player?.id]);
+  }
 
   const score = liveScore({
     hintUsed,
