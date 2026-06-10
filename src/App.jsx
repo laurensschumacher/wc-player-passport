@@ -4,6 +4,7 @@ import GameCard from "./components/GameCard";
 import GuessInput from "./components/GuessInput";
 import ScoreDisplay from "./components/ScoreDisplay";
 import PostRound from "./components/PostRound";
+import RoundSummary from "./components/RoundSummary";
 import HowToPlay from "./components/HowToPlay";
 import { useGameState } from "./hooks/useGameState";
 import { usePlayerPool } from "./hooks/usePlayerPool";
@@ -27,6 +28,8 @@ export default function App() {
     roundScore: 0,
     completedQuestions: 0,
   });
+  const [roundResults, setRoundResults] = useState([]);
+  const [showRoundSummary, setShowRoundSummary] = useState(false);
   const [history, setHistory] = useState({ roundsCompleted: 0, totalScore: 0 });
   const [pendingDelta, setPendingDelta] = useState(null);
   const lastScoredRound = useRef(null);
@@ -42,6 +45,17 @@ export default function App() {
       roundScore: r.roundScore + game.finalScoreValue,
       completedQuestions: r.completedQuestions + 1,
     }));
+    setRoundResults((rs) => [
+      ...rs,
+      {
+        name: current.name,
+        flag: current.flag_emoji,
+        position: current.position,
+        nationality: current.nationality,
+        status: game.status,
+        score: game.finalScoreValue,
+      },
+    ]);
     if (game.status === "won") {
       const burst = (originX) =>
         confetti({
@@ -67,7 +81,8 @@ export default function App() {
 
   function handleNext() {
     setPendingDelta(null);
-    if (roundComplete) {
+    if (showRoundSummary) {
+      // Closing the summary → finalize this round into history and start next.
       setHistory((h) => ({
         roundsCompleted: h.roundsCompleted + 1,
         totalScore: h.totalScore + round.roundScore,
@@ -77,6 +92,16 @@ export default function App() {
         roundScore: 0,
         completedQuestions: 0,
       });
+      setRoundResults([]);
+      setShowRoundSummary(false);
+      advance();
+      return;
+    }
+    if (roundComplete) {
+      // Just finished the last question of the round → show the summary
+      // before advancing to the next player.
+      setShowRoundSummary(true);
+      return;
     }
     advance();
   }
@@ -107,10 +132,13 @@ export default function App() {
   if (!current) return null;
 
   const guessesUsed = game.wrongGuesses.length;
-  const questionNumber = Math.min(
-    round.completedQuestions + 1,
-    QUESTIONS_PER_ROUND,
-  );
+  // Counter reflects the question currently on screen:
+  //  - while playing, it's the next un-answered question
+  //  - while showing the result, it's the question that was just answered
+  const questionNumber =
+    game.status === "playing"
+      ? Math.min(round.completedQuestions + 1, QUESTIONS_PER_ROUND)
+      : Math.max(round.completedQuestions, 1);
 
   return (
     <div className="min-h-full flex flex-col text-slate-100">
@@ -140,35 +168,46 @@ export default function App() {
           history={history}
         />
 
-        <GameCard
-          player={current}
-          hintRevealed={game.hintUsed}
-          onRevealHint={game.revealHint}
-          clubsRevealed={game.clubsHintUsed}
-          onRevealClubsHint={game.revealClubsHint}
-          status={game.status}
-        />
-
-        {game.status === "playing" ? (
-          <GuessInput
-            allPlayers={allPlayers}
-            onSubmit={(g) => game.submitGuess(g)}
-            wrongGuesses={game.wrongGuesses}
-            shake={game.shake}
-            disabled={false}
-            onGiveUp={game.giveUp}
+        {showRoundSummary ? (
+          <RoundSummary
+            round={round}
+            results={roundResults}
+            history={history}
+            onStartNext={handleNext}
           />
         ) : (
-          <PostRound
-            player={current}
-            status={game.status}
-            finalScoreValue={game.finalScoreValue}
-            guessesUsed={guessesUsed}
-            round={round}
-            history={history}
-            roundComplete={roundComplete}
-            onNext={handleNext}
-          />
+          <>
+            <GameCard
+              player={current}
+              hintRevealed={game.hintUsed}
+              onRevealHint={game.revealHint}
+              clubsRevealed={game.clubsHintUsed}
+              onRevealClubsHint={game.revealClubsHint}
+              status={game.status}
+            />
+
+            {game.status === "playing" ? (
+              <GuessInput
+                allPlayers={allPlayers}
+                onSubmit={(g) => game.submitGuess(g)}
+                wrongGuesses={game.wrongGuesses}
+                shake={game.shake}
+                disabled={false}
+                onGiveUp={game.giveUp}
+              />
+            ) : (
+              <PostRound
+                player={current}
+                status={game.status}
+                finalScoreValue={game.finalScoreValue}
+                guessesUsed={guessesUsed}
+                round={round}
+                history={history}
+                roundComplete={roundComplete}
+                onNext={handleNext}
+              />
+            )}
+          </>
         )}
       </main>
 
@@ -178,7 +217,7 @@ export default function App() {
         </div>
       )}
 
-      {pendingDelta != null && game.status !== "playing" && (
+      {pendingDelta != null && game.status !== "playing" && !showRoundSummary && (
         <div
           className="fixed top-16 left-1/2 -translate-x-1/2 text-emerald-300 font-bold pointer-events-none z-30"
           aria-live="polite"

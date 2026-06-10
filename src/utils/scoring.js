@@ -3,7 +3,7 @@ export const HINT_COST = 10;
 export const CLUBS_HINT_COST = 25;
 export const WRONG_GUESS_COST = 10;
 export const CORRECT_FLOOR = 50;
-export const QUESTIONS_PER_ROUND = 8;
+export const QUESTIONS_PER_ROUND = 5;
 export const MAX_ROUND_SCORE = STARTING_SCORE * QUESTIONS_PER_ROUND;
 
 /**

@@ -133,7 +133,7 @@ export default function PostRound({
           onClick={onNext}
           className="flex-1 min-h-[48px] rounded-xl bg-indigo-600 hover:bg-indigo-500 active:bg-indigo-700 font-semibold text-white transition-colors"
         >
-          {roundComplete ? "Start new round →" : "Next player →"}
+          {roundComplete ? "See round summary →" : "Next player →"}
         </button>
         <button
           type="button"

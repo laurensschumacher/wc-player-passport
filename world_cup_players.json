@@ -3530,12 +3530,6 @@
           "games": 3,
           "goals": 1,
           "club": "Chelsea FC"
-        },
-        {
-          "year": 2026,
-          "games": 0,
-          "goals": 0,
-          "club": "Barcelona"
         }
       ],
       "validation_status": "validated",
@@ -3607,7 +3601,23 @@
         }
       ],
       "validation_status": "validated",
-      "career_clubs": []
+      "career_clubs": [
+        {
+          "club": "Barcelona B",
+          "start_year": 1997,
+          "end_year": 1999
+        },
+        {
+          "club": "Barcelona",
+          "start_year": 1998,
+          "end_year": 2015
+        },
+        {
+          "club": "Al Sadd",
+          "start_year": 2015,
+          "end_year": 2019
+        }
+      ]
     },
     {
       "id": "andres-iniesta-esp",
@@ -4325,11 +4335,11 @@
     },
     {
       "id": "raul-albiol-esp",
-      "name": "Raul",
+      "name": "Raul Albiol",
       "nationality": "Spain",
       "nationality_code": "ESP",
       "flag_emoji": "🇪🇸",
-      "position": "ATT",
+      "position": "DEF",
       "transfermarkt_url": "https://www.transfermarkt.com/raul-albiol/profil/spieler/15452",
       "world_cups": [
         {
@@ -4348,34 +4358,34 @@
       "validation_status": "validated",
       "career_clubs": [
         {
-          "club": "Real Madrid C",
-          "start_year": 1994,
-          "end_year": 1994
+          "club": "Valencia B",
+          "start_year": 2003,
+          "end_year": 2004
         },
         {
-          "club": "Real Madrid B",
-          "start_year": 1994,
-          "end_year": 1994
+          "club": "Valencia",
+          "start_year": 2004,
+          "end_year": 2009
         },
         {
           "club": "Real Madrid",
-          "start_year": 1994,
-          "end_year": 2010
+          "start_year": 2009,
+          "end_year": 2013
         },
         {
-          "club": "Schalke 04",
-          "start_year": 2010,
-          "end_year": 2012
+          "club": "Napoli",
+          "start_year": 2013,
+          "end_year": 2019
         },
         {
-          "club": "Al Sadd",
-          "start_year": 2012,
-          "end_year": 2014
+          "club": "Villarreal",
+          "start_year": 2019,
+          "end_year": 2025
         },
         {
-          "club": "New York Cosmos",
-          "start_year": 2014,
-          "end_year": 2015
+          "club": "Pisa",
+          "start_year": 2025,
+          "end_year": null
         }
       ]
     },
@@ -5458,7 +5468,43 @@
         }
       ],
       "validation_status": "validated",
-      "career_clubs": []
+      "career_clubs": [
+        {
+          "club": "Sporting CP",
+          "start_year": 1997,
+          "end_year": 1999
+        },
+        {
+          "club": "Barcelona",
+          "start_year": 1999,
+          "end_year": 2001
+        },
+        {
+          "club": "Benfica",
+          "start_year": 2001,
+          "end_year": 2007
+        },
+        {
+          "club": "Atlético Madrid",
+          "start_year": 2007,
+          "end_year": 2010
+        },
+        {
+          "club": "Beşiktaş",
+          "start_year": 2011,
+          "end_year": 2012
+        },
+        {
+          "club": "Espanyol",
+          "start_year": 2012,
+          "end_year": 2014
+        },
+        {
+          "club": "NorthEast United",
+          "start_year": 2015,
+          "end_year": 2015
+        }
+      ]
     },
     {
       "id": "joao-moutinho-por",
@@ -8586,7 +8632,43 @@
         }
       ],
       "validation_status": "validated",
-      "career_clubs": []
+      "career_clubs": [
+        {
+          "club": "Danubio",
+          "start_year": 2005,
+          "end_year": 2007
+        },
+        {
+          "club": "Palermo",
+          "start_year": 2007,
+          "end_year": 2011
+        },
+        {
+          "club": "Napoli",
+          "start_year": 2011,
+          "end_year": 2013
+        },
+        {
+          "club": "Paris Saint-Germain",
+          "start_year": 2013,
+          "end_year": 2020
+        },
+        {
+          "club": "Manchester United",
+          "start_year": 2020,
+          "end_year": 2022
+        },
+        {
+          "club": "Valencia",
+          "start_year": 2022,
+          "end_year": 2023
+        },
+        {
+          "club": "Boca Juniors",
+          "start_year": 2023,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "diego-godin-uru",
@@ -8700,7 +8782,33 @@
         }
       ],
       "validation_status": "validated",
-      "career_clubs": []
+      "career_clubs": [
+        {
+          "club": "Defensor",
+          "start_year": 2002,
+          "end_year": 2007
+        },
+        {
+          "club": "Benfica",
+          "start_year": 2007,
+          "end_year": 2015
+        },
+        {
+          "club": "Porto",
+          "start_year": 2015,
+          "end_year": 2019
+        },
+        {
+          "club": "Peñarol",
+          "start_year": 2021,
+          "end_year": 2021
+        },
+        {
+          "club": "River Plate (UY)",
+          "start_year": 2022,
+          "end_year": 2023
+        }
+      ]
     },
     {
       "id": "nicolas-lodeiro-uru",
@@ -9064,7 +9172,24 @@
           "club": "Shakhtar Donetsk"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Hajduk Split",
+          "start_year": 1999,
+          "end_year": 2003
+        },
+        {
+          "club": "Shakhtar Donetsk",
+          "start_year": 2003,
+          "end_year": 2018
+        },
+        {
+          "club": "Cagliari",
+          "start_year": 2018,
+          "end_year": 2019
+        }
+      ]
     },
     {
       "id": "ivan-rakitic-cro",
@@ -9088,7 +9213,54 @@
           "club": "FC Barcelona"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Nordstern Basel",
+          "start_year": 2004,
+          "end_year": 2004
+        },
+        {
+          "club": "FC Basel II",
+          "start_year": 2005,
+          "end_year": 2006
+        },
+        {
+          "club": "FC Basel",
+          "start_year": 2005,
+          "end_year": 2007
+        },
+        {
+          "club": "Schalke 04",
+          "start_year": 2007,
+          "end_year": 2011
+        },
+        {
+          "club": "Sevilla",
+          "start_year": 2011,
+          "end_year": 2014
+        },
+        {
+          "club": "Barcelona",
+          "start_year": 2014,
+          "end_year": 2020
+        },
+        {
+          "club": "Sevilla",
+          "start_year": 2020,
+          "end_year": 2024
+        },
+        {
+          "club": "Al-Shabab",
+          "start_year": 2024,
+          "end_year": 2024
+        },
+        {
+          "club": "Hajduk Split",
+          "start_year": 2024,
+          "end_year": 2025
+        }
+      ]
     },
     {
       "id": "mario-mandzukic-cro",
@@ -9112,7 +9284,54 @@
           "club": "Juventus FC"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Marsonia",
+          "start_year": 2004,
+          "end_year": 2005
+        },
+        {
+          "club": "NK Zagreb",
+          "start_year": 2005,
+          "end_year": 2007
+        },
+        {
+          "club": "Dinamo Zagreb",
+          "start_year": 2007,
+          "end_year": 2010
+        },
+        {
+          "club": "VfL Wolfsburg",
+          "start_year": 2010,
+          "end_year": 2012
+        },
+        {
+          "club": "Bayern Munich",
+          "start_year": 2012,
+          "end_year": 2014
+        },
+        {
+          "club": "Atlético Madrid",
+          "start_year": 2014,
+          "end_year": 2015
+        },
+        {
+          "club": "Juventus",
+          "start_year": 2015,
+          "end_year": 2019
+        },
+        {
+          "club": "Al-Duhail",
+          "start_year": 2019,
+          "end_year": 2020
+        },
+        {
+          "club": "AC Milan",
+          "start_year": 2021,
+          "end_year": 2021
+        }
+      ]
     },
     {
       "id": "ivan-perisic-cro",
@@ -9148,7 +9367,49 @@
           "club": "PSV Eindhoven"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Sochaux II",
+          "start_year": 2006,
+          "end_year": 2009
+        },
+        {
+          "club": "Club Brugge",
+          "start_year": 2009,
+          "end_year": 2011
+        },
+        {
+          "club": "Borussia Dortmund",
+          "start_year": 2011,
+          "end_year": 2013
+        },
+        {
+          "club": "VfL Wolfsburg",
+          "start_year": 2013,
+          "end_year": 2015
+        },
+        {
+          "club": "Inter Milan",
+          "start_year": 2015,
+          "end_year": 2022
+        },
+        {
+          "club": "Tottenham Hotspur",
+          "start_year": 2022,
+          "end_year": 2024
+        },
+        {
+          "club": "Hajduk Split",
+          "start_year": 2024,
+          "end_year": 2024
+        },
+        {
+          "club": "PSV",
+          "start_year": 2024,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "mateo-kovacic-cro",
@@ -9184,7 +9445,34 @@
           "club": "Manchester City"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Dinamo Zagreb",
+          "start_year": 2010,
+          "end_year": 2013
+        },
+        {
+          "club": "Inter Milan",
+          "start_year": 2013,
+          "end_year": 2015
+        },
+        {
+          "club": "Real Madrid",
+          "start_year": 2015,
+          "end_year": 2019
+        },
+        {
+          "club": "Chelsea",
+          "start_year": 2019,
+          "end_year": 2023
+        },
+        {
+          "club": "Manchester City",
+          "start_year": 2023,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "marcelo-brozovic-cro",
@@ -9214,7 +9502,34 @@
           "club": "Inter Milan"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Hrvatski Dragovoljac",
+          "start_year": 2010,
+          "end_year": 2011
+        },
+        {
+          "club": "Lokomotiva",
+          "start_year": 2011,
+          "end_year": 2012
+        },
+        {
+          "club": "Dinamo Zagreb",
+          "start_year": 2012,
+          "end_year": 2015
+        },
+        {
+          "club": "Inter Milan",
+          "start_year": 2015,
+          "end_year": 2023
+        },
+        {
+          "club": "Al-Nassr",
+          "start_year": 2023,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "dejan-lovren-cro",
@@ -9244,7 +9559,44 @@
           "club": "Zenit St. Petersburg"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Dinamo Zagreb",
+          "start_year": 2006,
+          "end_year": 2010
+        },
+        {
+          "club": "Lyon",
+          "start_year": 2010,
+          "end_year": 2013
+        },
+        {
+          "club": "Southampton",
+          "start_year": 2013,
+          "end_year": 2014
+        },
+        {
+          "club": "Liverpool",
+          "start_year": 2014,
+          "end_year": 2020
+        },
+        {
+          "club": "Zenit Saint Petersburg",
+          "start_year": 2020,
+          "end_year": 2022
+        },
+        {
+          "club": "Lyon",
+          "start_year": 2023,
+          "end_year": 2024
+        },
+        {
+          "club": "PAOK",
+          "start_year": 2024,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "andrej-kramaric-cro",
@@ -9274,7 +9626,29 @@
           "club": "TSG Hoffenheim"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Dinamo Zagreb",
+          "start_year": 2009,
+          "end_year": 2013
+        },
+        {
+          "club": "Rijeka",
+          "start_year": 2013,
+          "end_year": 2015
+        },
+        {
+          "club": "Leicester City",
+          "start_year": 2015,
+          "end_year": 2016
+        },
+        {
+          "club": "TSG Hoffenheim",
+          "start_year": 2016,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "stipe-pletikosa-cro",
@@ -9304,7 +9678,34 @@
           "club": "FC Rostov"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Hajduk Split",
+          "start_year": 1996,
+          "end_year": 2003
+        },
+        {
+          "club": "Shakhtar Donetsk",
+          "start_year": 2003,
+          "end_year": 2007
+        },
+        {
+          "club": "Spartak Moscow",
+          "start_year": 2007,
+          "end_year": 2011
+        },
+        {
+          "club": "Rostov",
+          "start_year": 2011,
+          "end_year": 2015
+        },
+        {
+          "club": "Deportivo de La Coruña",
+          "start_year": 2015,
+          "end_year": 2016
+        }
+      ]
     },
     {
       "id": "ivica-olic-cro",
@@ -9334,7 +9735,64 @@
           "club": "VfL Wolfsburg"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Marsonia",
+          "start_year": 1996,
+          "end_year": 1998
+        },
+        {
+          "club": "Hertha BSC II",
+          "start_year": 1998,
+          "end_year": 2000
+        },
+        {
+          "club": "Hertha BSC",
+          "start_year": 1998,
+          "end_year": 2000
+        },
+        {
+          "club": "Marsonia",
+          "start_year": 2000,
+          "end_year": 2001
+        },
+        {
+          "club": "Dinamo Zagreb",
+          "start_year": 2002,
+          "end_year": 2003
+        },
+        {
+          "club": "CSKA Moscow",
+          "start_year": 2003,
+          "end_year": 2007
+        },
+        {
+          "club": "Hamburger SV",
+          "start_year": 2007,
+          "end_year": 2009
+        },
+        {
+          "club": "Bayern Munich",
+          "start_year": 2009,
+          "end_year": 2012
+        },
+        {
+          "club": "VfL Wolfsburg",
+          "start_year": 2012,
+          "end_year": 2015
+        },
+        {
+          "club": "Hamburger SV",
+          "start_year": 2015,
+          "end_year": 2016
+        },
+        {
+          "club": "1860 Munich",
+          "start_year": 2016,
+          "end_year": 2017
+        }
+      ]
     },
     {
       "id": "josko-gvardiol-cro",
@@ -9358,7 +9816,29 @@
           "club": "Manchester City"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Dinamo Zagreb II",
+          "start_year": 2019,
+          "end_year": 2020
+        },
+        {
+          "club": "Dinamo Zagreb",
+          "start_year": 2019,
+          "end_year": 2020
+        },
+        {
+          "club": "RB Leipzig",
+          "start_year": 2020,
+          "end_year": 2023
+        },
+        {
+          "club": "Manchester City",
+          "start_year": 2023,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "rafa-marquez-mex",
@@ -9400,7 +9880,44 @@
           "club": "Atlas Guadalajara"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Atlas",
+          "start_year": 1996,
+          "end_year": 1999
+        },
+        {
+          "club": "Monaco",
+          "start_year": 1999,
+          "end_year": 2003
+        },
+        {
+          "club": "Barcelona",
+          "start_year": 2003,
+          "end_year": 2010
+        },
+        {
+          "club": "New York Red Bulls",
+          "start_year": 2010,
+          "end_year": 2012
+        },
+        {
+          "club": "León",
+          "start_year": 2012,
+          "end_year": 2014
+        },
+        {
+          "club": "Hellas Verona",
+          "start_year": 2014,
+          "end_year": 2015
+        },
+        {
+          "club": "Atlas",
+          "start_year": 2016,
+          "end_year": 2018
+        }
+      ]
     },
     {
       "id": "guillermo-ochoa-mex",
@@ -9448,7 +9965,54 @@
           "club": "AEL Limassol"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Tigrillos Coapa",
+          "start_year": 2003,
+          "end_year": 2003
+        },
+        {
+          "club": "América",
+          "start_year": 2004,
+          "end_year": 2011
+        },
+        {
+          "club": "Ajaccio",
+          "start_year": 2011,
+          "end_year": 2014
+        },
+        {
+          "club": "Málaga",
+          "start_year": 2014,
+          "end_year": 2017
+        },
+        {
+          "club": "Standard Liège",
+          "start_year": 2017,
+          "end_year": 2019
+        },
+        {
+          "club": "América",
+          "start_year": 2019,
+          "end_year": 2022
+        },
+        {
+          "club": "Salernitana",
+          "start_year": 2022,
+          "end_year": 2024
+        },
+        {
+          "club": "AVS",
+          "start_year": 2024,
+          "end_year": 2025
+        },
+        {
+          "club": "AEL Limassol",
+          "start_year": 2025,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "andres-guardado-mex",
@@ -9490,7 +10054,39 @@
           "club": "Real Betis Balompié"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Atlas",
+          "start_year": 2005,
+          "end_year": 2007
+        },
+        {
+          "club": "Deportivo La Coruña",
+          "start_year": 2007,
+          "end_year": 2012
+        },
+        {
+          "club": "Valencia",
+          "start_year": 2012,
+          "end_year": 2015
+        },
+        {
+          "club": "PSV",
+          "start_year": 2015,
+          "end_year": 2017
+        },
+        {
+          "club": "Betis",
+          "start_year": 2017,
+          "end_year": 2024
+        },
+        {
+          "club": "León",
+          "start_year": 2024,
+          "end_year": 2025
+        }
+      ]
     },
     {
       "id": "giovani-dos-santos-mex",
@@ -9520,7 +10116,44 @@
           "club": "Los Angeles Galaxy"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Barcelona B",
+          "start_year": 2006,
+          "end_year": 2007
+        },
+        {
+          "club": "Barcelona",
+          "start_year": 2007,
+          "end_year": 2008
+        },
+        {
+          "club": "Tottenham Hotspur",
+          "start_year": 2008,
+          "end_year": 2012
+        },
+        {
+          "club": "Mallorca",
+          "start_year": 2012,
+          "end_year": 2013
+        },
+        {
+          "club": "Villarreal",
+          "start_year": 2013,
+          "end_year": 2015
+        },
+        {
+          "club": "LA Galaxy",
+          "start_year": 2015,
+          "end_year": 2018
+        },
+        {
+          "club": "América",
+          "start_year": 2019,
+          "end_year": 2021
+        }
+      ]
     },
     {
       "id": "carlos-salcido-mex",
@@ -9550,7 +10183,39 @@
           "club": "Tigres UANL"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Guadalajara",
+          "start_year": 2001,
+          "end_year": 2006
+        },
+        {
+          "club": "PSV",
+          "start_year": 2006,
+          "end_year": 2010
+        },
+        {
+          "club": "Fulham",
+          "start_year": 2010,
+          "end_year": 2012
+        },
+        {
+          "club": "UANL",
+          "start_year": 2012,
+          "end_year": 2014
+        },
+        {
+          "club": "Guadalajara",
+          "start_year": 2014,
+          "end_year": 2018
+        },
+        {
+          "club": "Veracruz",
+          "start_year": 2019,
+          "end_year": 2019
+        }
+      ]
     },
     {
       "id": "miguel-layun-mex",
@@ -9574,7 +10239,54 @@
           "club": "Sevilla FC"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Gallos Caliente Tijuana",
+          "start_year": 2006,
+          "end_year": 2006
+        },
+        {
+          "club": "Veracruz",
+          "start_year": 2007,
+          "end_year": 2009
+        },
+        {
+          "club": "Atalanta",
+          "start_year": 2009,
+          "end_year": 2010
+        },
+        {
+          "club": "América",
+          "start_year": 2010,
+          "end_year": 2014
+        },
+        {
+          "club": "Watford",
+          "start_year": 2014,
+          "end_year": 2015
+        },
+        {
+          "club": "Porto",
+          "start_year": 2015,
+          "end_year": 2018
+        },
+        {
+          "club": "Villarreal",
+          "start_year": 2018,
+          "end_year": 2019
+        },
+        {
+          "club": "Monterrey",
+          "start_year": 2019,
+          "end_year": 2021
+        },
+        {
+          "club": "América",
+          "start_year": 2021,
+          "end_year": 2023
+        }
+      ]
     },
     {
       "id": "hirving-lozano-mex",
@@ -9598,7 +10310,34 @@
           "club": "SSC Napoli"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Pachuca",
+          "start_year": 2014,
+          "end_year": 2017
+        },
+        {
+          "club": "PSV",
+          "start_year": 2017,
+          "end_year": 2019
+        },
+        {
+          "club": "Napoli",
+          "start_year": 2019,
+          "end_year": 2023
+        },
+        {
+          "club": "PSV",
+          "start_year": 2023,
+          "end_year": 2024
+        },
+        {
+          "club": "San Diego FC",
+          "start_year": 2025,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "carlos-vela-mex",
@@ -9622,7 +10361,29 @@
           "club": "Los Angeles FC"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Guadalajara",
+          "start_year": 2005,
+          "end_year": 2005
+        },
+        {
+          "club": "Arsenal",
+          "start_year": 2005,
+          "end_year": 2012
+        },
+        {
+          "club": "Real Sociedad",
+          "start_year": 2012,
+          "end_year": 2018
+        },
+        {
+          "club": "Los Angeles FC",
+          "start_year": 2018,
+          "end_year": 2024
+        }
+      ]
     },
     {
       "id": "edson-alvarez-mex",
@@ -9652,7 +10413,24 @@
           "club": "Fenerbahçe"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "América",
+          "start_year": 2016,
+          "end_year": 2019
+        },
+        {
+          "club": "Ajax",
+          "start_year": 2019,
+          "end_year": 2023
+        },
+        {
+          "club": "West Ham United",
+          "start_year": 2023,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "landon-donovan-usa",
@@ -9682,7 +10460,39 @@
           "club": "Los Angeles Galaxy"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Bayer Leverkusen II",
+          "start_year": 1999,
+          "end_year": 2000
+        },
+        {
+          "club": "Bayer Leverkusen",
+          "start_year": 2000,
+          "end_year": 2005
+        },
+        {
+          "club": "LA Galaxy",
+          "start_year": 2005,
+          "end_year": 2014
+        },
+        {
+          "club": "LA Galaxy",
+          "start_year": 2016,
+          "end_year": 2016
+        },
+        {
+          "club": "León",
+          "start_year": 2018,
+          "end_year": 2018
+        },
+        {
+          "club": "San Diego Sockers (indoor)",
+          "start_year": 2018,
+          "end_year": 2019
+        }
+      ]
     },
     {
       "id": "clint-dempsey-usa",
@@ -9712,7 +10522,29 @@
           "club": "Seattle Sounders FC"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "New England Revolution",
+          "start_year": 2004,
+          "end_year": 2006
+        },
+        {
+          "club": "Fulham",
+          "start_year": 2007,
+          "end_year": 2012
+        },
+        {
+          "club": "Tottenham Hotspur",
+          "start_year": 2012,
+          "end_year": 2013
+        },
+        {
+          "club": "Seattle Sounders FC",
+          "start_year": 2013,
+          "end_year": 2018
+        }
+      ]
     },
     {
       "id": "tim-howard-usa",
@@ -9742,7 +10574,39 @@
           "club": "Everton FC"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "North Jersey Imperials",
+          "start_year": 1997,
+          "end_year": 1997
+        },
+        {
+          "club": "MetroStars",
+          "start_year": 1998,
+          "end_year": 2003
+        },
+        {
+          "club": "Manchester United",
+          "start_year": 2003,
+          "end_year": 2007
+        },
+        {
+          "club": "Everton",
+          "start_year": 2007,
+          "end_year": 2016
+        },
+        {
+          "club": "Colorado Rapids",
+          "start_year": 2016,
+          "end_year": 2019
+        },
+        {
+          "club": "Memphis 901",
+          "start_year": 2020,
+          "end_year": 2020
+        }
+      ]
     },
     {
       "id": "damarcus-beasley-usa",
@@ -9778,7 +10642,44 @@
           "club": "Puebla FC"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "LA Galaxy",
+          "start_year": 1999,
+          "end_year": 1999
+        },
+        {
+          "club": "Chicago Fire",
+          "start_year": 2000,
+          "end_year": 2004
+        },
+        {
+          "club": "PSV",
+          "start_year": 2004,
+          "end_year": 2007
+        },
+        {
+          "club": "Rangers",
+          "start_year": 2007,
+          "end_year": 2010
+        },
+        {
+          "club": "Hannover 96",
+          "start_year": 2010,
+          "end_year": 2011
+        },
+        {
+          "club": "Puebla",
+          "start_year": 2011,
+          "end_year": 2014
+        },
+        {
+          "club": "Houston Dynamo",
+          "start_year": 2014,
+          "end_year": 2019
+        }
+      ]
     },
     {
       "id": "jozy-altidore-usa",
@@ -9802,7 +10703,39 @@
           "club": "Sunderland AFC"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "New York Red Bulls",
+          "start_year": 2006,
+          "end_year": 2008
+        },
+        {
+          "club": "Villarreal",
+          "start_year": 2008,
+          "end_year": 2011
+        },
+        {
+          "club": "AZ",
+          "start_year": 2011,
+          "end_year": 2013
+        },
+        {
+          "club": "Sunderland",
+          "start_year": 2013,
+          "end_year": 2015
+        },
+        {
+          "club": "Toronto FC",
+          "start_year": 2015,
+          "end_year": 2021
+        },
+        {
+          "club": "New England Revolution",
+          "start_year": 2022,
+          "end_year": 2023
+        }
+      ]
     },
     {
       "id": "michael-bradley-usa",
@@ -9826,7 +10759,39 @@
           "club": "Toronto FC"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "MetroStars",
+          "start_year": 2004,
+          "end_year": 2005
+        },
+        {
+          "club": "Heerenveen",
+          "start_year": 2006,
+          "end_year": 2008
+        },
+        {
+          "club": "Borussia Mönchengladbach",
+          "start_year": 2008,
+          "end_year": 2011
+        },
+        {
+          "club": "Chievo",
+          "start_year": 2011,
+          "end_year": 2012
+        },
+        {
+          "club": "Roma",
+          "start_year": 2012,
+          "end_year": 2014
+        },
+        {
+          "club": "Toronto FC",
+          "start_year": 2014,
+          "end_year": 2023
+        }
+      ]
     },
     {
       "id": "christian-pulisic-usa",
@@ -9850,7 +10815,24 @@
           "club": "Milan"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Borussia Dortmund",
+          "start_year": 2016,
+          "end_year": 2019
+        },
+        {
+          "club": "Chelsea",
+          "start_year": 2019,
+          "end_year": 2023
+        },
+        {
+          "club": "AC Milan",
+          "start_year": 2023,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "weston-mckennie-usa",
@@ -9874,7 +10856,19 @@
           "club": "Juventus"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Schalke 04",
+          "start_year": 2017,
+          "end_year": 2021
+        },
+        {
+          "club": "Juventus",
+          "start_year": 2021,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "tyler-adams-usa",
@@ -9898,7 +10892,34 @@
           "club": "Bournemouth"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "New York Red Bulls II",
+          "start_year": 2015,
+          "end_year": 2016
+        },
+        {
+          "club": "New York Red Bulls",
+          "start_year": 2016,
+          "end_year": 2019
+        },
+        {
+          "club": "RB Leipzig",
+          "start_year": 2019,
+          "end_year": 2022
+        },
+        {
+          "club": "Leeds United",
+          "start_year": 2022,
+          "end_year": 2023
+        },
+        {
+          "club": "Bournemouth",
+          "start_year": 2023,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "carlos-bocanegra-usa",
@@ -9922,7 +10943,39 @@
           "club": "Stade Rennais FC"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Chicago Fire",
+          "start_year": 2000,
+          "end_year": 2003
+        },
+        {
+          "club": "Fulham",
+          "start_year": 2004,
+          "end_year": 2008
+        },
+        {
+          "club": "Rennes",
+          "start_year": 2008,
+          "end_year": 2010
+        },
+        {
+          "club": "Saint-Étienne",
+          "start_year": 2010,
+          "end_year": 2011
+        },
+        {
+          "club": "Rangers",
+          "start_year": 2011,
+          "end_year": 2013
+        },
+        {
+          "club": "Chivas USA",
+          "start_year": 2013,
+          "end_year": 2014
+        }
+      ]
     },
     {
       "id": "shunsuke-nakamura-jpn",
@@ -9946,7 +10999,44 @@
           "club": "Yokohama F. Marinos"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Yokohama F. Marinos",
+          "start_year": 1997,
+          "end_year": 2002
+        },
+        {
+          "club": "Reggina",
+          "start_year": 2002,
+          "end_year": 2005
+        },
+        {
+          "club": "Celtic",
+          "start_year": 2005,
+          "end_year": 2009
+        },
+        {
+          "club": "Espanyol",
+          "start_year": 2009,
+          "end_year": 2010
+        },
+        {
+          "club": "Yokohama F. Marinos",
+          "start_year": 2010,
+          "end_year": 2017
+        },
+        {
+          "club": "Júbilo Iwata",
+          "start_year": 2017,
+          "end_year": 2019
+        },
+        {
+          "club": "Yokohama FC",
+          "start_year": 2019,
+          "end_year": 2022
+        }
+      ]
     },
     {
       "id": "hidetoshi-nakata-jpn",
@@ -9970,7 +11060,34 @@
           "club": "Bolton Wanderers"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Bellmare Hiratsuka",
+          "start_year": 1995,
+          "end_year": 1998
+        },
+        {
+          "club": "Perugia",
+          "start_year": 1998,
+          "end_year": 2000
+        },
+        {
+          "club": "Roma",
+          "start_year": 2000,
+          "end_year": 2001
+        },
+        {
+          "club": "Parma",
+          "start_year": 2001,
+          "end_year": 2004
+        },
+        {
+          "club": "Fiorentina",
+          "start_year": 2004,
+          "end_year": 2006
+        }
+      ]
     },
     {
       "id": "keisuke-honda-jpn",
@@ -10000,7 +11117,69 @@
           "club": "CF Pachuca"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Nagoya Grampus Eight",
+          "start_year": 2004,
+          "end_year": 2008
+        },
+        {
+          "club": "VVV-Venlo",
+          "start_year": 2008,
+          "end_year": 2009
+        },
+        {
+          "club": "CSKA Moscow",
+          "start_year": 2010,
+          "end_year": 2013
+        },
+        {
+          "club": "AC Milan",
+          "start_year": 2014,
+          "end_year": 2017
+        },
+        {
+          "club": "Pachuca",
+          "start_year": 2017,
+          "end_year": 2018
+        },
+        {
+          "club": "Melbourne Victory",
+          "start_year": 2018,
+          "end_year": 2019
+        },
+        {
+          "club": "Vitesse",
+          "start_year": 2019,
+          "end_year": 2019
+        },
+        {
+          "club": "Botafogo",
+          "start_year": 2020,
+          "end_year": 2020
+        },
+        {
+          "club": "Neftçi Baku",
+          "start_year": 2021,
+          "end_year": 2021
+        },
+        {
+          "club": "Sūduva",
+          "start_year": 2021,
+          "end_year": 2021
+        },
+        {
+          "club": "Paro",
+          "start_year": 2024,
+          "end_year": 2024
+        },
+        {
+          "club": "FC Jurong",
+          "start_year": 2026,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "yuto-nagatomo-jpn",
@@ -10042,7 +11221,34 @@
           "club": "FC Tokyo"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "FC Tokyo",
+          "start_year": 2007,
+          "end_year": 2011
+        },
+        {
+          "club": "Inter Milan",
+          "start_year": 2011,
+          "end_year": 2018
+        },
+        {
+          "club": "Galatasaray",
+          "start_year": 2018,
+          "end_year": 2020
+        },
+        {
+          "club": "Marseille",
+          "start_year": 2020,
+          "end_year": 2021
+        },
+        {
+          "club": "FC Tokyo",
+          "start_year": 2021,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "makoto-hasebe-jpn",
@@ -10072,7 +11278,29 @@
           "club": "Eintracht Frankfurt"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Urawa Red Diamonds",
+          "start_year": 2002,
+          "end_year": 2007
+        },
+        {
+          "club": "VfL Wolfsburg",
+          "start_year": 2008,
+          "end_year": 2013
+        },
+        {
+          "club": "1. FC Nürnberg",
+          "start_year": 2013,
+          "end_year": 2014
+        },
+        {
+          "club": "Eintracht Frankfurt",
+          "start_year": 2014,
+          "end_year": 2024
+        }
+      ]
     },
     {
       "id": "shinji-kagawa-jpn",
@@ -10096,7 +11324,54 @@
           "club": "Borussia Dortmund"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Cerezo Osaka",
+          "start_year": 2007,
+          "end_year": 2010
+        },
+        {
+          "club": "Borussia Dortmund",
+          "start_year": 2010,
+          "end_year": 2012
+        },
+        {
+          "club": "Manchester United",
+          "start_year": 2012,
+          "end_year": 2014
+        },
+        {
+          "club": "Borussia Dortmund",
+          "start_year": 2014,
+          "end_year": 2019
+        },
+        {
+          "club": "Borussia Dortmund II",
+          "start_year": 2018,
+          "end_year": 2018
+        },
+        {
+          "club": "Real Zaragoza",
+          "start_year": 2019,
+          "end_year": 2020
+        },
+        {
+          "club": "PAOK",
+          "start_year": 2021,
+          "end_year": 2021
+        },
+        {
+          "club": "Sint-Truiden",
+          "start_year": 2022,
+          "end_year": 2023
+        },
+        {
+          "club": "Cerezo Osaka",
+          "start_year": 2023,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "maya-yoshida-jpn",
@@ -10126,7 +11401,34 @@
           "club": "FC Schalke 04"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Nagoya Grampus",
+          "start_year": 2007,
+          "end_year": 2010
+        },
+        {
+          "club": "VVV-Venlo",
+          "start_year": 2010,
+          "end_year": 2012
+        },
+        {
+          "club": "Southampton",
+          "start_year": 2012,
+          "end_year": 2020
+        },
+        {
+          "club": "Sampdoria",
+          "start_year": 2020,
+          "end_year": 2022
+        },
+        {
+          "club": "LA Galaxy",
+          "start_year": 2023,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "ritsu-doan-jpn",
@@ -10150,7 +11452,34 @@
           "club": "Eintracht Frankfurt"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Gamba Osaka",
+          "start_year": 2015,
+          "end_year": 2018
+        },
+        {
+          "club": "Groningen",
+          "start_year": 2018,
+          "end_year": 2019
+        },
+        {
+          "club": "PSV",
+          "start_year": 2019,
+          "end_year": 2022
+        },
+        {
+          "club": "SC Freiburg",
+          "start_year": 2022,
+          "end_year": 2025
+        },
+        {
+          "club": "Eintracht Frankfurt",
+          "start_year": 2025,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "wataru-endo-jpn",
@@ -10180,7 +11509,34 @@
           "club": "Liverpool"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Shonan Bellmare",
+          "start_year": 2010,
+          "end_year": 2015
+        },
+        {
+          "club": "Urawa Red Diamonds",
+          "start_year": 2016,
+          "end_year": 2018
+        },
+        {
+          "club": "Sint-Truiden",
+          "start_year": 2018,
+          "end_year": 2020
+        },
+        {
+          "club": "VfB Stuttgart",
+          "start_year": 2020,
+          "end_year": 2023
+        },
+        {
+          "club": "Liverpool",
+          "start_year": 2023,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "sadio-mane-sen",
@@ -10204,7 +11560,44 @@
           "club": "Al-Nassr"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Metz B",
+          "start_year": 2011,
+          "end_year": 2012
+        },
+        {
+          "club": "Metz",
+          "start_year": 2011,
+          "end_year": 2012
+        },
+        {
+          "club": "Red Bull Salzburg",
+          "start_year": 2012,
+          "end_year": 2014
+        },
+        {
+          "club": "Southampton",
+          "start_year": 2014,
+          "end_year": 2016
+        },
+        {
+          "club": "Liverpool",
+          "start_year": 2016,
+          "end_year": 2022
+        },
+        {
+          "club": "Bayern Munich",
+          "start_year": 2022,
+          "end_year": 2023
+        },
+        {
+          "club": "Al-Nassr",
+          "start_year": 2023,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "kalidou-koulibaly-sen",
@@ -10234,7 +11627,39 @@
           "club": "Al-Hilal"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Metz II",
+          "start_year": 2009,
+          "end_year": 2011
+        },
+        {
+          "club": "Metz",
+          "start_year": 2010,
+          "end_year": 2012
+        },
+        {
+          "club": "Genk",
+          "start_year": 2012,
+          "end_year": 2014
+        },
+        {
+          "club": "Napoli",
+          "start_year": 2014,
+          "end_year": 2022
+        },
+        {
+          "club": "Chelsea",
+          "start_year": 2022,
+          "end_year": 2023
+        },
+        {
+          "club": "Al-Hilal",
+          "start_year": 2023,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "idrissa-gueye-sen",
@@ -10264,7 +11689,44 @@
           "club": "Everton"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Diambars",
+          "start_year": 2007,
+          "end_year": 2008
+        },
+        {
+          "club": "Lille B",
+          "start_year": 2008,
+          "end_year": 2010
+        },
+        {
+          "club": "Lille",
+          "start_year": 2010,
+          "end_year": 2015
+        },
+        {
+          "club": "Aston Villa",
+          "start_year": 2015,
+          "end_year": 2016
+        },
+        {
+          "club": "Everton",
+          "start_year": 2016,
+          "end_year": 2019
+        },
+        {
+          "club": "Paris Saint-Germain",
+          "start_year": 2019,
+          "end_year": 2022
+        },
+        {
+          "club": "Everton",
+          "start_year": 2022,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "ismaila-sarr-sen",
@@ -10294,7 +11756,34 @@
           "club": "Crystal Palace"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Metz",
+          "start_year": 2016,
+          "end_year": 2017
+        },
+        {
+          "club": "Rennes",
+          "start_year": 2017,
+          "end_year": 2019
+        },
+        {
+          "club": "Watford",
+          "start_year": 2019,
+          "end_year": 2023
+        },
+        {
+          "club": "Marseille",
+          "start_year": 2023,
+          "end_year": 2024
+        },
+        {
+          "club": "Crystal Palace",
+          "start_year": 2024,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "asamoah-gyan-gha",
@@ -10324,7 +11813,54 @@
           "club": "Al-Ain FC"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Liberty Professionals",
+          "start_year": 2003,
+          "end_year": 2003
+        },
+        {
+          "club": "Udinese",
+          "start_year": 2003,
+          "end_year": 2008
+        },
+        {
+          "club": "Rennes",
+          "start_year": 2008,
+          "end_year": 2010
+        },
+        {
+          "club": "Sunderland",
+          "start_year": 2010,
+          "end_year": 2012
+        },
+        {
+          "club": "Al Ain",
+          "start_year": 2012,
+          "end_year": 2015
+        },
+        {
+          "club": "Shanghai SIPG",
+          "start_year": 2015,
+          "end_year": 2017
+        },
+        {
+          "club": "Kayserispor",
+          "start_year": 2017,
+          "end_year": 2019
+        },
+        {
+          "club": "NorthEast United",
+          "start_year": 2019,
+          "end_year": 2020
+        },
+        {
+          "club": "Legon Cities",
+          "start_year": 2020,
+          "end_year": 2021
+        }
+      ]
     },
     {
       "id": "ji-sung-park-kor",
@@ -10354,7 +11890,29 @@
           "club": "Manchester United"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Kyoto Purple Sanga",
+          "start_year": 2000,
+          "end_year": 2003
+        },
+        {
+          "club": "PSV Eindhoven",
+          "start_year": 2003,
+          "end_year": 2005
+        },
+        {
+          "club": "Manchester United",
+          "start_year": 2005,
+          "end_year": 2012
+        },
+        {
+          "club": "Queens Park Rangers",
+          "start_year": 2012,
+          "end_year": 2014
+        }
+      ]
     },
     {
       "id": "young-pyo-lee-kor",
@@ -10384,7 +11942,39 @@
           "club": "Al-Hilal SFC"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Anyang LG Cheetahs",
+          "start_year": 2000,
+          "end_year": 2002
+        },
+        {
+          "club": "PSV Eindhoven",
+          "start_year": 2003,
+          "end_year": 2005
+        },
+        {
+          "club": "Tottenham Hotspur",
+          "start_year": 2005,
+          "end_year": 2008
+        },
+        {
+          "club": "Borussia Dortmund",
+          "start_year": 2008,
+          "end_year": 2009
+        },
+        {
+          "club": "Al-Hilal",
+          "start_year": 2009,
+          "end_year": 2011
+        },
+        {
+          "club": "Vancouver Whitecaps FC",
+          "start_year": 2011,
+          "end_year": 2013
+        }
+      ]
     },
     {
       "id": "sung-yueng-ki-kor",
@@ -10414,7 +12004,44 @@
           "club": "Swansea City"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "FC Seoul",
+          "start_year": 2006,
+          "end_year": 2009
+        },
+        {
+          "club": "Celtic",
+          "start_year": 2010,
+          "end_year": 2012
+        },
+        {
+          "club": "Swansea City",
+          "start_year": 2012,
+          "end_year": 2018
+        },
+        {
+          "club": "Newcastle United",
+          "start_year": 2018,
+          "end_year": 2020
+        },
+        {
+          "club": "Mallorca",
+          "start_year": 2020,
+          "end_year": 2020
+        },
+        {
+          "club": "FC Seoul",
+          "start_year": 2020,
+          "end_year": 2025
+        },
+        {
+          "club": "Pohang Steelers",
+          "start_year": 2025,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "chu-young-park-kor",
@@ -10444,7 +12071,39 @@
           "club": "Arsenal FC"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "FC Seoul",
+          "start_year": 2005,
+          "end_year": 2008
+        },
+        {
+          "club": "Monaco",
+          "start_year": 2008,
+          "end_year": 2011
+        },
+        {
+          "club": "Arsenal",
+          "start_year": 2011,
+          "end_year": 2014
+        },
+        {
+          "club": "Al-Shabab",
+          "start_year": 2014,
+          "end_year": 2015
+        },
+        {
+          "club": "FC Seoul",
+          "start_year": 2015,
+          "end_year": 2021
+        },
+        {
+          "club": "Ulsan HD",
+          "start_year": 2022,
+          "end_year": 2024
+        }
+      ]
     },
     {
       "id": "heung-min-son-kor",
@@ -10480,7 +12139,34 @@
           "club": "Los Angeles FC"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Hamburger SV II",
+          "start_year": 2010,
+          "end_year": 2010
+        },
+        {
+          "club": "Hamburger SV",
+          "start_year": 2010,
+          "end_year": 2013
+        },
+        {
+          "club": "Bayer Leverkusen",
+          "start_year": 2013,
+          "end_year": 2015
+        },
+        {
+          "club": "Tottenham Hotspur",
+          "start_year": 2015,
+          "end_year": 2025
+        },
+        {
+          "club": "Los Angeles FC",
+          "start_year": 2025,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "kang-in-lee-kor",
@@ -10504,7 +12190,29 @@
           "club": "Paris Saint-Germain"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Valencia B",
+          "start_year": 2017,
+          "end_year": 2019
+        },
+        {
+          "club": "Valencia",
+          "start_year": 2018,
+          "end_year": 2021
+        },
+        {
+          "club": "Mallorca",
+          "start_year": 2021,
+          "end_year": 2023
+        },
+        {
+          "club": "Paris Saint-Germain",
+          "start_year": 2023,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "hee-chan-hwang-kor",
@@ -10534,7 +12242,24 @@
           "club": "Wolverhampton Wanderers"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Red Bull Salzburg",
+          "start_year": 2015,
+          "end_year": 2020
+        },
+        {
+          "club": "RB Leipzig",
+          "start_year": 2020,
+          "end_year": 2022
+        },
+        {
+          "club": "Wolverhampton Wanderers",
+          "start_year": 2022,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "du-ri-cha-kor",
@@ -10558,7 +12283,49 @@
           "club": "SC Freiburg"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Bayer Leverkusen",
+          "start_year": 2002,
+          "end_year": 2004
+        },
+        {
+          "club": "Eintracht Frankfurt",
+          "start_year": 2004,
+          "end_year": 2006
+        },
+        {
+          "club": "Mainz 05",
+          "start_year": 2006,
+          "end_year": 2007
+        },
+        {
+          "club": "TuS Koblenz",
+          "start_year": 2007,
+          "end_year": 2009
+        },
+        {
+          "club": "SC Freiburg",
+          "start_year": 2009,
+          "end_year": 2010
+        },
+        {
+          "club": "Celtic",
+          "start_year": 2010,
+          "end_year": 2012
+        },
+        {
+          "club": "Fortuna Düsseldorf",
+          "start_year": 2012,
+          "end_year": 2013
+        },
+        {
+          "club": "FC Seoul",
+          "start_year": 2013,
+          "end_year": 2015
+        }
+      ]
     },
     {
       "id": "ki-hyeon-seol-kor",
@@ -10582,7 +12349,49 @@
           "club": "Wolverhampton Wanderers"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Royal Antwerp",
+          "start_year": 2000,
+          "end_year": 2001
+        },
+        {
+          "club": "Anderlecht",
+          "start_year": 2001,
+          "end_year": 2004
+        },
+        {
+          "club": "Wolverhampton Wanderers",
+          "start_year": 2004,
+          "end_year": 2006
+        },
+        {
+          "club": "Reading",
+          "start_year": 2006,
+          "end_year": 2007
+        },
+        {
+          "club": "Fulham",
+          "start_year": 2007,
+          "end_year": 2010
+        },
+        {
+          "club": "Pohang Steelers",
+          "start_year": 2010,
+          "end_year": 2010
+        },
+        {
+          "club": "Ulsan Hyundai",
+          "start_year": 2011,
+          "end_year": 2011
+        },
+        {
+          "club": "Incheon United",
+          "start_year": 2012,
+          "end_year": 2014
+        }
+      ]
     },
     {
       "id": "gue-sung-cho-kor",
@@ -10606,7 +12415,24 @@
           "club": "Midtjylland"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "FC Anyang",
+          "start_year": 2019,
+          "end_year": 2019
+        },
+        {
+          "club": "Jeonbuk Hyundai Motors",
+          "start_year": 2020,
+          "end_year": 2023
+        },
+        {
+          "club": "Midtjylland",
+          "start_year": 2023,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "michael-essien-gha",
@@ -10630,7 +12456,44 @@
           "club": "AC Milan"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Bastia",
+          "start_year": 2000,
+          "end_year": 2003
+        },
+        {
+          "club": "Lyon",
+          "start_year": 2003,
+          "end_year": 2005
+        },
+        {
+          "club": "Chelsea",
+          "start_year": 2005,
+          "end_year": 2014
+        },
+        {
+          "club": "AC Milan",
+          "start_year": 2014,
+          "end_year": 2015
+        },
+        {
+          "club": "Panathinaikos",
+          "start_year": 2015,
+          "end_year": 2016
+        },
+        {
+          "club": "Persib Bandung",
+          "start_year": 2017,
+          "end_year": 2018
+        },
+        {
+          "club": "Sabail",
+          "start_year": 2019,
+          "end_year": 2020
+        }
+      ]
     },
     {
       "id": "stephen-appiah-gha",
@@ -10654,7 +12517,49 @@
           "club": "Bologna FC 1909"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Hearts of Oak",
+          "start_year": 1995,
+          "end_year": 1997
+        },
+        {
+          "club": "Udinese",
+          "start_year": 1997,
+          "end_year": 2000
+        },
+        {
+          "club": "Parma",
+          "start_year": 2000,
+          "end_year": 2003
+        },
+        {
+          "club": "Juventus",
+          "start_year": 2003,
+          "end_year": 2005
+        },
+        {
+          "club": "Fenerbahçe",
+          "start_year": 2005,
+          "end_year": 2008
+        },
+        {
+          "club": "Bologna",
+          "start_year": 2009,
+          "end_year": 2010
+        },
+        {
+          "club": "Cesena",
+          "start_year": 2010,
+          "end_year": 2011
+        },
+        {
+          "club": "Vojvodina",
+          "start_year": 2012,
+          "end_year": 2012
+        }
+      ]
     },
     {
       "id": "sulley-muntari-gha",
@@ -10684,7 +12589,54 @@
           "club": "AC Milan"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Udinese",
+          "start_year": 2002,
+          "end_year": 2007
+        },
+        {
+          "club": "Portsmouth",
+          "start_year": 2007,
+          "end_year": 2008
+        },
+        {
+          "club": "Inter Milan",
+          "start_year": 2008,
+          "end_year": 2012
+        },
+        {
+          "club": "AC Milan",
+          "start_year": 2012,
+          "end_year": 2015
+        },
+        {
+          "club": "Al Ittihad",
+          "start_year": 2015,
+          "end_year": 2016
+        },
+        {
+          "club": "Pescara",
+          "start_year": 2017,
+          "end_year": 2017
+        },
+        {
+          "club": "Deportivo La Coruña",
+          "start_year": 2018,
+          "end_year": 2018
+        },
+        {
+          "club": "Albacete",
+          "start_year": 2019,
+          "end_year": 2019
+        },
+        {
+          "club": "Hearts of Oak",
+          "start_year": 2022,
+          "end_year": 2022
+        }
+      ]
     },
     {
       "id": "andre-ayew-gha",
@@ -10714,7 +12666,49 @@
           "club": "Al-Sadd SC"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Marseille",
+          "start_year": 2007,
+          "end_year": 2015
+        },
+        {
+          "club": "Swansea City",
+          "start_year": 2015,
+          "end_year": 2016
+        },
+        {
+          "club": "West Ham United",
+          "start_year": 2016,
+          "end_year": 2018
+        },
+        {
+          "club": "Swansea City",
+          "start_year": 2018,
+          "end_year": 2021
+        },
+        {
+          "club": "Al Sadd",
+          "start_year": 2021,
+          "end_year": 2023
+        },
+        {
+          "club": "Nottingham Forest",
+          "start_year": 2023,
+          "end_year": 2023
+        },
+        {
+          "club": "Le Havre",
+          "start_year": 2023,
+          "end_year": 2025
+        },
+        {
+          "club": "NAC Breda",
+          "start_year": 2026,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "jordan-ayew-gha",
@@ -10744,7 +12738,39 @@
           "club": "Leicester City"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Marseille",
+          "start_year": 2009,
+          "end_year": 2014
+        },
+        {
+          "club": "Lorient",
+          "start_year": 2014,
+          "end_year": 2015
+        },
+        {
+          "club": "Aston Villa",
+          "start_year": 2015,
+          "end_year": 2017
+        },
+        {
+          "club": "Swansea City",
+          "start_year": 2017,
+          "end_year": 2019
+        },
+        {
+          "club": "Crystal Palace",
+          "start_year": 2019,
+          "end_year": 2024
+        },
+        {
+          "club": "Leicester City",
+          "start_year": 2024,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "richard-kingston-gha",
@@ -10768,7 +12794,54 @@
           "club": "Wigan Athletic"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Great Olympics",
+          "start_year": 1995,
+          "end_year": 1996
+        },
+        {
+          "club": "Galatasaray",
+          "start_year": 1996,
+          "end_year": 2005
+        },
+        {
+          "club": "Ankaraspor",
+          "start_year": 2005,
+          "end_year": 2007
+        },
+        {
+          "club": "Birmingham City",
+          "start_year": 2007,
+          "end_year": 2008
+        },
+        {
+          "club": "Wigan Athletic",
+          "start_year": 2008,
+          "end_year": 2010
+        },
+        {
+          "club": "Blackpool",
+          "start_year": 2010,
+          "end_year": 2011
+        },
+        {
+          "club": "Doxa Katokopias",
+          "start_year": 2013,
+          "end_year": 2013
+        },
+        {
+          "club": "Balıkesirspor",
+          "start_year": 2014,
+          "end_year": 2014
+        },
+        {
+          "club": "Great Olympics",
+          "start_year": 2015,
+          "end_year": 2015
+        }
+      ]
     },
     {
       "id": "john-mensah-gha",
@@ -10792,7 +12865,49 @@
           "club": "Sunderland AFC"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Bellinzona",
+          "start_year": 2000,
+          "end_year": 2002
+        },
+        {
+          "club": "Chievo",
+          "start_year": 2002,
+          "end_year": 2006
+        },
+        {
+          "club": "Rennes",
+          "start_year": 2006,
+          "end_year": 2008
+        },
+        {
+          "club": "Lyon",
+          "start_year": 2008,
+          "end_year": 2012
+        },
+        {
+          "club": "Rennes",
+          "start_year": 2012,
+          "end_year": 2013
+        },
+        {
+          "club": "Asante Kotoko",
+          "start_year": 2013,
+          "end_year": 2013
+        },
+        {
+          "club": "Nitra",
+          "start_year": 2014,
+          "end_year": 2014
+        },
+        {
+          "club": "AFC Eskilstuna",
+          "start_year": 2016,
+          "end_year": 2016
+        }
+      ]
     },
     {
       "id": "didier-drogba-civ",
@@ -10822,7 +12937,54 @@
           "club": "Galatasaray"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Le Mans",
+          "start_year": 1998,
+          "end_year": 2002
+        },
+        {
+          "club": "Guingamp",
+          "start_year": 2002,
+          "end_year": 2003
+        },
+        {
+          "club": "Marseille",
+          "start_year": 2003,
+          "end_year": 2004
+        },
+        {
+          "club": "Chelsea",
+          "start_year": 2004,
+          "end_year": 2012
+        },
+        {
+          "club": "Shanghai Shenhua",
+          "start_year": 2012,
+          "end_year": 2013
+        },
+        {
+          "club": "Galatasaray",
+          "start_year": 2013,
+          "end_year": 2014
+        },
+        {
+          "club": "Chelsea",
+          "start_year": 2014,
+          "end_year": 2015
+        },
+        {
+          "club": "Montreal Impact",
+          "start_year": 2015,
+          "end_year": 2016
+        },
+        {
+          "club": "Phoenix Rising",
+          "start_year": 2017,
+          "end_year": 2018
+        }
+      ]
     },
     {
       "id": "yaya-toure-civ",
@@ -10852,7 +13014,49 @@
           "club": "Manchester City"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Beveren",
+          "start_year": 2001,
+          "end_year": 2003
+        },
+        {
+          "club": "Metalurh Donetsk",
+          "start_year": 2003,
+          "end_year": 2005
+        },
+        {
+          "club": "Olympiacos",
+          "start_year": 2005,
+          "end_year": 2006
+        },
+        {
+          "club": "Monaco",
+          "start_year": 2006,
+          "end_year": 2007
+        },
+        {
+          "club": "Barcelona",
+          "start_year": 2007,
+          "end_year": 2010
+        },
+        {
+          "club": "Manchester City",
+          "start_year": 2010,
+          "end_year": 2018
+        },
+        {
+          "club": "Olympiacos",
+          "start_year": 2018,
+          "end_year": 2018
+        },
+        {
+          "club": "Qingdao Huanghai",
+          "start_year": 2019,
+          "end_year": 2019
+        }
+      ]
     },
     {
       "id": "kolo-toure-civ",
@@ -10882,7 +13086,34 @@
           "club": "Liverpool FC"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "ASEC Mimosas",
+          "start_year": 1999,
+          "end_year": 2002
+        },
+        {
+          "club": "Arsenal",
+          "start_year": 2002,
+          "end_year": 2009
+        },
+        {
+          "club": "Manchester City",
+          "start_year": 2009,
+          "end_year": 2013
+        },
+        {
+          "club": "Liverpool",
+          "start_year": 2013,
+          "end_year": 2016
+        },
+        {
+          "club": "Celtic",
+          "start_year": 2016,
+          "end_year": 2017
+        }
+      ]
     },
     {
       "id": "didier-zokora-civ",
@@ -10912,7 +13143,59 @@
           "club": "Without Club"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "ASEC Mimosas",
+          "start_year": 1999,
+          "end_year": 2000
+        },
+        {
+          "club": "Racing Genk",
+          "start_year": 2000,
+          "end_year": 2004
+        },
+        {
+          "club": "Saint-Étienne",
+          "start_year": 2004,
+          "end_year": 2006
+        },
+        {
+          "club": "Tottenham Hotspur",
+          "start_year": 2006,
+          "end_year": 2009
+        },
+        {
+          "club": "Sevilla",
+          "start_year": 2009,
+          "end_year": 2011
+        },
+        {
+          "club": "Trabzonspor",
+          "start_year": 2011,
+          "end_year": 2014
+        },
+        {
+          "club": "Akhisarspor",
+          "start_year": 2014,
+          "end_year": 2015
+        },
+        {
+          "club": "Pune City",
+          "start_year": 2015,
+          "end_year": 2016
+        },
+        {
+          "club": "North East United",
+          "start_year": 2016,
+          "end_year": 2017
+        },
+        {
+          "club": "Semen Padang",
+          "start_year": 2017,
+          "end_year": 2017
+        }
+      ]
     },
     {
       "id": "emmanuel-eboue-civ",
@@ -10936,7 +13219,34 @@
           "club": "Arsenal FC"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "ASEC Mimosas",
+          "start_year": 2001,
+          "end_year": 2002
+        },
+        {
+          "club": "Beveren",
+          "start_year": 2002,
+          "end_year": 2004
+        },
+        {
+          "club": "Arsenal",
+          "start_year": 2004,
+          "end_year": 2011
+        },
+        {
+          "club": "Galatasaray",
+          "start_year": 2011,
+          "end_year": 2015
+        },
+        {
+          "club": "Sunderland",
+          "start_year": 2016,
+          "end_year": 2016
+        }
+      ]
     },
     {
       "id": "salomon-kalou-civ",
@@ -10960,7 +13270,39 @@
           "club": "LOSC Lille"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Feyenoord",
+          "start_year": 2003,
+          "end_year": 2006
+        },
+        {
+          "club": "Chelsea",
+          "start_year": 2006,
+          "end_year": 2012
+        },
+        {
+          "club": "Lille",
+          "start_year": 2012,
+          "end_year": 2014
+        },
+        {
+          "club": "Hertha BSC",
+          "start_year": 2014,
+          "end_year": 2020
+        },
+        {
+          "club": "Botafogo",
+          "start_year": 2020,
+          "end_year": 2021
+        },
+        {
+          "club": "Arta/Solar7",
+          "start_year": 2022,
+          "end_year": 2024
+        }
+      ]
     },
     {
       "id": "john-obi-mikel-nga",
@@ -10984,7 +13326,44 @@
           "club": "Tianjin Jinmen Tiger"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Lyn",
+          "start_year": 2004,
+          "end_year": 2006
+        },
+        {
+          "club": "Chelsea",
+          "start_year": 2006,
+          "end_year": 2017
+        },
+        {
+          "club": "Tianjin TEDA",
+          "start_year": 2017,
+          "end_year": 2018
+        },
+        {
+          "club": "Middlesbrough",
+          "start_year": 2019,
+          "end_year": 2019
+        },
+        {
+          "club": "Trabzonspor",
+          "start_year": 2019,
+          "end_year": 2020
+        },
+        {
+          "club": "Stoke City",
+          "start_year": 2020,
+          "end_year": 2021
+        },
+        {
+          "club": "Kuwait SC",
+          "start_year": 2021,
+          "end_year": 2021
+        }
+      ]
     },
     {
       "id": "nwankwo-kanu-nga",
@@ -11008,7 +13387,39 @@
           "club": "Portsmouth FC"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Iwuanyanwu Nationale",
+          "start_year": 1992,
+          "end_year": 1993
+        },
+        {
+          "club": "Ajax",
+          "start_year": 1993,
+          "end_year": 1996
+        },
+        {
+          "club": "Inter Milan",
+          "start_year": 1996,
+          "end_year": 1999
+        },
+        {
+          "club": "Arsenal",
+          "start_year": 1999,
+          "end_year": 2004
+        },
+        {
+          "club": "West Bromwich Albion",
+          "start_year": 2004,
+          "end_year": 2006
+        },
+        {
+          "club": "Portsmouth",
+          "start_year": 2006,
+          "end_year": 2012
+        }
+      ]
     },
     {
       "id": "peter-odemwingie-nga",
@@ -11032,7 +13443,54 @@
           "club": "Stoke City"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Bendel Insurance",
+          "start_year": 2000,
+          "end_year": 2002
+        },
+        {
+          "club": "La Louvière",
+          "start_year": 2002,
+          "end_year": 2004
+        },
+        {
+          "club": "Lille",
+          "start_year": 2004,
+          "end_year": 2007
+        },
+        {
+          "club": "Lokomotiv Moscow",
+          "start_year": 2007,
+          "end_year": 2010
+        },
+        {
+          "club": "West Bromwich Albion",
+          "start_year": 2010,
+          "end_year": 2013
+        },
+        {
+          "club": "Cardiff City",
+          "start_year": 2013,
+          "end_year": 2014
+        },
+        {
+          "club": "Stoke City",
+          "start_year": 2014,
+          "end_year": 2016
+        },
+        {
+          "club": "Rotherham United",
+          "start_year": 2016,
+          "end_year": 2017
+        },
+        {
+          "club": "Madura United",
+          "start_year": 2017,
+          "end_year": 2018
+        }
+      ]
     },
     {
       "id": "ahmed-musa-nga",
@@ -11056,7 +13514,54 @@
           "club": "CSKA Moscow"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "GBS Academy",
+          "start_year": 2008,
+          "end_year": 2010
+        },
+        {
+          "club": "VVV-Venlo",
+          "start_year": 2010,
+          "end_year": 2012
+        },
+        {
+          "club": "CSKA Moscow",
+          "start_year": 2012,
+          "end_year": 2016
+        },
+        {
+          "club": "Leicester City",
+          "start_year": 2016,
+          "end_year": 2018
+        },
+        {
+          "club": "Al-Nassr",
+          "start_year": 2018,
+          "end_year": 2020
+        },
+        {
+          "club": "Kano Pillars",
+          "start_year": 2021,
+          "end_year": 2021
+        },
+        {
+          "club": "Fatih Karagümrük",
+          "start_year": 2021,
+          "end_year": 2022
+        },
+        {
+          "club": "Sivasspor",
+          "start_year": 2022,
+          "end_year": 2024
+        },
+        {
+          "club": "Kano Pillars",
+          "start_year": 2024,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "victor-moses-nga",
@@ -11080,7 +13585,39 @@
           "club": "Chelsea FC"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Crystal Palace",
+          "start_year": 2007,
+          "end_year": 2010
+        },
+        {
+          "club": "Wigan Athletic",
+          "start_year": 2010,
+          "end_year": 2012
+        },
+        {
+          "club": "Chelsea",
+          "start_year": 2012,
+          "end_year": 2021
+        },
+        {
+          "club": "Spartak Moscow",
+          "start_year": 2021,
+          "end_year": 2024
+        },
+        {
+          "club": "Luton Town",
+          "start_year": 2024,
+          "end_year": 2025
+        },
+        {
+          "club": "Kaisar",
+          "start_year": 2026,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "joseph-yobo-nga",
@@ -11110,7 +13647,29 @@
           "club": "Norwich City"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Standard Liège",
+          "start_year": 1998,
+          "end_year": 2001
+        },
+        {
+          "club": "Marseille",
+          "start_year": 2001,
+          "end_year": 2003
+        },
+        {
+          "club": "Everton",
+          "start_year": 2003,
+          "end_year": 2012
+        },
+        {
+          "club": "Fenerbahçe",
+          "start_year": 2012,
+          "end_year": 2014
+        }
+      ]
     },
     {
       "id": "xherdan-shaqiri-sui",
@@ -11146,7 +13705,54 @@
           "club": "Chicago Fire FC"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "FC Basel II",
+          "start_year": 2007,
+          "end_year": 2009
+        },
+        {
+          "club": "FC Basel",
+          "start_year": 2009,
+          "end_year": 2012
+        },
+        {
+          "club": "Bayern Munich",
+          "start_year": 2012,
+          "end_year": 2015
+        },
+        {
+          "club": "Inter Milan",
+          "start_year": 2015,
+          "end_year": 2015
+        },
+        {
+          "club": "Stoke City",
+          "start_year": 2015,
+          "end_year": 2018
+        },
+        {
+          "club": "Liverpool",
+          "start_year": 2018,
+          "end_year": 2021
+        },
+        {
+          "club": "Lyon",
+          "start_year": 2021,
+          "end_year": 2022
+        },
+        {
+          "club": "Chicago Fire",
+          "start_year": 2022,
+          "end_year": 2024
+        },
+        {
+          "club": "FC Basel",
+          "start_year": 2024,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "granit-xhaka-sui",
@@ -11182,7 +13788,34 @@
           "club": "Sunderland"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Basel",
+          "start_year": 2010,
+          "end_year": 2012
+        },
+        {
+          "club": "Borussia Mönchengladbach",
+          "start_year": 2012,
+          "end_year": 2016
+        },
+        {
+          "club": "Arsenal",
+          "start_year": 2016,
+          "end_year": 2023
+        },
+        {
+          "club": "Bayer Leverkusen",
+          "start_year": 2023,
+          "end_year": 2025
+        },
+        {
+          "club": "Sunderland",
+          "start_year": 2025,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "yann-sommer-sui",
@@ -11212,7 +13845,34 @@
           "club": "Borussia Mönchengladbach"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "FC Basel U21",
+          "start_year": 2005,
+          "end_year": 2007
+        },
+        {
+          "club": "FC Basel",
+          "start_year": 2007,
+          "end_year": 2014
+        },
+        {
+          "club": "Borussia Mönchengladbach",
+          "start_year": 2014,
+          "end_year": 2023
+        },
+        {
+          "club": "Bayern Munich",
+          "start_year": 2023,
+          "end_year": 2023
+        },
+        {
+          "club": "Inter Milan",
+          "start_year": 2023,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "stephan-lichtsteiner-sui",
@@ -11242,7 +13902,39 @@
           "club": "Juventus FC"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Grasshopper",
+          "start_year": 2001,
+          "end_year": 2005
+        },
+        {
+          "club": "Lille",
+          "start_year": 2005,
+          "end_year": 2008
+        },
+        {
+          "club": "Lazio",
+          "start_year": 2008,
+          "end_year": 2011
+        },
+        {
+          "club": "Juventus",
+          "start_year": 2011,
+          "end_year": 2018
+        },
+        {
+          "club": "Arsenal",
+          "start_year": 2018,
+          "end_year": 2019
+        },
+        {
+          "club": "Augsburg",
+          "start_year": 2019,
+          "end_year": 2020
+        }
+      ]
     },
     {
       "id": "valon-behrami-sui",
@@ -11278,7 +13970,69 @@
           "club": "Udinese Calcio"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Lugano",
+          "start_year": 2002,
+          "end_year": 2003
+        },
+        {
+          "club": "Genoa",
+          "start_year": 2003,
+          "end_year": 2005
+        },
+        {
+          "club": "Lazio",
+          "start_year": 2005,
+          "end_year": 2008
+        },
+        {
+          "club": "West Ham United",
+          "start_year": 2008,
+          "end_year": 2011
+        },
+        {
+          "club": "Fiorentina",
+          "start_year": 2011,
+          "end_year": 2012
+        },
+        {
+          "club": "Napoli",
+          "start_year": 2012,
+          "end_year": 2014
+        },
+        {
+          "club": "Hamburger SV",
+          "start_year": 2014,
+          "end_year": 2015
+        },
+        {
+          "club": "Watford",
+          "start_year": 2015,
+          "end_year": 2017
+        },
+        {
+          "club": "Udinese",
+          "start_year": 2017,
+          "end_year": 2019
+        },
+        {
+          "club": "Sion",
+          "start_year": 2019,
+          "end_year": 2019
+        },
+        {
+          "club": "Genoa",
+          "start_year": 2020,
+          "end_year": 2022
+        },
+        {
+          "club": "Brescia",
+          "start_year": 2022,
+          "end_year": 2022
+        }
+      ]
     },
     {
       "id": "philippe-senderos-sui",
@@ -11308,7 +14062,54 @@
           "club": "Valencia CF"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Servette",
+          "start_year": 2002,
+          "end_year": 2003
+        },
+        {
+          "club": "Arsenal",
+          "start_year": 2003,
+          "end_year": 2010
+        },
+        {
+          "club": "Fulham",
+          "start_year": 2010,
+          "end_year": 2014
+        },
+        {
+          "club": "Valencia",
+          "start_year": 2014,
+          "end_year": 2014
+        },
+        {
+          "club": "Aston Villa",
+          "start_year": 2014,
+          "end_year": 2016
+        },
+        {
+          "club": "Grasshoppers",
+          "start_year": 2016,
+          "end_year": 2016
+        },
+        {
+          "club": "Rangers",
+          "start_year": 2016,
+          "end_year": 2017
+        },
+        {
+          "club": "Houston Dynamo",
+          "start_year": 2017,
+          "end_year": 2018
+        },
+        {
+          "club": "Chiasso",
+          "start_year": 2019,
+          "end_year": 2019
+        }
+      ]
     },
     {
       "id": "hakan-yakin-sui",
@@ -11332,7 +14133,69 @@
           "club": "FC Luzern"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Concordia Basel",
+          "start_year": 1994,
+          "end_year": 1995
+        },
+        {
+          "club": "Basel",
+          "start_year": 1995,
+          "end_year": 1997
+        },
+        {
+          "club": "Grasshoppers",
+          "start_year": 1997,
+          "end_year": 1998
+        },
+        {
+          "club": "Grasshoppers",
+          "start_year": 1999,
+          "end_year": 2001
+        },
+        {
+          "club": "Basel",
+          "start_year": 2001,
+          "end_year": 2003
+        },
+        {
+          "club": "Paris Saint-Germain",
+          "start_year": 2003,
+          "end_year": 2003
+        },
+        {
+          "club": "Basel",
+          "start_year": 2004,
+          "end_year": 2004
+        },
+        {
+          "club": "VfB Stuttgart",
+          "start_year": 2004,
+          "end_year": 2005
+        },
+        {
+          "club": "Young Boys",
+          "start_year": 2005,
+          "end_year": 2008
+        },
+        {
+          "club": "Al-Gharafa",
+          "start_year": 2008,
+          "end_year": 2009
+        },
+        {
+          "club": "Luzern",
+          "start_year": 2009,
+          "end_year": 2011
+        },
+        {
+          "club": "Bellinzona",
+          "start_year": 2012,
+          "end_year": 2013
+        }
+      ]
     },
     {
       "id": "manuel-akanji-sui",
@@ -11362,7 +14225,39 @@
           "club": "Inter Milan"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "FC Winterthur II",
+          "start_year": 2013,
+          "end_year": 2014
+        },
+        {
+          "club": "FC Winterthur",
+          "start_year": 2014,
+          "end_year": 2015
+        },
+        {
+          "club": "FC Basel II",
+          "start_year": 2015,
+          "end_year": 2016
+        },
+        {
+          "club": "FC Basel",
+          "start_year": 2015,
+          "end_year": 2018
+        },
+        {
+          "club": "Borussia Dortmund",
+          "start_year": 2018,
+          "end_year": 2022
+        },
+        {
+          "club": "Manchester City",
+          "start_year": 2022,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "robert-lewandowski-pol",
@@ -11386,7 +14281,49 @@
           "club": "FC Barcelona"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Delta Warsaw",
+          "start_year": 2005,
+          "end_year": 2005
+        },
+        {
+          "club": "Legia Warsaw II",
+          "start_year": 2005,
+          "end_year": 2006
+        },
+        {
+          "club": "Znicz Pruszków II",
+          "start_year": 2006,
+          "end_year": 2006
+        },
+        {
+          "club": "Znicz Pruszków",
+          "start_year": 2006,
+          "end_year": 2008
+        },
+        {
+          "club": "Lech Poznań",
+          "start_year": 2008,
+          "end_year": 2010
+        },
+        {
+          "club": "Borussia Dortmund",
+          "start_year": 2010,
+          "end_year": 2014
+        },
+        {
+          "club": "Bayern Munich",
+          "start_year": 2014,
+          "end_year": 2022
+        },
+        {
+          "club": "Barcelona",
+          "start_year": 2022,
+          "end_year": 2026
+        }
+      ]
     },
     {
       "id": "wojciech-szczesny-pol",
@@ -11410,7 +14347,24 @@
           "club": "Juventus FC"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Arsenal",
+          "start_year": 2009,
+          "end_year": 2017
+        },
+        {
+          "club": "Juventus",
+          "start_year": 2017,
+          "end_year": 2024
+        },
+        {
+          "club": "Barcelona",
+          "start_year": 2024,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "grzegorz-krychowiak-pol",
@@ -11434,7 +14388,54 @@
           "club": "Al-Shabab FC"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Bordeaux",
+          "start_year": 2008,
+          "end_year": 2012
+        },
+        {
+          "club": "Reims",
+          "start_year": 2012,
+          "end_year": 2014
+        },
+        {
+          "club": "Sevilla",
+          "start_year": 2014,
+          "end_year": 2016
+        },
+        {
+          "club": "Paris Saint-Germain",
+          "start_year": 2016,
+          "end_year": 2019
+        },
+        {
+          "club": "Lokomotiv Moscow",
+          "start_year": 2019,
+          "end_year": 2021
+        },
+        {
+          "club": "Krasnodar",
+          "start_year": 2021,
+          "end_year": 2023
+        },
+        {
+          "club": "Abha",
+          "start_year": 2023,
+          "end_year": 2024
+        },
+        {
+          "club": "Anorthosis Famagusta",
+          "start_year": 2024,
+          "end_year": 2025
+        },
+        {
+          "club": "Mazur Radzymin",
+          "start_year": 2025,
+          "end_year": 2025
+        }
+      ]
     },
     {
       "id": "arkadiusz-milik-pol",
@@ -11458,7 +14459,44 @@
           "club": "Juventus FC"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Rozwój Katowice",
+          "start_year": 2010,
+          "end_year": 2011
+        },
+        {
+          "club": "Górnik Zabrze",
+          "start_year": 2011,
+          "end_year": 2013
+        },
+        {
+          "club": "Bayer Leverkusen",
+          "start_year": 2013,
+          "end_year": 2015
+        },
+        {
+          "club": "Ajax",
+          "start_year": 2015,
+          "end_year": 2016
+        },
+        {
+          "club": "Napoli",
+          "start_year": 2016,
+          "end_year": 2022
+        },
+        {
+          "club": "Marseille",
+          "start_year": 2022,
+          "end_year": 2023
+        },
+        {
+          "club": "Juventus",
+          "start_year": 2023,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "piotr-zielinski-pol",
@@ -11482,7 +14520,24 @@
           "club": "SSC Napoli"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Udinese",
+          "start_year": 2012,
+          "end_year": 2016
+        },
+        {
+          "club": "Napoli",
+          "start_year": 2016,
+          "end_year": 2024
+        },
+        {
+          "club": "Inter Milan",
+          "start_year": 2024,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "kamil-glik-pol",
@@ -11506,7 +14561,54 @@
           "club": "Benevento Calcio"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Horadada",
+          "start_year": 2006,
+          "end_year": 2006
+        },
+        {
+          "club": "Real Madrid C",
+          "start_year": 2007,
+          "end_year": 2008
+        },
+        {
+          "club": "Piast Gliwice",
+          "start_year": 2008,
+          "end_year": 2010
+        },
+        {
+          "club": "Palermo",
+          "start_year": 2010,
+          "end_year": 2011
+        },
+        {
+          "club": "Torino",
+          "start_year": 2011,
+          "end_year": 2016
+        },
+        {
+          "club": "Monaco",
+          "start_year": 2016,
+          "end_year": 2020
+        },
+        {
+          "club": "Benevento",
+          "start_year": 2020,
+          "end_year": 2023
+        },
+        {
+          "club": "Cracovia",
+          "start_year": 2023,
+          "end_year": null
+        },
+        {
+          "club": "Cracovia II",
+          "start_year": 2026,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "james-rodriguez-col",
@@ -11536,7 +14638,69 @@
           "club": "Minnesota United FC"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Envigado",
+          "start_year": 2006,
+          "end_year": 2008
+        },
+        {
+          "club": "Banfield",
+          "start_year": 2008,
+          "end_year": 2010
+        },
+        {
+          "club": "Porto",
+          "start_year": 2010,
+          "end_year": 2013
+        },
+        {
+          "club": "Monaco",
+          "start_year": 2013,
+          "end_year": 2014
+        },
+        {
+          "club": "Real Madrid",
+          "start_year": 2014,
+          "end_year": 2020
+        },
+        {
+          "club": "Everton",
+          "start_year": 2020,
+          "end_year": 2021
+        },
+        {
+          "club": "Al-Rayyan",
+          "start_year": 2021,
+          "end_year": 2022
+        },
+        {
+          "club": "Olympiacos",
+          "start_year": 2022,
+          "end_year": 2023
+        },
+        {
+          "club": "São Paulo",
+          "start_year": 2023,
+          "end_year": 2024
+        },
+        {
+          "club": "Rayo Vallecano",
+          "start_year": 2024,
+          "end_year": 2025
+        },
+        {
+          "club": "León",
+          "start_year": 2025,
+          "end_year": 2025
+        },
+        {
+          "club": "Minnesota United",
+          "start_year": 2026,
+          "end_year": 2026
+        }
+      ]
     },
     {
       "id": "juan-cuadrado-col",
@@ -11560,7 +14724,49 @@
           "club": "Juventus FC"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Independiente Medellín",
+          "start_year": 2008,
+          "end_year": 2009
+        },
+        {
+          "club": "Udinese",
+          "start_year": 2009,
+          "end_year": 2012
+        },
+        {
+          "club": "Fiorentina",
+          "start_year": 2012,
+          "end_year": 2015
+        },
+        {
+          "club": "Chelsea",
+          "start_year": 2015,
+          "end_year": 2017
+        },
+        {
+          "club": "Juventus",
+          "start_year": 2017,
+          "end_year": 2023
+        },
+        {
+          "club": "Inter Milan",
+          "start_year": 2023,
+          "end_year": 2024
+        },
+        {
+          "club": "Atalanta",
+          "start_year": 2024,
+          "end_year": 2025
+        },
+        {
+          "club": "Pisa",
+          "start_year": 2025,
+          "end_year": 2026
+        }
+      ]
     },
     {
       "id": "davinson-sanchez-col",
@@ -11584,7 +14790,34 @@
           "club": "Galatasaray"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Atlético Nacional",
+          "start_year": 2013,
+          "end_year": 2016
+        },
+        {
+          "club": "Ajax II",
+          "start_year": 2016,
+          "end_year": 2016
+        },
+        {
+          "club": "Ajax",
+          "start_year": 2016,
+          "end_year": 2017
+        },
+        {
+          "club": "Tottenham Hotspur",
+          "start_year": 2017,
+          "end_year": 2023
+        },
+        {
+          "club": "Galatasaray",
+          "start_year": 2023,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "yerry-mina-col",
@@ -11608,7 +14841,44 @@
           "club": "Cagliari"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Deportivo Pasto",
+          "start_year": 2013,
+          "end_year": 2014
+        },
+        {
+          "club": "Santa Fe",
+          "start_year": 2014,
+          "end_year": 2016
+        },
+        {
+          "club": "Palmeiras",
+          "start_year": 2016,
+          "end_year": 2017
+        },
+        {
+          "club": "Barcelona",
+          "start_year": 2018,
+          "end_year": 2018
+        },
+        {
+          "club": "Everton",
+          "start_year": 2018,
+          "end_year": 2023
+        },
+        {
+          "club": "Fiorentina",
+          "start_year": 2023,
+          "end_year": 2024
+        },
+        {
+          "club": "Cagliari",
+          "start_year": 2024,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "jon-dahl-tomasson-den",
@@ -11632,7 +14902,49 @@
           "club": "Feyenoord Rotterdam"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Køge",
+          "start_year": 1992,
+          "end_year": 1994
+        },
+        {
+          "club": "Heerenveen",
+          "start_year": 1994,
+          "end_year": 1997
+        },
+        {
+          "club": "Newcastle United",
+          "start_year": 1997,
+          "end_year": 1998
+        },
+        {
+          "club": "Feyenoord",
+          "start_year": 1998,
+          "end_year": 2002
+        },
+        {
+          "club": "AC Milan",
+          "start_year": 2002,
+          "end_year": 2005
+        },
+        {
+          "club": "VfB Stuttgart",
+          "start_year": 2005,
+          "end_year": 2007
+        },
+        {
+          "club": "Villarreal",
+          "start_year": 2007,
+          "end_year": 2008
+        },
+        {
+          "club": "Feyenoord",
+          "start_year": 2008,
+          "end_year": 2011
+        }
+      ]
     },
     {
       "id": "christian-eriksen-den",
@@ -11662,7 +14974,39 @@
           "club": "Manchester United"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Ajax",
+          "start_year": 2010,
+          "end_year": 2013
+        },
+        {
+          "club": "Tottenham Hotspur",
+          "start_year": 2013,
+          "end_year": 2020
+        },
+        {
+          "club": "Inter Milan",
+          "start_year": 2020,
+          "end_year": 2021
+        },
+        {
+          "club": "Brentford",
+          "start_year": 2022,
+          "end_year": 2022
+        },
+        {
+          "club": "Manchester United",
+          "start_year": 2022,
+          "end_year": 2025
+        },
+        {
+          "club": "VfL Wolfsburg",
+          "start_year": 2025,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "simon-kjaer-den",
@@ -11692,7 +15036,44 @@
           "club": "AC Milan"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Midtjylland",
+          "start_year": 2007,
+          "end_year": 2008
+        },
+        {
+          "club": "Palermo",
+          "start_year": 2008,
+          "end_year": 2010
+        },
+        {
+          "club": "VfL Wolfsburg",
+          "start_year": 2010,
+          "end_year": 2013
+        },
+        {
+          "club": "Lille",
+          "start_year": 2013,
+          "end_year": 2015
+        },
+        {
+          "club": "Fenerbahçe",
+          "start_year": 2015,
+          "end_year": 2017
+        },
+        {
+          "club": "Sevilla",
+          "start_year": 2017,
+          "end_year": 2020
+        },
+        {
+          "club": "AC Milan",
+          "start_year": 2020,
+          "end_year": 2024
+        }
+      ]
     },
     {
       "id": "freddie-ljungberg-swe",
@@ -11716,7 +15097,49 @@
           "club": "Arsenal FC"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Halmstad",
+          "start_year": 1994,
+          "end_year": 1998
+        },
+        {
+          "club": "Arsenal",
+          "start_year": 1998,
+          "end_year": 2007
+        },
+        {
+          "club": "West Ham United",
+          "start_year": 2007,
+          "end_year": 2008
+        },
+        {
+          "club": "Seattle Sounders FC",
+          "start_year": 2009,
+          "end_year": 2010
+        },
+        {
+          "club": "Chicago Fire",
+          "start_year": 2010,
+          "end_year": 2010
+        },
+        {
+          "club": "Celtic",
+          "start_year": 2011,
+          "end_year": 2011
+        },
+        {
+          "club": "Shimizu S-Pulse",
+          "start_year": 2011,
+          "end_year": 2012
+        },
+        {
+          "club": "Mumbai City",
+          "start_year": 2014,
+          "end_year": 2014
+        }
+      ]
     },
     {
       "id": "olof-mellberg-swe",
@@ -11740,7 +15163,49 @@
           "club": "Aston Villa"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Degerfors IF",
+          "start_year": 1996,
+          "end_year": 1997
+        },
+        {
+          "club": "AIK",
+          "start_year": 1997,
+          "end_year": 1998
+        },
+        {
+          "club": "Racing Santander",
+          "start_year": 1998,
+          "end_year": 2001
+        },
+        {
+          "club": "Aston Villa",
+          "start_year": 2001,
+          "end_year": 2008
+        },
+        {
+          "club": "Juventus",
+          "start_year": 2008,
+          "end_year": 2009
+        },
+        {
+          "club": "Olympiacos",
+          "start_year": 2009,
+          "end_year": 2012
+        },
+        {
+          "club": "Villarreal",
+          "start_year": 2012,
+          "end_year": 2013
+        },
+        {
+          "club": "Copenhagen",
+          "start_year": 2013,
+          "end_year": 2014
+        }
+      ]
     },
     {
       "id": "zlatan-ibrahimovic-swe",
@@ -11764,7 +15229,59 @@
           "club": "Juventus FC"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Malmö FF",
+          "start_year": 1999,
+          "end_year": 2001
+        },
+        {
+          "club": "Ajax",
+          "start_year": 2001,
+          "end_year": 2004
+        },
+        {
+          "club": "Juventus",
+          "start_year": 2004,
+          "end_year": 2006
+        },
+        {
+          "club": "Inter Milan",
+          "start_year": 2006,
+          "end_year": 2009
+        },
+        {
+          "club": "Barcelona",
+          "start_year": 2009,
+          "end_year": 2011
+        },
+        {
+          "club": "AC Milan",
+          "start_year": 2011,
+          "end_year": 2012
+        },
+        {
+          "club": "Paris Saint-Germain",
+          "start_year": 2012,
+          "end_year": 2016
+        },
+        {
+          "club": "Manchester United",
+          "start_year": 2016,
+          "end_year": 2018
+        },
+        {
+          "club": "LA Galaxy",
+          "start_year": 2018,
+          "end_year": 2019
+        },
+        {
+          "club": "AC Milan",
+          "start_year": 2019,
+          "end_year": 2023
+        }
+      ]
     },
     {
       "id": "victor-lindelof-swe",
@@ -11788,7 +15305,34 @@
           "club": "Aston Villa"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Västerås SK",
+          "start_year": 2009,
+          "end_year": 2012
+        },
+        {
+          "club": "Benfica B",
+          "start_year": 2012,
+          "end_year": 2015
+        },
+        {
+          "club": "Benfica",
+          "start_year": 2013,
+          "end_year": 2017
+        },
+        {
+          "club": "Manchester United",
+          "start_year": 2017,
+          "end_year": 2025
+        },
+        {
+          "club": "Aston Villa",
+          "start_year": 2025,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "tim-cahill-aus",
@@ -11824,7 +15368,54 @@
           "club": "Millwall FC"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Sydney United",
+          "start_year": 1997,
+          "end_year": 1997
+        },
+        {
+          "club": "Millwall",
+          "start_year": 1997,
+          "end_year": 2004
+        },
+        {
+          "club": "Everton",
+          "start_year": 2004,
+          "end_year": 2012
+        },
+        {
+          "club": "New York Red Bulls",
+          "start_year": 2012,
+          "end_year": 2015
+        },
+        {
+          "club": "Shanghai Shenhua",
+          "start_year": 2015,
+          "end_year": 2016
+        },
+        {
+          "club": "Hangzhou Greentown",
+          "start_year": 2016,
+          "end_year": 2016
+        },
+        {
+          "club": "Melbourne City",
+          "start_year": 2016,
+          "end_year": 2017
+        },
+        {
+          "club": "Millwall",
+          "start_year": 2018,
+          "end_year": 2018
+        },
+        {
+          "club": "Jamshedpur",
+          "start_year": 2018,
+          "end_year": 2019
+        }
+      ]
     },
     {
       "id": "harry-kewell-aus",
@@ -11848,7 +15439,39 @@
           "club": "Galatasaray"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Leeds United",
+          "start_year": 1996,
+          "end_year": 2003
+        },
+        {
+          "club": "Liverpool",
+          "start_year": 2003,
+          "end_year": 2008
+        },
+        {
+          "club": "Galatasaray",
+          "start_year": 2008,
+          "end_year": 2011
+        },
+        {
+          "club": "Melbourne Victory",
+          "start_year": 2011,
+          "end_year": 2012
+        },
+        {
+          "club": "Al-Gharafa",
+          "start_year": 2013,
+          "end_year": 2013
+        },
+        {
+          "club": "Melbourne Heart",
+          "start_year": 2013,
+          "end_year": 2014
+        }
+      ]
     },
     {
       "id": "mile-jedinak-aus",
@@ -11878,7 +15501,34 @@
           "club": "Aston Villa"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Sydney United",
+          "start_year": 2001,
+          "end_year": 2006
+        },
+        {
+          "club": "Central Coast Mariners",
+          "start_year": 2006,
+          "end_year": 2009
+        },
+        {
+          "club": "Gençlerbirliği",
+          "start_year": 2009,
+          "end_year": 2011
+        },
+        {
+          "club": "Crystal Palace",
+          "start_year": 2011,
+          "end_year": 2016
+        },
+        {
+          "club": "Aston Villa",
+          "start_year": 2016,
+          "end_year": 2019
+        }
+      ]
     },
     {
       "id": "samuel-etoo-cmr",
@@ -11908,7 +15558,64 @@
           "club": "Chelsea FC"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Real Madrid",
+          "start_year": 1997,
+          "end_year": 2000
+        },
+        {
+          "club": "Mallorca",
+          "start_year": 2000,
+          "end_year": 2004
+        },
+        {
+          "club": "Barcelona",
+          "start_year": 2004,
+          "end_year": 2009
+        },
+        {
+          "club": "Inter Milan",
+          "start_year": 2009,
+          "end_year": 2011
+        },
+        {
+          "club": "Anzhi Makhachkala",
+          "start_year": 2011,
+          "end_year": 2013
+        },
+        {
+          "club": "Chelsea",
+          "start_year": 2013,
+          "end_year": 2014
+        },
+        {
+          "club": "Everton",
+          "start_year": 2014,
+          "end_year": 2015
+        },
+        {
+          "club": "Sampdoria",
+          "start_year": 2015,
+          "end_year": 2015
+        },
+        {
+          "club": "Antalyaspor",
+          "start_year": 2015,
+          "end_year": 2018
+        },
+        {
+          "club": "Konyaspor",
+          "start_year": 2018,
+          "end_year": 2018
+        },
+        {
+          "club": "Qatar SC",
+          "start_year": 2018,
+          "end_year": 2019
+        }
+      ]
     },
     {
       "id": "njitap-geremi-cmr",
@@ -11932,7 +15639,49 @@
           "club": "MKE Ankaragücü"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Racing Bafoussam",
+          "start_year": 1995,
+          "end_year": 1996
+        },
+        {
+          "club": "Cerro Porteño",
+          "start_year": 1996,
+          "end_year": 1997
+        },
+        {
+          "club": "Gençlerbirliği",
+          "start_year": 1997,
+          "end_year": 1999
+        },
+        {
+          "club": "Real Madrid",
+          "start_year": 1999,
+          "end_year": 2003
+        },
+        {
+          "club": "Chelsea",
+          "start_year": 2003,
+          "end_year": 2007
+        },
+        {
+          "club": "Newcastle United",
+          "start_year": 2007,
+          "end_year": 2009
+        },
+        {
+          "club": "Ankaragücü",
+          "start_year": 2010,
+          "end_year": 2010
+        },
+        {
+          "club": "AEL",
+          "start_year": 2010,
+          "end_year": 2011
+        }
+      ]
     },
     {
       "id": "rigobert-song-cmr",
@@ -11956,7 +15705,44 @@
           "club": "Trabzonspor"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Metz",
+          "start_year": 1993,
+          "end_year": 1998
+        },
+        {
+          "club": "Salernitana",
+          "start_year": 1998,
+          "end_year": 1998
+        },
+        {
+          "club": "Liverpool",
+          "start_year": 1999,
+          "end_year": 2000
+        },
+        {
+          "club": "West Ham United",
+          "start_year": 2000,
+          "end_year": 2002
+        },
+        {
+          "club": "Lens",
+          "start_year": 2002,
+          "end_year": 2004
+        },
+        {
+          "club": "Galatasaray",
+          "start_year": 2004,
+          "end_year": 2008
+        },
+        {
+          "club": "Trabzonspor",
+          "start_year": 2008,
+          "end_year": 2010
+        }
+      ]
     },
     {
       "id": "antonio-valencia-ecu",
@@ -11978,15 +15764,41 @@
           "games": 3,
           "goals": 0,
           "club": "Manchester United"
-        },
-        {
-          "year": 2026,
-          "games": 0,
-          "goals": 0,
-          "club": "Antwerp"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "El Nacional",
+          "start_year": 2003,
+          "end_year": 2005
+        },
+        {
+          "club": "Villarreal",
+          "start_year": 2005,
+          "end_year": 2008
+        },
+        {
+          "club": "Wigan Athletic",
+          "start_year": 2008,
+          "end_year": 2009
+        },
+        {
+          "club": "Manchester United",
+          "start_year": 2009,
+          "end_year": 2019
+        },
+        {
+          "club": "LDU Quito",
+          "start_year": 2019,
+          "end_year": 2020
+        },
+        {
+          "club": "Querétaro",
+          "start_year": 2020,
+          "end_year": 2021
+        }
+      ]
     },
     {
       "id": "agustin-delgado-ecu",
@@ -12010,7 +15822,79 @@
           "club": "LDU Quito"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "ESPOLI",
+          "start_year": 1991,
+          "end_year": 1992
+        },
+        {
+          "club": "Barcelona SC",
+          "start_year": 1993,
+          "end_year": 1994
+        },
+        {
+          "club": "El Nacional",
+          "start_year": 1995,
+          "end_year": 1996
+        },
+        {
+          "club": "Independiente Medellín",
+          "start_year": 1997,
+          "end_year": 1997
+        },
+        {
+          "club": "Barcelona SC",
+          "start_year": 1997,
+          "end_year": 1998
+        },
+        {
+          "club": "Cruz Azul",
+          "start_year": 1998,
+          "end_year": 1998
+        },
+        {
+          "club": "Necaxa",
+          "start_year": 1999,
+          "end_year": 2001
+        },
+        {
+          "club": "Southampton",
+          "start_year": 2001,
+          "end_year": 2004
+        },
+        {
+          "club": "Aucas",
+          "start_year": 2004,
+          "end_year": 2004
+        },
+        {
+          "club": "UNAM",
+          "start_year": 2004,
+          "end_year": 2004
+        },
+        {
+          "club": "Barcelona SC",
+          "start_year": 2005,
+          "end_year": 2005
+        },
+        {
+          "club": "L.D.U. Quito",
+          "start_year": 2006,
+          "end_year": 2008
+        },
+        {
+          "club": "Emelec",
+          "start_year": 2009,
+          "end_year": 2009
+        },
+        {
+          "club": "Valle del Chota",
+          "start_year": 2010,
+          "end_year": 2010
+        }
+      ]
     },
     {
       "id": "enner-valencia-ecu",
@@ -12040,7 +15924,44 @@
           "club": "Pachuca"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Emelec",
+          "start_year": 2010,
+          "end_year": 2013
+        },
+        {
+          "club": "Pachuca",
+          "start_year": 2014,
+          "end_year": 2014
+        },
+        {
+          "club": "West Ham United",
+          "start_year": 2014,
+          "end_year": 2017
+        },
+        {
+          "club": "Tigres UANL",
+          "start_year": 2017,
+          "end_year": 2020
+        },
+        {
+          "club": "Fenerbahçe",
+          "start_year": 2020,
+          "end_year": 2023
+        },
+        {
+          "club": "Internacional",
+          "start_year": 2023,
+          "end_year": 2025
+        },
+        {
+          "club": "Pachuca",
+          "start_year": 2025,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "moises-caicedo-ecu",
@@ -12064,7 +15985,24 @@
           "club": "Chelsea"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Independiente del Valle",
+          "start_year": 2019,
+          "end_year": 2021
+        },
+        {
+          "club": "Brighton & Hove Albion",
+          "start_year": 2021,
+          "end_year": 2023
+        },
+        {
+          "club": "Chelsea",
+          "start_year": 2023,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "javad-nekounam-irn",
@@ -12088,7 +16026,49 @@
           "club": "Kuwait SC"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Pas",
+          "start_year": 1998,
+          "end_year": 2005
+        },
+        {
+          "club": "Al-Wahda",
+          "start_year": 2005,
+          "end_year": 2006
+        },
+        {
+          "club": "Osasuna",
+          "start_year": 2006,
+          "end_year": 2012
+        },
+        {
+          "club": "Esteghlal",
+          "start_year": 2012,
+          "end_year": 2014
+        },
+        {
+          "club": "Al-Kuwait",
+          "start_year": 2014,
+          "end_year": 2014
+        },
+        {
+          "club": "Osasuna",
+          "start_year": 2014,
+          "end_year": 2015
+        },
+        {
+          "club": "Saipa",
+          "start_year": 2015,
+          "end_year": 2016
+        },
+        {
+          "club": "Al-Arabi",
+          "start_year": 2016,
+          "end_year": 2016
+        }
+      ]
     },
     {
       "id": "sardar-azmoun-irn",
@@ -12112,7 +16092,39 @@
           "club": "Bayer 04 Leverkusen"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Rubin Kazan",
+          "start_year": 2013,
+          "end_year": 2016
+        },
+        {
+          "club": "Rostov",
+          "start_year": 2016,
+          "end_year": 2017
+        },
+        {
+          "club": "Rubin Kazan",
+          "start_year": 2017,
+          "end_year": 2019
+        },
+        {
+          "club": "Zenit Saint Petersburg",
+          "start_year": 2019,
+          "end_year": 2022
+        },
+        {
+          "club": "Bayer Leverkusen",
+          "start_year": 2022,
+          "end_year": 2024
+        },
+        {
+          "club": "Shabab Al Ahli",
+          "start_year": 2024,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "igor-akinfeev-rus",
@@ -12136,7 +16148,14 @@
           "club": "CSKA Moscow"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "CSKA Moscow",
+          "start_year": 2003,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "nemanja-vidic-lrm--srb",
@@ -12160,7 +16179,29 @@
           "club": "Manchester United"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Red Star Belgrade",
+          "start_year": 2000,
+          "end_year": 2004
+        },
+        {
+          "club": "Spartak Moscow",
+          "start_year": 2004,
+          "end_year": 2006
+        },
+        {
+          "club": "Manchester United",
+          "start_year": 2006,
+          "end_year": 2014
+        },
+        {
+          "club": "Inter Milan",
+          "start_year": 2014,
+          "end_year": 2016
+        }
+      ]
     },
     {
       "id": "dejan-stankovic-srb",
@@ -12184,7 +16225,24 @@
           "club": "Inter Milan"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Red Star Belgrade",
+          "start_year": 1995,
+          "end_year": 1998
+        },
+        {
+          "club": "Lazio",
+          "start_year": 1998,
+          "end_year": 2004
+        },
+        {
+          "club": "Inter Milan",
+          "start_year": 2004,
+          "end_year": 2013
+        }
+      ]
     },
     {
       "id": "nelson-valdez-par",
@@ -12208,7 +16266,59 @@
           "club": "Borussia Dortmund"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Tembetary",
+          "start_year": 2000,
+          "end_year": 2001
+        },
+        {
+          "club": "Werder Bremen II",
+          "start_year": 2001,
+          "end_year": 2005
+        },
+        {
+          "club": "Werder Bremen",
+          "start_year": 2002,
+          "end_year": 2006
+        },
+        {
+          "club": "Borussia Dortmund",
+          "start_year": 2006,
+          "end_year": 2010
+        },
+        {
+          "club": "Hércules",
+          "start_year": 2010,
+          "end_year": 2011
+        },
+        {
+          "club": "Rubin Kazan",
+          "start_year": 2011,
+          "end_year": 2013
+        },
+        {
+          "club": "Al Jazira",
+          "start_year": 2013,
+          "end_year": 2014
+        },
+        {
+          "club": "Eintracht Frankfurt",
+          "start_year": 2014,
+          "end_year": 2015
+        },
+        {
+          "club": "Seattle Sounders FC",
+          "start_year": 2015,
+          "end_year": 2016
+        },
+        {
+          "club": "Cerro Porteño",
+          "start_year": 2017,
+          "end_year": 2020
+        }
+      ]
     },
     {
       "id": "hakim-ziyech-mar",
@@ -12232,7 +16342,49 @@
           "club": "Chelsea FC"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Heerenveen II",
+          "start_year": 2012,
+          "end_year": 2013
+        },
+        {
+          "club": "Heerenveen",
+          "start_year": 2012,
+          "end_year": 2014
+        },
+        {
+          "club": "Twente",
+          "start_year": 2014,
+          "end_year": 2016
+        },
+        {
+          "club": "Ajax",
+          "start_year": 2016,
+          "end_year": 2020
+        },
+        {
+          "club": "Chelsea",
+          "start_year": 2020,
+          "end_year": 2023
+        },
+        {
+          "club": "Galatasaray",
+          "start_year": 2023,
+          "end_year": 2025
+        },
+        {
+          "club": "Al-Duhail",
+          "start_year": 2025,
+          "end_year": 2025
+        },
+        {
+          "club": "Wydad",
+          "start_year": 2025,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "achraf-hakimi-mar",
@@ -12262,7 +16414,29 @@
           "club": "Paris Saint-Germain"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Real Madrid B",
+          "start_year": 2016,
+          "end_year": 2017
+        },
+        {
+          "club": "Real Madrid",
+          "start_year": 2017,
+          "end_year": 2020
+        },
+        {
+          "club": "Inter Milan",
+          "start_year": 2020,
+          "end_year": 2021
+        },
+        {
+          "club": "Paris Saint-Germain",
+          "start_year": 2021,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "youssef-en-nesyri-mar",
@@ -12286,7 +16460,39 @@
           "club": "Sevilla FC"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Atlético Malagueño",
+          "start_year": 2016,
+          "end_year": 2017
+        },
+        {
+          "club": "Málaga",
+          "start_year": 2016,
+          "end_year": 2018
+        },
+        {
+          "club": "Leganés",
+          "start_year": 2018,
+          "end_year": 2020
+        },
+        {
+          "club": "Sevilla",
+          "start_year": 2020,
+          "end_year": 2024
+        },
+        {
+          "club": "Fenerbahçe",
+          "start_year": 2024,
+          "end_year": 2026
+        },
+        {
+          "club": "Al-Ittihad",
+          "start_year": 2026,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "kasper-schmeichel-den",
@@ -12310,7 +16516,44 @@
           "club": "OGC Nice"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Manchester City",
+          "start_year": 2006,
+          "end_year": 2009
+        },
+        {
+          "club": "Notts County",
+          "start_year": 2009,
+          "end_year": 2010
+        },
+        {
+          "club": "Leeds United",
+          "start_year": 2010,
+          "end_year": 2011
+        },
+        {
+          "club": "Leicester City",
+          "start_year": 2011,
+          "end_year": 2022
+        },
+        {
+          "club": "Nice",
+          "start_year": 2022,
+          "end_year": 2023
+        },
+        {
+          "club": "Anderlecht",
+          "start_year": 2023,
+          "end_year": 2024
+        },
+        {
+          "club": "Celtic",
+          "start_year": 2024,
+          "end_year": 2026
+        }
+      ]
     },
     {
       "id": "serge-gnabry-ger",
@@ -12334,7 +16577,24 @@
           "club": "Bayern Munich"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Arsenal",
+          "start_year": 2012,
+          "end_year": 2016
+        },
+        {
+          "club": "Werder Bremen",
+          "start_year": 2016,
+          "end_year": 2017
+        },
+        {
+          "club": "Bayern Munich",
+          "start_year": 2017,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "florian-wirtz-ger",
@@ -12358,7 +16618,19 @@
           "club": "Liverpool"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Bayer Leverkusen",
+          "start_year": 2020,
+          "end_year": 2025
+        },
+        {
+          "club": "Liverpool",
+          "start_year": 2025,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "ngolo-kante-fra",
@@ -12388,7 +16660,39 @@
           "club": "Fenerbahçe"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Boulogne",
+          "start_year": 2012,
+          "end_year": 2013
+        },
+        {
+          "club": "Caen",
+          "start_year": 2013,
+          "end_year": 2015
+        },
+        {
+          "club": "Leicester City",
+          "start_year": 2015,
+          "end_year": 2016
+        },
+        {
+          "club": "Chelsea",
+          "start_year": 2016,
+          "end_year": 2023
+        },
+        {
+          "club": "Al-Ittihad",
+          "start_year": 2023,
+          "end_year": 2026
+        },
+        {
+          "club": "Fenerbahçe",
+          "start_year": 2026,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "nani-por",
@@ -12412,7 +16716,64 @@
           "club": "Manchester United"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Sporting CP",
+          "start_year": 2005,
+          "end_year": 2007
+        },
+        {
+          "club": "Manchester United",
+          "start_year": 2007,
+          "end_year": 2015
+        },
+        {
+          "club": "Fenerbahçe",
+          "start_year": 2015,
+          "end_year": 2016
+        },
+        {
+          "club": "Valencia",
+          "start_year": 2016,
+          "end_year": 2018
+        },
+        {
+          "club": "Sporting CP",
+          "start_year": 2018,
+          "end_year": 2019
+        },
+        {
+          "club": "Orlando City",
+          "start_year": 2019,
+          "end_year": 2021
+        },
+        {
+          "club": "Venezia",
+          "start_year": 2022,
+          "end_year": 2022
+        },
+        {
+          "club": "Melbourne Victory",
+          "start_year": 2022,
+          "end_year": 2023
+        },
+        {
+          "club": "Adana Demirspor",
+          "start_year": 2023,
+          "end_year": 2024
+        },
+        {
+          "club": "Estrela da Amadora",
+          "start_year": 2024,
+          "end_year": 2024
+        },
+        {
+          "club": "Aktobe",
+          "start_year": 2026,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "georginio-wijnaldum-ned",
@@ -12436,7 +16797,39 @@
           "club": "AS Roma"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Feyenoord",
+          "start_year": 2007,
+          "end_year": 2011
+        },
+        {
+          "club": "PSV",
+          "start_year": 2011,
+          "end_year": 2015
+        },
+        {
+          "club": "Newcastle United",
+          "start_year": 2015,
+          "end_year": 2016
+        },
+        {
+          "club": "Liverpool",
+          "start_year": 2016,
+          "end_year": 2021
+        },
+        {
+          "club": "Paris Saint-Germain",
+          "start_year": 2021,
+          "end_year": 2023
+        },
+        {
+          "club": "Al-Ettifaq",
+          "start_year": 2023,
+          "end_year": null
+        }
+      ]
     },
     {
       "id": "jakub-blaszczykowski-pol",
@@ -12460,7 +16853,34 @@
           "club": "Wisla Kraków"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "KS Częstochowa",
+          "start_year": 2003,
+          "end_year": 2004
+        },
+        {
+          "club": "Wisła Kraków",
+          "start_year": 2004,
+          "end_year": 2007
+        },
+        {
+          "club": "Borussia Dortmund",
+          "start_year": 2007,
+          "end_year": 2016
+        },
+        {
+          "club": "VfL Wolfsburg",
+          "start_year": 2016,
+          "end_year": 2019
+        },
+        {
+          "club": "Wisła Kraków",
+          "start_year": 2019,
+          "end_year": 2023
+        }
+      ]
     },
     {
       "id": "radamel-falcao-col",
@@ -12484,11 +16904,53 @@
           "club": "AS Monaco"
         }
       ],
-      "validation_status": "validated"
+      "validation_status": "validated",
+      "career_clubs": [
+        {
+          "club": "Lanceros Boyacá",
+          "start_year": 1999,
+          "end_year": 2001
+        },
+        {
+          "club": "River Plate",
+          "start_year": 2004,
+          "end_year": 2009
+        },
+        {
+          "club": "Porto",
+          "start_year": 2009,
+          "end_year": 2011
+        },
+        {
+          "club": "Atlético Madrid",
+          "start_year": 2011,
+          "end_year": 2013
+        },
+        {
+          "club": "Monaco",
+          "start_year": 2013,
+          "end_year": 2019
+        },
+        {
+          "club": "Galatasaray",
+          "start_year": 2019,
+          "end_year": 2021
+        },
+        {
+          "club": "Rayo Vallecano",
+          "start_year": 2021,
+          "end_year": 2024
+        },
+        {
+          "club": "Millonarios",
+          "start_year": 2024,
+          "end_year": null
+        }
+      ]
     }
   ],
   "summary": {
     "validated_players": 286,
-    "players_with_2026_entry": 81
+    "players_with_2026_entry": 79
   }
 }

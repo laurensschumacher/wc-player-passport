@@ -2,9 +2,10 @@ import { useEffect, useMemo, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { flagFromCode } from "../utils/flagEmoji";
 import HintButton from "./HintButton";
+import PositionBadge from "./PositionBadge";
 import TournamentRow from "./TournamentRow";
 import CareerClubRow from "./CareerClubRow";
-import ClubsHintButton from "./ClubsHintButton";
+import { CLUBS_HINT_COST, HINT_COST } from "../utils/scoring";
 
 function buildTimeline(player, includeClubs) {
   const wcs = (player.world_cups || [])
@@ -72,6 +73,9 @@ export default function GameCard({
   if (!player) return null;
 
   const positionRevealedNow = hintRevealed || status !== "playing";
+  const showPositionButton = status === "playing" && !hintRevealed;
+  const showClubsButton =
+    status === "playing" && !clubsRevealed && hasClubData;
 
   return (
     <motion.div
@@ -92,12 +96,7 @@ export default function GameCard({
             {status === "playing" ? "Mystery Player" : player.name}
           </span>
         </div>
-        <HintButton
-          revealed={positionRevealedNow}
-          position={player.position}
-          onReveal={onRevealHint}
-          disabled={status !== "playing" && !hintRevealed}
-        />
+        {positionRevealedNow && <PositionBadge position={player.position} />}
       </div>
 
       <div>
@@ -121,14 +120,24 @@ export default function GameCard({
         </AnimatePresence>
       </div>
 
-      {status === "playing" && hasClubData && !clubsRevealed && (
-        <div className="px-4 pb-3 pt-2 border-t border-slate-800/60">
-          <ClubsHintButton
-            revealed={false}
-            hasData
-            onReveal={onRevealClubsHint}
-            disabled={false}
-          />
+      {(showPositionButton || showClubsButton) && (
+        <div className="px-4 pb-3 pt-3 border-t border-slate-800/60 space-y-2">
+          {showPositionButton && (
+            <HintButton
+              icon="🎯"
+              label="Reveal position"
+              cost={HINT_COST}
+              onReveal={onRevealHint}
+            />
+          )}
+          {showClubsButton && (
+            <HintButton
+              icon="🏟️"
+              label="Reveal all clubs"
+              cost={CLUBS_HINT_COST}
+              onReveal={onRevealClubsHint}
+            />
+          )}
         </div>
       )}
     </motion.div>
