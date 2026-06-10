@@ -1,11 +1,19 @@
 import { motion } from "framer-motion";
 import { MAX_ROUND_SCORE, QUESTIONS_PER_ROUND } from "../utils/scoring";
 
-export default function RoundSummary({ round, results, history, onStartNext }) {
+export default function RoundSummary({
+  round,
+  results,
+  history,
+  highScore = 0,
+  onStartNext,
+}) {
   const total = results.reduce((sum, r) => sum + r.score, 0);
   const avg =
     results.length > 0 ? Math.round(total / results.length) : 0;
   const solved = results.filter((r) => r.status === "won").length;
+  const isNewHigh = total > highScore;
+  const bestSoFar = Math.max(highScore, total);
 
   return (
     <motion.div
@@ -30,6 +38,19 @@ export default function RoundSummary({ round, results, history, onStartNext }) {
           </span>{" "}
           per question
         </div>
+        {isNewHigh ? (
+          <div className="mt-2 inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-amber-500/15 ring-1 ring-amber-500/40 text-amber-300 text-xs font-semibold">
+            <span aria-hidden>🏆</span>
+            New high score!
+          </div>
+        ) : highScore > 0 ? (
+          <div className="mt-2 text-xs text-slate-500">
+            Best:{" "}
+            <span className="text-slate-300 font-semibold tabular-nums">
+              {bestSoFar}
+            </span>
+          </div>
+        ) : null}
       </div>
 
       <div className="bg-slate-900 ring-1 ring-slate-800 rounded-2xl overflow-hidden">
@@ -93,7 +114,7 @@ export default function RoundSummary({ round, results, history, onStartNext }) {
         onClick={onStartNext}
         className="w-full min-h-[48px] rounded-xl bg-indigo-600 hover:bg-indigo-500 active:bg-indigo-700 font-semibold text-white transition-colors"
       >
-        Start round {round.number + 1} →
+        Start new round →
       </button>
     </motion.div>
   );

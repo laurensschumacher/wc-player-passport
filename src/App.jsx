@@ -31,6 +31,12 @@ export default function App() {
   const [roundResults, setRoundResults] = useState([]);
   const [showRoundSummary, setShowRoundSummary] = useState(false);
   const [history, setHistory] = useState({ roundsCompleted: 0, totalScore: 0 });
+  const [highScore, setHighScore] = useState(() => {
+    if (typeof window === "undefined") return 0;
+    const raw = window.localStorage.getItem("playport.highScore");
+    const n = raw ? parseInt(raw, 10) : 0;
+    return Number.isFinite(n) && n > 0 ? n : 0;
+  });
   const [pendingDelta, setPendingDelta] = useState(null);
   const lastScoredRound = useRef(null);
 
@@ -87,6 +93,15 @@ export default function App() {
         roundsCompleted: h.roundsCompleted + 1,
         totalScore: h.totalScore + round.roundScore,
       }));
+      if (round.roundScore > highScore) {
+        setHighScore(round.roundScore);
+        if (typeof window !== "undefined") {
+          window.localStorage.setItem(
+            "playport.highScore",
+            String(round.roundScore),
+          );
+        }
+      }
       setRound({
         number: round.number + 1,
         roundScore: 0,
@@ -166,6 +181,7 @@ export default function App() {
           round={round}
           questionNumber={questionNumber}
           history={history}
+          highScore={highScore}
         />
 
         {showRoundSummary ? (
@@ -173,6 +189,7 @@ export default function App() {
             round={round}
             results={roundResults}
             history={history}
+            highScore={highScore}
             onStartNext={handleNext}
           />
         ) : (

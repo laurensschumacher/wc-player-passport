@@ -1,7 +1,13 @@
 import { motion, AnimatePresence } from "framer-motion";
 import { QUESTIONS_PER_ROUND } from "../utils/scoring";
 
-export default function ScoreDisplay({ score, round, questionNumber, history }) {
+export default function ScoreDisplay({
+  score,
+  round,
+  questionNumber,
+  history,
+  highScore = 0,
+}) {
   return (
     <div className="flex items-center justify-between gap-4">
       <div className="flex items-baseline gap-2">
@@ -36,6 +42,14 @@ export default function ScoreDisplay({ score, round, questionNumber, history }) 
             {round.roundScore}
           </span>{" "}
           pts this round
+          {highScore > 0 && (
+            <>
+              {" · best "}
+              <span className="text-amber-300 font-semibold">
+                {highScore}
+              </span>
+            </>
+          )}
           {history.roundsCompleted > 0 && (
             <>
               {" · "}
