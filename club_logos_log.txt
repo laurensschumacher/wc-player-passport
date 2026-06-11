@@ -1,11 +1,300 @@
-Unique clubs: 636
+Unique clubs: 870
+  [ 14/870] AEK Larnaca                         -> 'AEK Larnaca FC'
+  [ 18/870] AGF                                 -> NO MATCH
+  [ 23/870] APOEL                               -> 'APOEL FC'
+  [ 37/870] Akhisarspor                         -> NO MATCH
+  [ 38/870] Akron Tolyatti                      -> 'FC Akron Tolyatti'
+  [ 41/870] Al Ahly                             -> 'Al Ahly SC'
+  [ 43/870] Al Bataeh                           -> 'Al Bataeh Club'
+  [ 44/870] Al Dhafra                           -> 'Al Dhafra FC'
+  [ 48/870] Al Nasr                             -> 'Al-Nasr SC (Dubai)'
+  [ 51/870] Al-Ahli                             -> 'Al-Ahli Saudi FC'
+  [ 56/870] Al-Faisaly                          -> 'Al Faisaly FC'
+  [ 57/870] Al-Fateh                            -> 'Al Fateh SC'
+  [ 62/870] Al-Hussein                          -> 'Al-Hussein SC (Irbid)'
+  [ 64/870] Al-Karma                            -> 'Al-Karma SC'
+  [ 68/870] Al-Qadsiah                          -> 'Al Qadsiah FC'
+  [ 71/870] Al-Sadd                             -> 'Al Sadd SC'
+  [ 73/870] Al-Sailiya                          -> 'Al-Sailiya SC'
+  [ 78/870] Al-Talaba                           -> 'Al-Talaba SC'
+  [ 81/870] Al-Wakrah                           -> 'Al-Wakrah SC'
+  [ 83/870] Al-Zawraa                           -> 'Al-Zawraa SC'
+  [ 89/870] Alès                                -> NO MATCH
+  [ 92/870] Angers                              -> 'Angers SCO'
+  [ 97/870] Antwerp                             -> 'Royal Antwerp FC'
+  [100/870] Apollon Limassol                    -> 'Apollon Limassol FC'
+  [106/870] Arta/Solar7                         -> NO MATCH
+  [108/870] Astana                              -> 'FC Astana'
+  [114/870] Atlanta United FC                   -> 'Atlanta United FC'
+  [120/870] Atlético Malagueño                  -> NO MATCH
+  [125/870] Atromitos                           -> 'Atromitos F.C.'
+  [127/870] Auckland FC                         -> 'Auckland FC'
+  [131/870] Auxerre                             -> NO MATCH
+  [134/870] Bahia                               -> NO MATCH
+  [136/870] Banfield                            -> NO MATCH
+  [151/870] Bellinzona                          -> NO MATCH
+  [153/870] Belstone                            -> NO MATCH
+  [165/870] Bodø/Glimt                          -> 'FK Bodø/Glimt'
+  [177/870] Boulogne                            -> NO MATCH
+  [181/870] Brandsen                            -> NO MATCH
+  [186/870] Brøndby                             -> 'Brøndby IF'
+  [187/870] Bukhara                             -> 'FC Bukhara'
+  [194/870] CS Sfaxien                          -> 'CS Sfaxien'
+  [199/870] Cannes                              -> NO MATCH
+  [201/870] Casa Pia                            -> 'Casa Pia A.C.'
+  [202/870] Castellón                           -> 'CD Castellón'
+  [203/870] Celta Vigo                          -> 'RC Celta de Vigo'
+  [207/870] Cercle Brugge                       -> 'Cercle Brugge KSV'
+  [212/870] Charleroi                           -> 'RAAL La Louvière'
+  [213/870] Charlotte FC                        -> 'Charlotte FC'
+  [214/870] Charlton Athletic                   -> 'Charlton Athletic F.C.'
+  [215/870] Chaves                              -> 'G.D. Chaves'
+  [225/870] Club Africain                       -> 'Club Africain'
+  [226/870] Club Brugge                         -> 'Club Brugge KV'
+  [230/870] Cobresal                            -> 'Cobresal'
+  [232/870] Colorado Springs Switchbacks FC     -> 'Colorado Springs Switchbacks FC'
+  [233/870] Columbus Crew                       -> 'Columbus Crew'
+  [238/870] Cornellà                            -> NO MATCH
+  [239/870] Cosmos Koblenz                      -> 'FC Cosmos Koblenz'
+  [243/870] Cremonese                           -> 'US Cremonese'
+  [247/870] Cultural Leonesa                    -> 'Cultural y Deportiva Leonesa'
+  [249/870] Daejeon Hana Citizen                -> 'Daejeon Hana Citizen'
+  [250/870] Dalian Professional (2009-2024)     -> NO MATCH
+  [256/870] Delta Warsaw                        -> NO MATCH
+  [257/870] Den Bosch                           -> 'FC Den Bosch'
+  [258/870] Dender                              -> 'FCV Dender EH'
+  [261/870] Deportivo La Guaira                 -> 'Deportivo La Guaira F.C.'
+  [264/870] Derby County                        -> 'Derby County F.C.'
+  [266/870] Dibba                               -> 'Dibba FC'
+  [267/870] Dinamo Samarqand                    -> 'FC Dinamo Samarqand'
+  [271/870] Dynamo Makhachkala                  -> 'FC Dynamo Makhachkala'
+  [275/870] El Gouna                            -> 'El Gouna FC'
+  [277/870] El Paso Locomotive FC               -> 'El Paso Locomotive FC'
+  [278/870] Elche                               -> 'Elche CF'
+  [283/870] Espérance de Tunis                  -> 'Espérance Sportive de Tunis'
+  [285/870] Estrela Amadora                     -> 'C.F. Estrela da Amadora'
+  [294/870] FC Augsburg                         -> 'FC Augsburg'
+  [300/870] FC Cincinnati                       -> 'FC Cincinnati'
+  [301/870] FC Dallas                           -> 'FC Dallas'
+  [309/870] FC St. Pauli                        -> 'FC St. Pauli'
+  [313/870] FCSB                                -> 'FCSB'
+  [315/870] Farense                             -> 'S.C. Farense'
+  [319/870] Ferencváros                         -> 'Ferencvárosi TC'
+  [326/870] Foolad                              -> 'Foolad F.C.'
+  [329/870] Frosinone                           -> 'Frosinone Calcio'
+  [332/870] GBS Academy                         -> NO MATCH
+  [335/870] Gallos Caliente Tijuana             -> NO MATCH
+  [337/870] Gangwon FC                          -> 'Gangwon FC'
+  [338/870] Gaziantep                           -> 'Gaziantep F.K.'
+  [341/870] Gent                                -> NO MATCH
+  [343/870] Gil Vicente                         -> 'Gil Vicente F.C.'
+  [344/870] Girona                              -> 'Girona FC'
+  [345/870] Granada                             -> 'Granada CF'
+  [348/870] Grazer AK                           -> 'Grazer AK'
+  [353/870] Guadalajara                         -> 'C.D. Guadalajara'
+  [355/870] Guingamp                            -> NO MATCH
+  [356/870] Győri ETO                           -> 'Győri ETO FC'
+  [366/870] Heart of Midlothian                 -> 'Heart of Midlothian F.C.'
+  [369/870] Hebei FC (2010-2023)                -> NO MATCH
+  [373/870] Heracles Almelo                     -> 'Heracles Almelo'
+  [376/870] Hibernian                           -> 'Hibernian F.C.'
+  [377/870] Holstein Kiel                       -> 'Holstein Kiel'
+  [378/870] Horadada                            -> NO MATCH
+  [380/870] Hradec Králové                      -> 'FC Hradec Králové'
+  [383/870] Huracán                             -> 'Club Atlético Huracán'
+  [385/870] IFK Norrköping                      -> 'IFK Norrköping'
+  [389/870] Independiente Rivadavia             -> 'Independiente Rivadavia'
+  [395/870] Ipswich Town                        -> 'Ipswich Town F.C.'
+  [396/870] Ironi Kiryat Shmona                 -> 'Hapoel Ironi Kiryat Shmona F.C.'
+  [398/870] Iğdır                               -> 'Iğdır F.K.'
+  [399/870] JS Kabylie                          -> 'JS Kabylie'
+  [400/870] Jagiellonia Białystok               -> 'Jagiellonia Białystok'
+  [403/870] Jiangsu Suning                      -> NO MATCH
+  [405/870] Jong Ajax                           -> NO MATCH
+  [409/870] Juárez                              -> 'FC Juárez'
+  [411/870] KS Częstochowa                      -> NO MATCH
+  [413/870] Kaizer Chiefs                       -> 'Kaizer Chiefs F.C.'
+  [414/870] Kalba                               -> 'Kalba FC'
+  [418/870] Kashima Antlers                     -> 'Kashima Antlers'
+  [419/870] Kasımpaşa                           -> 'Kasımpaşa S.K.'
+  [421/870] Kifisia                             -> 'A.E. Kifisia F.C.'
+  [422/870] Kilmarnock                          -> 'Kilmarnock F.C.'
+  [425/870] Korea University                    -> NO MATCH
+  [436/870] La Louvière                         -> NO MATCH
+  [437/870] Lanceros Boyacá                     -> NO MATCH
+  [438/870] Lanús                               -> 'Club Atlético Lanús'
+  [439/870] Las Palmas                          -> NO MATCH
+  [441/870] Le Havre                            -> 'Le Havre AC'
+  [444/870] Lechia Gdańsk                       -> 'Lechia Gdańsk'
+  [446/870] Leganés                             -> NO MATCH
+  [450/870] Lens                                -> NO MATCH
+  [451/870] Lens II                             -> NO MATCH
+  [452/870] Levante                             -> 'Levante UD'
+  [466/870] Ludogorets Razgrad                  -> 'PFC Ludogorets Razgrad'
+  [473/870] Maccabi Haifa                       -> 'Maccabi Haifa F.C.'
+  [474/870] Maccabi Tel Aviv                    -> 'Maccabi Tel Aviv F.C.'
+  [475/870] Machida Zelvia                      -> 'FC Machida Zelvia'
+  [478/870] Malavan                             -> 'Malavan F.C.'
+  [479/870] Mallorca                            -> NO MATCH
+  [481/870] Mamelodi Sundowns                   -> 'Mamelodi Sundowns F.C.'
+  [484/870] Marathón                            -> 'C.D. Marathón'
+  [485/870] Maribor                             -> 'NK Maribor'
+  [490/870] Mazatlán                            -> 'Mazatlán F.C.'
+  [491/870] Mazur Radzymin                      -> NO MATCH
+  [492/870] Mechelen                            -> 'KV Mechelen'
+  [502/870] Miami FC                            -> 'Miami FC'
+  [511/870] Mjällby AIF                         -> 'Mjällby AIF'
+  [513/870] Molde                               -> 'Molde FK'
+  [517/870] Montana                             -> 'PFC Montana'
+  [521/870] Motherwell                          -> 'Motherwell F.C.'
+  [526/870] NEC                                 -> 'NEC Nijmegen'
+  [531/870] Nancy                               -> 'FC Nancy'
+  [532/870] Nantes                              -> 'FC Nantes'
+  [534/870] Nasaf                               -> 'FC Nasaf'
+  [535/870] Nashville SC                        -> 'Nashville SC'
+  [536/870] Navbahor Namangan                   -> 'PFC Navbahor Namangan'
+  [538/870] Neftchi Fergana                     -> 'FC Neftchi Fergana'
+  [540/870] Neom                                -> 'Neom SC'
+  [542/870] New York City FC                    -> 'New York City FC'
+  [545/870] Newcastle Jets                      -> 'Newcastle Jets FC'
+  [548/870] Nice                                -> 'OGC Nice'
+  [549/870] Nice II                             -> NO MATCH
+  [551/870] Noah                                -> 'FC Noah'
+  [552/870] Nordsjælland                        -> 'FC Nordsjælland'
+  [555/870] North Jersey Imperials              -> NO MATCH
+  [562/870] Olimpia                             -> 'FC Bălți'
+  [567/870] Omonia                              -> 'AC Omonia'
+  [569/870] Orlando City SC                     -> 'Orlando City SC'
+  [570/870] Orlando Pirates                     -> 'Orlando Pirates F.C.'
+  [572/870] Oviedo                              -> 'Real Oviedo'
+  [574/870] PEC Zwolle                          -> 'PEC Zwolle'
+  [578/870] Padova                              -> NO MATCH
+  [579/870] Pafos                               -> 'Pafos FC'
+  [580/870] Pakhtakor                           -> 'Pakhtakor FC'
+  [585/870] Pari Nizhny Novgorod                -> 'FC Pari Nizhny Novgorod'
+  [586/870] Paris FC                            -> 'Paris FC'
+  [592/870] Persepolis                          -> 'Persepolis F.C.'
+  [593/870] Persib                              -> 'Persib Bandung'
+  [596/870] Perugia                             -> NO MATCH
+  [597/870] Pescara                             -> NO MATCH
+  [598/870] Peterborough United                 -> 'Peterborough United F.C.'
+  [600/870] Philadelphia Union                  -> 'Philadelphia Union'
+  [604/870] Platense                            -> NO MATCH
+  [605/870] Plaza Amador                        -> 'C.D. Plaza Amador'
+  [606/870] Pogoń Szczecin                      -> 'Pogoń Szczecin'
+  [608/870] Polokwane City                      -> 'Polokwane City F.C.'
+  [609/870] Porongos ( es )                     -> NO MATCH
+  [610/870] Port                                -> 'Port F.C.'
+  [611/870] Port Vale                           -> 'Port Vale F.C.'
+  [612/870] Portland Timbers                    -> 'Portland Timbers'
+  [619/870] Puerto Cabello                      -> 'Academia Puerto Cabello'
+  [620/870] Pumas                               -> 'Pumas CU football'
+  [622/870] Puskás Akadémia                     -> 'Puskás Akadémia FC'
+  [623/870] Pyramids                            -> 'Pyramids FC'
+  [631/870] RKC Waalwijk                        -> 'RKC Waalwijk'
+  [632/870] RS Berkane                          -> 'RS Berkane'
+  [633/870] RS Futebol                          -> NO MATCH
+  [639/870] Raja Casablanca                     -> 'Raja CA'
+  [640/870] Randers                             -> 'Randers FC'
+  [645/870] Real Betis                          -> 'Real Betis'
+  [650/870] Real Madrid Castilla                -> NO MATCH
+  [651/870] Real Salt Lake                      -> 'Real Salt Lake'
+  [656/870] Red Bull Bragantino                 -> 'Red Bull Bragantino'
+  [663/870] Rennes II                           -> NO MATCH
+  [664/870] Rijeka                              -> NO MATCH
+  [666/870] River Plate                         -> 'Club Atlético River Plate'
+  [677/870] SJK                                 -> 'SJK Akatemia'
+  [685/870] Saint-Étienne                       -> NO MATCH
+  [690/870] Samsunspor                          -> 'Samsunspor'
+  [692/870] San Diego Sockers (indoor)          -> NO MATCH
+  [694/870] San Lorenzo                         -> 'San Lorenzo de Almagro'
+  [695/870] Sanfrecce Hiroshima                 -> 'Sanfrecce Hiroshima'
+  [696/870] Santa Fe                            -> NO MATCH
+  [697/870] Santos                              -> 'Santos FC'
+  [699/870] Santos Laguna                       -> 'Santos Laguna'
+  [700/870] Saprissa                            -> 'Deportivo Saprissa'
+  [701/870] Sarpsborg 08                        -> 'Sarpsborg 08 FF'
+  [702/870] Sassuolo                            -> 'US Sassuolo Calcio'
+  [707/870] Selangor                            -> 'Selangor F.C.'
+  [709/870] Sepahan                             -> 'Sepahan S.C.'
+  [716/870] Shamrock Rovers                     -> 'Shamrock Rovers F.C.'
+  [720/870] Sheffield United                    -> 'Sheffield United F.C.'
+  [723/870] Silkeborg                           -> 'Silkeborg IF'
+  [728/870] Siwelele                            -> 'Siwelele F.C.'
+  [729/870] Slavia Prague                       -> 'SK Slavia Prague'
+  [730/870] Slovan Bratislava                   -> 'ŠK Slovan Bratislava'
+  [731/870] Slovan Liberec                      -> 'FC Slovan Liberec'
+  [732/870] Sochaux                             -> 'FC Sochaux-Montbéliard'
+  [736/870] Sparta Prague                       -> 'AC Sparta Prague'
+  [738/870] Spartak Moscow                      -> 'FC Spartak Moscow'
+  [744/870] St Patrick's Athletic               -> "St Patrick's Athletic F.C."
+  [745/870] St. Gallen                          -> 'FC St. Gallen'
+  [746/870] Stade Nyonnais                      -> 'FC Stade Nyonnais'
+  [751/870] Strasbourg                          -> 'RC Strasbourg Alsace'
+  [752/870] Sturm Graz                          -> 'SK Sturm Graz'
+  [755/870] Surkhon Termiz                      -> 'FC Surkhon'
+  [764/870] Talleres                            -> 'Talleres de Córdoba'
+  [766/870] Tatran Prešov                       -> '1. FC Tatran Prešov'
+  [767/870] Telstar                             -> 'SC Telstar'
+  [768/870] Tembetary                           -> NO MATCH
+  [769/870] Terengganu                          -> 'Terengganu FC'
+  [773/870] Tianjin Tianhai (-2019)             -> NO MATCH
+  [775/870] Tigrillos Coapa                     -> NO MATCH
+  [776/870] Tijuana                             -> 'Club Tijuana'
+  [777/870] Toluca                              -> 'Toluca FC'
+  [778/870] Tondela                             -> NO MATCH
+  [781/870] Torreense                           -> 'S.C.U. Torreense'
+  [783/870] Toulouse                            -> 'Toulouse FC'
+  [786/870] Tractor                             -> 'Tractor S.C.'
+  [788/870] Turan Tovuz                         -> 'Turan Tovuz'
+  [793/870] US Monastir                         -> 'US Monastir (football)'
+  [794/870] USM Alger                           -> 'USM Alger'
+  [800/870] Union Saint-Gilloise                -> 'Royale Union Saint-Gilloise'
+  [801/870] Universidad Católica                -> 'Club Deportivo Universidad Católica'
+  [802/870] Universidad de Concepción           -> NO MATCH
+  [803/870] Universitatea Cluj                  -> 'FC Universitatea Cluj'
+  [811/870] Valencia Mestalla                   -> NO MATCH
+  [812/870] Valle del Chota                     -> NO MATCH
+  [815/870] Vasco da Gama                       -> 'Vasco da Gama F.C.'
+  [817/870] Veracruz                            -> NO MATCH
+  [822/870] Viking                              -> 'Viking FK'
+  [823/870] Viktoria Plzeň                      -> 'FC Viktoria Plzeň'
+  [827/870] Violette                            -> 'Violette AC'
+  [831/870] Vitória de Guimarães                -> 'Vitória S.C.'
+  [832/870] Vizela                              -> 'F.C. Vizela'
+  [833/870] Vojvodina                           -> NO MATCH
+  [834/870] Volendam                            -> 'FC Volendam'
+  [836/870] Vélez Sarsfield                     -> NO MATCH
+  [837/870] Watford                             -> 'Watford F.C.'
+  [838/870] Watford FC                          -> 'Watford F.C.'
+  [839/870] Wellington Phoenix                  -> 'Wellington Phoenix FC'
+  [840/870] Werder Bremen                       -> 'SV Werder Bremen'
+  [841/870] Werder Bremen II                    -> 'SV Werder Bremen II'
+  [842/870] West Bromwich Albion                -> 'West Bromwich Albion F.C.'
+  [843/870] West Ham United                     -> 'West Ham United F.C.'
+  [844/870] Westerlo                            -> NO MATCH
+  [845/870] Western Sydney Wanderers            -> 'Western Sydney Wanderers FC'
+  [846/870] Widzew Łódź                         -> 'Widzew Łódź'
+  [847/870] Wigan Athletic                      -> 'Wigan Athletic F.C.'
+  [851/870] Wolfsberger AC                      -> 'Wolfsberger AC'
+  [853/870] Wrexham                             -> 'Wrexham A.F.C.'
+  [857/870] Young Boys                          -> 'BSC Young Boys'
+  [858/870] ZED                                 -> 'ZED FC'
+  [859/870] Zamalek                             -> 'Zamalek SC'
+  [863/870] Zhejiang                            -> 'Zhejiang Professional F.C.'
+  [866/870] Zulte Waregem                       -> 'SV Zulte Waregem'
+  [867/870] Zürich                              -> 'FC Zürich'
+  [868/870] Çaykur Rizespor                     -> 'Çaykur Rizespor'
+  [869/870] Étoile du Sahel                     -> 'Étoile Sportive du Sahel'
 
-Resolved: 571 / 636
-Unresolved (65):
+Resolved: 811 / 870
+Unresolved (59):
+  - AGF
   - Akhisarspor
   - Alès
   - Arta/Solar7
   - Atlético Malagueño
+  - Auxerre
   - Bahia
   - Banfield
   - Bellinzona
@@ -19,7 +308,6 @@ Unresolved (65):
   - GBS Academy
   - Gallos Caliente Tijuana
   - Gent
-  - Guadalajara
   - Guingamp
   - Hebei FC (2010-2023)
   - Horadada
@@ -31,458 +319,22 @@ Unresolved (65):
   - Lanceros Boyacá
   - Las Palmas
   - Leganés
-  - Lens
-  … and 35 more
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-  ! download failed for Anyang LG Cheetahs (https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/FC_Seoul_logo.svg/330px-FC_Seoul_logo.svg.png)
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-  ! download failed for Barcelona SC (https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Escudo_oficial_del_Barcelona_Sporting_Club.png/330px-Escudo_oficial_del_Barcelona_Sporting_Club.png)
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-  downloaded 100/571
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 30s
-  ! download failed for Betis (https://upload.wikimedia.org/wikipedia/en/f/f5/Betis_CF_Valladolid.png)
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-  downloaded 125/571
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-  ! download failed for Caen (https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/SM_Caen_2016_logo.svg/330px-SM_Caen_2016_logo.svg.png)
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 30s
-  ! download failed for Cardiff City (https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Cardiff_City_crest.svg/330px-Cardiff_City_crest.svg.png)
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-  ! download failed for Chiasso (https://upload.wikimedia.org/wikipedia/en/thumb/4/43/FC_Chiasso_logo.svg/330px-FC_Chiasso_logo.svg.png)
-  downloaded 150/571
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 30s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-  ! download failed for Club Brugge (https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Club_Brugge_KV_logo.svg/330px-Club_Brugge_KV_logo.svg.png)
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 30s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 30s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-  ! download failed for Deportivo Guadalajara (https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Guadalajara_CD.svg/330px-Guadalajara_CD.svg.png)
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-  ! download failed for Derby County (https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Derby_County_crest.svg/330px-Derby_County_crest.svg.png)
-   429 backoff 30s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 30s
-  downloaded 200/571
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-  ! download failed for FC Jurong (https://upload.wikimedia.org/wikipedia/en/e/ea/Albirex_Niigata_Singapore_FC_new_logo.png)
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-  downloaded 225/571
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-  ! download failed for Girona (https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Girona_FC_Logo.svg/330px-Girona_FC_Logo.svg.png)
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 30s
-  ! download failed for Great Olympics (https://upload.wikimedia.org/wikipedia/en/8/8f/The_Official_Accra_Great_Olympics_logo.jpg)
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-  downloaded 250/571
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-  ! download failed for Hertha BSC (https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hertha_BSC_Logo_2012.svg/330px-Hertha_BSC_Logo_2012.svg.png)
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 30s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-  ! download failed for Hércules (https://upload.wikimedia.org/wikipedia/en/0/04/USV_Hercules_logo.png)
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 30s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 30s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-  downloaded 275/571
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-  ! download failed for Juventude (https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Juventude_crest.png/330px-Juventude_crest.png)
-   429 backoff 30s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-  ! download failed for Kitchee (https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Kitchee_SC_crest.svg/330px-Kitchee_SC_crest.svg.png)
-   429 backoff 30s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-  ! download failed for Le Havre (https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Le_Havre_AC_logo.svg/330px-Le_Havre_AC_logo.svg.png)
-   429 backoff 30s
-  downloaded 300/571
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-  ! download failed for Lokomotiva (https://upload.wikimedia.org/wikipedia/en/6/67/FK_Lokomotiva_Br%C4%8Dko_logo.png)
-   429 backoff 1s
-   429 backoff 30s
-   429 backoff 1s
-   429 backoff 1s
-  downloaded 325/571
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-  ! download failed for Marítimo (https://upload.wikimedia.org/wikipedia/en/thumb/3/30/C.S._Mar%C3%ADtimo_logo.svg/330px-C.S._Mar%C3%ADtimo_logo.svg.png)
-   429 backoff 1s
-   429 backoff 30s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-  downloaded 350/571
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-  ! download failed for Mumbai City (https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Mumbai_City_FC_logo.svg/330px-Mumbai_City_FC_logo.svg.png)
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-  ! download failed for New York City FC (https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Logo_New_York_City_FC_2025.svg/330px-Logo_New_York_City_FC_2025.svg.png)
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-  downloaded 375/571
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-  downloaded 400/571
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-  ! download failed for Porto B (https://upload.wikimedia.org/wikipedia/en/6/68/CA_do_Porto.png)
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-  ! download failed for Pune City (https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Pune_City_tehsil_in_Pune_district.png/330px-Pune_City_tehsil_in_Pune_district.png)
-   429 backoff 30s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-  ! download failed for Quick Boys (https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Quick_Boys_logo.svg/330px-Quick_Boys_logo.svg.png)
-  downloaded 425/571
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 30s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-  ! download failed for River Plate (https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/SV_Riverplate_Aruba.svg/330px-SV_Riverplate_Aruba.svg.png)
-  downloaded 450/571
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-  ! download failed for Sagan Tosu (https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Sagan_Tosu_logo.svg/330px-Sagan_Tosu_logo.svg.png)
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 30s
-  ! download failed for Salernitana (https://upload.wikimedia.org/wikipedia/en/thumb/8/85/US_Salernitana_1919_logo.svg/330px-US_Salernitana_1919_logo.svg.png)
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-  ! download failed for Santos (https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Santos_Futebol_Clube_logo_%28with_stars_and_crown%29.png/330px-Santos_Futebol_Clube_logo_%28with_stars_and_crown%29.png)
-  downloaded 475/571
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 30s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-  ! download failed for Shanghai Shenhua (https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Shanghai_Shenhua_F.C.svg/330px-Shanghai_Shenhua_F.C.svg.png)
-   429 backoff 30s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-  ! download failed for Spartak Moscow (https://upload.wikimedia.org/wikipedia/en/thumb/9/93/FC_Spartak_Moscow_crest.svg/330px-FC_Spartak_Moscow_crest.svg.png)
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-  downloaded 525/571
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-  downloaded 550/571
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-  ! download failed for Västerås SK (https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Vasteras_SK_logo.svg/330px-Vasteras_SK_logo.svg.png)
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 1s
-  ! download failed for Young Boys (https://upload.wikimedia.org/wikipedia/en/a/ab/Young_Boys_FD_logo.png)
-   429 backoff 1s
-   429 backoff 1s
-   429 backoff 30s
+  … and 29 more
+  downloaded 75/811
+  downloaded 100/811
+  downloaded 125/811
+  downloaded 175/811
+  downloaded 200/811
+  downloaded 225/811
+  downloaded 250/811
+  downloaded 325/811
+  downloaded 500/811
+  downloaded 675/811
+  downloaded 725/811
+  downloaded 750/811
+  downloaded 775/811
+  downloaded 800/811
 Wrote /Users/laschumacher/Downloads/coding/vibe-playport/src/data/club_logos.json
 Wrote /Users/laschumacher/Downloads/coding/vibe-playport/club_logos.json
 
-Logos saved: 403 | Download failures: 32 | Unresolved clubs: 65
+Logos saved: 656 | Download failures: 0 | Unresolved clubs: 59

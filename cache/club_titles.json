@@ -225,9 +225,9 @@
     "title": "Al Jazira Club"
   },
   "Al Nasr": {
-    "description": "Omani sports club",
-    "thumb": "https://upload.wikimedia.org/wikipedia/en/e/ed/Nasr_Oman.png",
-    "title": "Al Nasr SCSC (Salalah)"
+    "description": "Association football club in Dubai",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/AL_Nasr_SC_Logo.png/330px-AL_Nasr_SC_Logo.png",
+    "title": "Al-Nasr SC (Dubai)"
   },
   "Al Sadd": {
     "description": "Sports club in Qatar",
@@ -265,9 +265,9 @@
     "title": "Al-Ettifaq Club"
   },
   "Al-Faisaly": {
-    "description": "Jordanian association football club from Amman",
-    "thumb": "https://upload.wikimedia.org/wikipedia/en/5/5d/Al-Faisaly_SC_%28logo%29.png",
-    "title": "Al-Faisaly SC"
+    "description": "Association football club in Almajmaah, Saudi Arabia",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/c/c9/Al-Faisaly_FC_New_Logo.png",
+    "title": "Al Faisaly FC"
   },
   "Al-Fateh": {
     "description": "Association football club in Saudi Arabia",
@@ -864,6 +864,16 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Brighton_and_Hove_Albion_FC_crest.svg/330px-Brighton_and_Hove_Albion_FC_crest.svg.png",
     "title": "Brighton & Hove Albion F.C."
   },
+  "Brøndby": {
+    "description": "Danish association football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Brondby_IF_logo.svg/330px-Brondby_IF_logo.svg.png",
+    "title": "Brøndby IF"
+  },
+  "Bukhara": {
+    "description": "Uzbek football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/9/97/FC_Bukhara_logo.png",
+    "title": "FC Bukhara"
+  },
   "Burnley": {
     "description": "Association football club in England",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Burnley_FC_Logo.svg/330px-Burnley_FC_Logo.svg.png",
@@ -894,6 +904,11 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Pachuca_Tuzos_logo.svg/330px-Pachuca_Tuzos_logo.svg.png",
     "title": "C.F. Pachuca"
   },
+  "CS Sfaxien": {
+    "description": "Association football club in Tunisia",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/CS_Sfaxien_logo.svg/330px-CS_Sfaxien_logo.svg.png",
+    "title": "CS Sfaxien"
+  },
   "CSA": {
     "description": "Association football club in Bucharest",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Steaua_Bucure%C8%99ti.svg/330px-Steaua_Bucure%C8%99ti.svg.png",
@@ -919,6 +934,21 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Cardiff_City_crest.svg/330px-Cardiff_City_crest.svg.png",
     "title": "Cardiff City F.C."
   },
+  "Casa Pia": {
+    "description": "Portuguese association football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Casa_Pia_A.C._logo.svg/330px-Casa_Pia_A.C._logo.svg.png",
+    "title": "Casa Pia A.C."
+  },
+  "Castellón": {
+    "description": "Association football team in Spain",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Logo_of_CD_Castell%C3%B3n.svg/330px-Logo_of_CD_Castell%C3%B3n.svg.png",
+    "title": "CD Castellón"
+  },
+  "Celta Vigo": {
+    "description": "Association football club in Spain",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/330px-RC_Celta_de_Vigo_logo.svg.png",
+    "title": "RC Celta de Vigo"
+  },
   "Celtic": {
     "description": "Association football club in Scotland",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Celtic_FC_crest.svg/330px-Celtic_FC_crest.svg.png",
@@ -933,6 +963,11 @@
     "description": "Association football club in Gosford, Australia",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Central_Coast_Mariners.svg/330px-Central_Coast_Mariners.svg.png",
     "title": "Central Coast Mariners FC"
+  },
+  "Cercle Brugge": {
+    "description": "Association football club in Belgium",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_Cercle_Brugge_2022.png/330px-Logo_Cercle_Brugge_2022.png",
+    "title": "Cercle Brugge KSV"
   },
   "Cerezo Osaka": {
     "description": "Association football club based in Osaka, Japan",
@@ -953,6 +988,26 @@
     "description": "Italian football club",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Cesena_FC_crest.svg/330px-Cesena_FC_crest.svg.png",
     "title": "Cesena FC"
+  },
+  "Charleroi": {
+    "description": "Belgian football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/9/9d/RAAL_La_Louviere.png",
+    "title": "RAAL La Louvière"
+  },
+  "Charlotte FC": {
+    "description": "Major League Soccer team in Charlotte, North Carolina, U.S.",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Charlotte_FC_logo.svg/330px-Charlotte_FC_logo.svg.png",
+    "title": "Charlotte FC"
+  },
+  "Charlton Athletic": {
+    "description": "Association football club in London, England",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Charlton_Athletic_FC_crest.svg/330px-Charlton_Athletic_FC_crest.svg.png",
+    "title": "Charlton Athletic F.C."
+  },
+  "Chaves": {
+    "description": "Portuguese professional football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/G.D._Chaves_logo.svg/330px-G.D._Chaves_logo.svg.png",
+    "title": "G.D. Chaves"
   },
   "Chelsea": {
     "description": "Association football club in England",
@@ -999,6 +1054,11 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Chivas_USA_logo.svg/330px-Chivas_USA_logo.svg.png",
     "title": "Chivas USA"
   },
+  "Club Africain": {
+    "description": "Tunisian football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Club_africain.logo.png",
+    "title": "Club Africain"
+  },
   "Club Brugge": {
     "description": "Association football club in Bruges, Belgium",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Club_Brugge_KV_logo.svg/330px-Club_Brugge_KV_logo.svg.png",
@@ -1019,10 +1079,25 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Club_Nacional_de_Paraguay.png/330px-Club_Nacional_de_Paraguay.png",
     "title": "Club Nacional"
   },
+  "Cobresal": {
+    "description": "Chilean football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/5/54/CD_Cobresal.png",
+    "title": "Cobresal"
+  },
   "Colorado Rapids": {
     "description": "Professional soccer club in Denver, Colorado, US",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Colorado_Rapids_logo.svg/330px-Colorado_Rapids_logo.svg.png",
     "title": "Colorado Rapids"
+  },
+  "Colorado Springs Switchbacks FC": {
+    "description": "Men's professional soccer team based in Colorado Springs, Colorado, U.S.",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/2025_Colorado_Springs_Switchbacks_FC_Logo.png/330px-2025_Colorado_Springs_Switchbacks_FC_Logo.png",
+    "title": "Colorado Springs Switchbacks FC"
+  },
+  "Columbus Crew": {
+    "description": "American professional soccer club based in Columbus, Ohio",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Columbus_Crew_logo_2021.svg/330px-Columbus_Crew_logo_2021.svg.png",
+    "title": "Columbus Crew"
   },
   "Como": {
     "description": "Association football club in Italy",
@@ -1044,6 +1119,11 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Sport_Club_Corinthians_Paulista_crest.svg/330px-Sport_Club_Corinthians_Paulista_crest.svg.png",
     "title": "SC Corinthians Paulista"
   },
+  "Cosmos Koblenz": {
+    "description": "Football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/5/51/FC_Cosmos_Koblenz_logo.jpg",
+    "title": "FC Cosmos Koblenz"
+  },
   "Coventry City": {
     "description": "Association football club in England",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Coventry_City_FC_crest.svg/330px-Coventry_City_FC_crest.svg.png",
@@ -1058,6 +1138,11 @@
     "description": "Polish association football club",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Cracovia_%28football_club%29_logo.svg/330px-Cracovia_%28football_club%29_logo.svg.png",
     "title": "KS Cracovia"
+  },
+  "Cremonese": {
+    "description": "Association football club in Cremona, Italy",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/US_Cremonese_logo.svg/330px-US_Cremonese_logo.svg.png",
+    "title": "US Cremonese"
   },
   "Cruz Azul": {
     "description": "Association football club in Mexico",
@@ -1074,10 +1159,20 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Crystal_Palace_FC_logo_%282022%29.svg/330px-Crystal_Palace_FC_logo_%282022%29.svg.png",
     "title": "Crystal Palace F.C."
   },
+  "Cultural Leonesa": {
+    "description": "Spanish professional football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Logo_of_Cultural_y_Deportiva_Leonesa.svg/330px-Logo_of_Cultural_y_Deportiva_Leonesa.svg.png",
+    "title": "Cultural y Deportiva Leonesa"
+  },
   "D.C. United": {
     "description": "American professional football club based in Washington D.C.",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/D.C._United_logo_%282016%29.svg/330px-D.C._United_logo_%282016%29.svg.png",
     "title": "D.C. United"
+  },
+  "Daejeon Hana Citizen": {
+    "description": "Football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Daejeon_Hana_Citizen.svg/330px-Daejeon_Hana_Citizen.svg.png",
+    "title": "Daejeon Hana Citizen"
   },
   "Dalian Yifang": {
     "description": "Chinese association football club",
@@ -1104,6 +1199,16 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Odisha_FC_logo.svg/330px-Odisha_FC_logo.svg.png",
     "title": "Odisha FC"
   },
+  "Den Bosch": {
+    "description": "Association football club in the Netherlands",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/FC_Den_Bosch_logo.svg/330px-FC_Den_Bosch_logo.svg.png",
+    "title": "FC Den Bosch"
+  },
+  "Dender": {
+    "description": "Belgian football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/9/98/FCVDenderEH.png",
+    "title": "FCV Dender EH"
+  },
   "Deportivo Guadalajara": {
     "description": "Association football club in Mexico",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Guadalajara_CD.svg/330px-Guadalajara_CD.svg.png",
@@ -1113,6 +1218,11 @@
     "description": "Spanish professional football club",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/RC_Deportivo_La_Coru%C3%B1a_logo.svg/330px-RC_Deportivo_La_Coru%C3%B1a_logo.svg.png",
     "title": "Deportivo de La Coruña"
+  },
+  "Deportivo La Guaira": {
+    "description": "Association football club in Venezuela",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/f/fa/Deportivo_La_Guaira_logo.png",
+    "title": "Deportivo La Guaira F.C."
   },
   "Deportivo Pasto": {
     "description": "Colombian soccer club",
@@ -1134,6 +1244,16 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/d/d1/Diambars-logo.png",
     "title": "Diambars FC"
   },
+  "Dibba": {
+    "description": "Emirati professional football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/b/be/Dibba_club_logo.png",
+    "title": "Dibba FC"
+  },
+  "Dinamo Samarqand": {
+    "description": "Association football club in Uzbekistan",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/7/7a/FC_Dinamo_Samarqand_Logo.jpg",
+    "title": "FC Dinamo Samarqand"
+  },
   "Dinamo Zagreb": {
     "description": "Croatian association football club",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Logo_GNK_Dinamo_Zagreb_%282019%29.svg/330px-Logo_GNK_Dinamo_Zagreb_%282019%29.svg.png",
@@ -1148,6 +1268,11 @@
     "description": "Cypriot football club",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/c/c4/Doxa_Katokopias_new.jpg",
     "title": "Doxa Katokopias FC"
+  },
+  "Dynamo Makhachkala": {
+    "description": "Football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/FC_Dynamo_Makhachkala_logo.svg/330px-FC_Dynamo_Makhachkala_logo.svg.png",
+    "title": "FC Dynamo Makhachkala"
   },
   "Dynamo Moscow": {
     "description": "Association football club in Russia",
@@ -1164,10 +1289,25 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Eintracht_Frankfurt_crest.svg/330px-Eintracht_Frankfurt_crest.svg.png",
     "title": "Eintracht Frankfurt"
   },
+  "El Gouna": {
+    "description": "Association football club in El Gouna, Egypt",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/e/eb/El_Gouna_FC_Logo_2017.png",
+    "title": "El Gouna FC"
+  },
   "El Nacional": {
     "description": "Ecuadorian sports club",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/El_Nacional-Logo-2025.png/330px-El_Nacional-Logo-2025.png",
     "title": "Club Deportivo El Nacional"
+  },
+  "El Paso Locomotive FC": {
+    "description": "American professional soccer club based in El Paso",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/El_Paso_Locomotive_FC_logo.svg/330px-El_Paso_Locomotive_FC_logo.svg.png",
+    "title": "El Paso Locomotive FC"
+  },
+  "Elche": {
+    "description": "Spanish professional football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Elche_CF_logo.svg/330px-Elche_CF_logo.svg.png",
+    "title": "Elche CF"
   },
   "Emelec": {
     "description": "Ecuadorian sports club",
@@ -1189,10 +1329,20 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/RCD_Espanyol_crest.svg/330px-RCD_Espanyol_crest.svg.png",
     "title": "RCD Espanyol"
   },
+  "Espérance de Tunis": {
+    "description": "Association football club in Tunisia",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/f/fb/Esp%C3%A9rance_Sportive_de_Tunis_logo.png",
+    "title": "Espérance Sportive de Tunis"
+  },
   "Esteghlal": {
     "description": "Football club",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Esteghlal_F.C._Logo.svg/330px-Esteghlal_F.C._Logo.svg.png",
     "title": "Esteghlal F.C."
+  },
+  "Estrela Amadora": {
+    "description": "Portuguese sports club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/S%C3%ADmbolo_Estrela_da_Amadora.svg/330px-S%C3%ADmbolo_Estrela_da_Amadora.svg.png",
+    "title": "C.F. Estrela da Amadora"
   },
   "Estrela da Amadora": {
     "description": "Portuguese sports club",
@@ -1234,6 +1384,11 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/f/fb/FC_Anyang.png",
     "title": "FC Anyang"
   },
+  "FC Augsburg": {
+    "description": "German association football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/FC_Augsburg_logo.svg/330px-FC_Augsburg_logo.svg.png",
+    "title": "FC Augsburg"
+  },
   "FC Barcelona": {
     "description": "Association football club in Spain",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/330px-FC_Barcelona_%28crest%29.svg.png",
@@ -1258,6 +1413,16 @@
     "description": null,
     "thumb": "https://upload.wikimedia.org/wikipedia/en/1/10/Basel_logo.gif",
     "title": "FC Basel 1893 (Superleague Formula team)"
+  },
+  "FC Cincinnati": {
+    "description": "American professional soccer club based in Cincinnati",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/FC_Cincinnati_primary_logo_2018.svg/330px-FC_Cincinnati_primary_logo_2018.svg.png",
+    "title": "FC Cincinnati"
+  },
+  "FC Dallas": {
+    "description": "American professional soccer club based in Dallas–Fort Worth metroplex",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/FC_Dallas_logo.svg/330px-FC_Dallas_logo.svg.png",
+    "title": "FC Dallas"
   },
   "FC Jurong": {
     "description": "Football club",
@@ -1294,6 +1459,11 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/FC_Sochaux-Montbeliard_logo.svg/330px-FC_Sochaux-Montbeliard_logo.svg.png",
     "title": "FC Sochaux-Montbéliard"
   },
+  "FC St. Pauli": {
+    "description": "German sports club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/FC_St._Pauli_logo_%282018%29.svg/330px-FC_St._Pauli_logo_%282018%29.svg.png",
+    "title": "FC St. Pauli"
+  },
   "FC Tokyo": {
     "description": "Japanese professional football club",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/FC_Tokyo_Logo.svg/330px-FC_Tokyo_Logo.svg.png",
@@ -1309,10 +1479,20 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/FC_Winterthur_logo.svg/330px-FC_Winterthur_logo.svg.png",
     "title": "FC Winterthur"
   },
+  "FCSB": {
+    "description": "Romanian football club, formerly FC Steaua București",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fcsb-logo.svg/330px-Fcsb-logo.svg.png",
+    "title": "FCSB"
+  },
   "Famalicão": {
     "description": "Association football club",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/F.C._Famalic%C3%A3o_logo.svg/330px-F.C._Famalic%C3%A3o_logo.svg.png",
     "title": "F.C. Famalicão"
+  },
+  "Farense": {
+    "description": "Portuguese association football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/S.C._Farense_logo.svg/330px-S.C._Farense_logo.svg.png",
+    "title": "S.C. Farense"
   },
   "Fatih Karagümrük": {
     "description": "Turkish football club",
@@ -1328,6 +1508,11 @@
     "description": "Turkish association football club",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Fenerbah%C3%A7e.svg/330px-Fenerbah%C3%A7e.svg.png",
     "title": "Fenerbahçe S.K. (football)"
+  },
+  "Ferencváros": {
+    "description": "Hungarian football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Ferencvarosi_TC.svg/330px-Ferencvarosi_TC.svg.png",
+    "title": "Ferencvárosi TC"
   },
   "Ferro Carril Oeste": {
     "description": "Argentine sports club",
@@ -1359,6 +1544,11 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Fluminense_Football_Club.svg/330px-Fluminense_Football_Club.svg.png",
     "title": "Fluminense FC"
   },
+  "Foolad": {
+    "description": "Iranian football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Foolad_F.C._Logo.svg/330px-Foolad_F.C._Logo.svg.png",
+    "title": "Foolad F.C."
+  },
   "Fortuna Düsseldorf": {
     "description": "German association football club",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Fortuna_D%C3%BCsseldorf.svg/330px-Fortuna_D%C3%BCsseldorf.svg.png",
@@ -1368,6 +1558,11 @@
     "description": "Association football club in the Netherlands",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Fortuna_Sittard_Logo.svg/330px-Fortuna_Sittard_Logo.svg.png",
     "title": "Fortuna Sittard"
+  },
+  "Frosinone": {
+    "description": "Italian professional football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Frosinone_Calcio_logo.svg/330px-Frosinone_Calcio_logo.svg.png",
+    "title": "Frosinone Calcio"
   },
   "Fulham": {
     "description": "Association football club in London, England",
@@ -1394,6 +1589,16 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Gamba_Osaka_logo.svg/330px-Gamba_Osaka_logo.svg.png",
     "title": "Gamba Osaka"
   },
+  "Gangwon FC": {
+    "description": "South Korean football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Gangwon_FC.svg/330px-Gangwon_FC.svg.png",
+    "title": "Gangwon FC"
+  },
+  "Gaziantep": {
+    "description": "Turkish football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Gazi%C5%9Fehir_Gaziantep_logo.svg/330px-Gazi%C5%9Fehir_Gaziantep_logo.svg.png",
+    "title": "Gaziantep F.K."
+  },
   "Genk": {
     "description": "Association football club in Belgium",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_KRC_Genk.png/330px-Logo_KRC_Genk.png",
@@ -1409,10 +1614,20 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Gen%C3%A7lerbirli%C4%9Fi_S.K._crest.svg/330px-Gen%C3%A7lerbirli%C4%9Fi_S.K._crest.svg.png",
     "title": "Gençlerbirliği S.K."
   },
+  "Gil Vicente": {
+    "description": "Portugal association football team",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/8/8f/Gil_Vicente_F.C.png",
+    "title": "Gil Vicente F.C."
+  },
   "Girona": {
     "description": "Association football club in Spain",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Girona_FC_Logo.svg/330px-Girona_FC_Logo.svg.png",
     "title": "Girona FC"
+  },
+  "Granada": {
+    "description": "Football club in Granada, Spain",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Logo_of_Granada_Club_de_F%C3%BAtbol.svg/330px-Logo_of_Granada_Club_de_F%C3%BAtbol.svg.png",
+    "title": "Granada CF"
   },
   "Grasshopper": {
     "description": "Swiss sports club",
@@ -1423,6 +1638,11 @@
     "description": "Swiss sports club",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/GC_Z%C3%BCrich_Logo.svg/330px-GC_Z%C3%BCrich_Logo.svg.png",
     "title": "Grasshopper Club Zurich"
+  },
+  "Grazer AK": {
+    "description": "Football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/GAK_1902_Logo_Rund.svg/330px-GAK_1902_Logo_Rund.svg.png",
+    "title": "Grazer AK"
   },
   "Great Olympics": {
     "description": "Association football club in Accra",
@@ -1444,10 +1664,20 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Gremio_logo.svg/330px-Gremio_logo.svg.png",
     "title": "Grêmio FBPA"
   },
+  "Guadalajara": {
+    "description": "Association football club in Mexico",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Guadalajara_CD.svg/330px-Guadalajara_CD.svg.png",
+    "title": "C.D. Guadalajara"
+  },
   "Guangzhou Evergrande": {
     "description": "Chinese football club",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Guangzhou_Evergrande_Taobao_logo.svg/330px-Guangzhou_Evergrande_Taobao_logo.svg.png",
     "title": "Guangzhou F.C."
+  },
+  "Győri ETO": {
+    "description": "Football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/d/de/ETO_FC_Gy%C5%91r.png",
+    "title": "Győri ETO FC"
   },
   "Górnik Zabrze": {
     "description": "Association football club in Zabrze, Poland",
@@ -1494,6 +1724,11 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hannover_96_Logo.svg/330px-Hannover_96_Logo.svg.png",
     "title": "Hannover 96 II"
   },
+  "Heart of Midlothian": {
+    "description": "Association football club in Edinburgh, Scotland",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Heart_of_Midlothian_FC_logo.svg/330px-Heart_of_Midlothian_FC_logo.svg.png",
+    "title": "Heart of Midlothian F.C."
+  },
   "Hearts of Oak": {
     "description": "Association football club in Accra",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/0/01/Accra_hearts_of_oak_sc.png",
@@ -1519,6 +1754,11 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Hellas_Verona_FC_logo_%282020%29.svg/330px-Hellas_Verona_FC_logo_%282020%29.svg.png",
     "title": "Hellas Verona FC"
   },
+  "Heracles Almelo": {
+    "description": "Association football club in the Netherlands",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Heracles_Almelo_logo.svg/330px-Heracles_Almelo_logo.svg.png",
+    "title": "Heracles Almelo"
+  },
   "Hertha BSC": {
     "description": "German association football club",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hertha_BSC_Logo_2012.svg/330px-Hertha_BSC_Logo_2012.svg.png",
@@ -1529,10 +1769,25 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hertha_BSC_Logo_2012.svg/330px-Hertha_BSC_Logo_2012.svg.png",
     "title": "Hertha BSC II"
   },
+  "Hibernian": {
+    "description": "Association football club in Leith, Edinburgh, Scotland",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Hibernian_FC_logo.svg/330px-Hibernian_FC_logo.svg.png",
+    "title": "Hibernian F.C."
+  },
+  "Holstein Kiel": {
+    "description": "German association football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Holstein_Kiel_Logo.svg/330px-Holstein_Kiel_Logo.svg.png",
+    "title": "Holstein Kiel"
+  },
   "Houston Dynamo": {
     "description": "American professional soccer club based in Houston",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Houston_Dynamo_FC_logo.svg/330px-Houston_Dynamo_FC_logo.svg.png",
     "title": "Houston Dynamo FC"
+  },
+  "Hradec Králové": {
+    "description": "Football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/d/d5/FC_Hradec_Kralove.png",
+    "title": "FC Hradec Králové"
   },
   "Hrvatski Dragovoljac": {
     "description": "Croatian football club",
@@ -1544,10 +1799,20 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Hull_City_A.F.C._logo.svg/330px-Hull_City_A.F.C._logo.svg.png",
     "title": "Hull City A.F.C."
   },
+  "Huracán": {
+    "description": "Argentine sports club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Emblema_oficial_del_Club_Atl%C3%A9tico_Hurac%C3%A1n.svg/330px-Emblema_oficial_del_Club_Atl%C3%A9tico_Hurac%C3%A1n.svg.png",
+    "title": "Club Atlético Huracán"
+  },
   "Hércules": {
     "description": "Dutch football club",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/0/04/USV_Hercules_logo.png",
     "title": "USV Hercules"
+  },
+  "IFK Norrköping": {
+    "description": "Swedish football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/IFK_Norrkoping_logo.svg/330px-IFK_Norrkoping_logo.svg.png",
+    "title": "IFK Norrköping"
   },
   "Incheon United": {
     "description": "South Korean football club",
@@ -1563,6 +1828,11 @@
     "description": "Association football club in Colombia",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Escudo_del_Deportivo_Independiente_Medell%C3%ADn.png/330px-Escudo_del_Deportivo_Independiente_Medell%C3%ADn.png",
     "title": "Independiente Medellín"
+  },
+  "Independiente Rivadavia": {
+    "description": "Argentine football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Escudo_del_Club_Independiente_Rivadavia.svg/330px-Escudo_del_Club_Independiente_Rivadavia.svg.png",
+    "title": "Independiente Rivadavia"
   },
   "Independiente del Valle": {
     "description": "Association football club in Ecuador",
@@ -1589,10 +1859,35 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Green_star_41-108-41.svg/330px-Green_star_41-108-41.svg.png",
     "title": "FC Internacional"
   },
+  "Ipswich Town": {
+    "description": "Association football club in Ipswich, England",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Ipswich_Town.svg/330px-Ipswich_Town.svg.png",
+    "title": "Ipswich Town F.C."
+  },
+  "Ironi Kiryat Shmona": {
+    "description": "Association football club in Israel",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/d/d1/Hapoel_Ironi_Kiryat_Shmona_badge.png",
+    "title": "Hapoel Ironi Kiryat Shmona F.C."
+  },
   "Iwuanyanwu Nationale": {
     "description": "Nigerian association football club",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Heartland_F.C._logo.svg/330px-Heartland_F.C._logo.svg.png",
     "title": "Heartland F.C."
+  },
+  "Iğdır": {
+    "description": "Football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/6/61/I%C4%9Fd%C4%B1r_F.K._crest.png",
+    "title": "Iğdır F.K."
+  },
+  "JS Kabylie": {
+    "description": "Association football club in Algeria",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Logo_JS_Kabylie.svg/330px-Logo_JS_Kabylie.svg.png",
+    "title": "JS Kabylie"
+  },
+  "Jagiellonia Białystok": {
+    "description": "Polish association football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Jagiellonia_Bia%C5%82ystok_logo.svg/330px-Jagiellonia_Bia%C5%82ystok_logo.svg.png",
+    "title": "Jagiellonia Białystok"
   },
   "Jamshedpur": {
     "description": "Association football club in India",
@@ -1624,6 +1919,11 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg/330px-Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg.png",
     "title": "Juventus FC"
   },
+  "Juárez": {
+    "description": "Association football club in Mexico",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/FC_Ju%C3%A1rez_logo.svg/330px-FC_Ju%C3%A1rez_logo.svg.png",
+    "title": "FC Juárez"
+  },
   "Júbilo Iwata": {
     "description": "Japanese football club",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Jubilo_Iwata_logo.svg/330px-Jubilo_Iwata_logo.svg.png",
@@ -1633,6 +1933,16 @@
     "description": "Kazakh football club",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/FC_Kaisar_logo.svg/330px-FC_Kaisar_logo.svg.png",
     "title": "FC Kaisar"
+  },
+  "Kaizer Chiefs": {
+    "description": "South African football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Kaizer_Chiefs_logo.svg/330px-Kaizer_Chiefs_logo.svg.png",
+    "title": "Kaizer Chiefs F.C."
+  },
+  "Kalba": {
+    "description": "Emirati professional football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/c/c0/Kalba_FC_logo.png",
+    "title": "Kalba FC"
   },
   "Kano Pillars": {
     "description": "Nigerian football club",
@@ -1649,10 +1959,30 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Karlsruher_SC_Logo_2.svg/330px-Karlsruher_SC_Logo_2.svg.png",
     "title": "Karlsruher SC II"
   },
+  "Kashima Antlers": {
+    "description": "Association football club in Japan",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Kashima_Antlers.svg/330px-Kashima_Antlers.svg.png",
+    "title": "Kashima Antlers"
+  },
+  "Kasımpaşa": {
+    "description": "Turkish professional football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Kasimpasa_logo.svg/330px-Kasimpasa_logo.svg.png",
+    "title": "Kasımpaşa S.K."
+  },
   "Kayserispor": {
     "description": "Turkish football club",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Kayserispor_logo.svg/330px-Kayserispor_logo.svg.png",
     "title": "Kayserispor"
+  },
+  "Kifisia": {
+    "description": "Association football club in Greece",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/d/d9/A.E._Kifisia_new_official_logo.webp",
+    "title": "A.E. Kifisia F.C."
+  },
+  "Kilmarnock": {
+    "description": "Association football club in Kilmarnock, Scotland",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Kilmarnock_FC_crest.svg/330px-Kilmarnock_FC_crest.svg.png",
+    "title": "Kilmarnock F.C."
   },
   "Kitchee": {
     "description": "Association football club in Hong Kong",
@@ -1714,6 +2044,11 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Lille_OSC_2018_logo.svg/330px-Lille_OSC_2018_logo.svg.png",
     "title": "Lille OSC"
   },
+  "Lanús": {
+    "description": "Argentine sports club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Escudo_de_Lan%C3%BAs_%28sin_estrellas%29.svg/330px-Escudo_de_Lan%C3%BAs_%28sin_estrellas%29.svg.png",
+    "title": "Club Atlético Lanús"
+  },
   "Lazio": {
     "description": "Association football club in Italy",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/S.S._Lazio_badge.svg/330px-S.S._Lazio_badge.svg.png",
@@ -1734,6 +2069,11 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/KKS_Lech_Pozna%C5%84.svg/330px-KKS_Lech_Pozna%C5%84.svg.png",
     "title": "Lech Poznań"
   },
+  "Lechia Gdańsk": {
+    "description": "Polish football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Lechia_Gda%C5%84sk_logo.svg/330px-Lechia_Gda%C5%84sk_logo.svg.png",
+    "title": "Lechia Gdańsk"
+  },
   "Leeds United": {
     "description": "Association football club in England",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/330px-Leeds_United_F.C._logo.svg.png",
@@ -1753,6 +2093,11 @@
     "description": "Association football club in England",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/330px-Leicester_City_crest.svg.png",
     "title": "Leicester City F.C."
+  },
+  "Levante": {
+    "description": "Association football club from Valencia, Spain",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Levante_Uni%C3%B3n_Deportiva%2C_S.A.D._logo.svg/330px-Levante_Uni%C3%B3n_Deportiva%2C_S.A.D._logo.svg.png",
+    "title": "Levante UD"
   },
   "León": {
     "description": "Association football club in Mexico",
@@ -1819,6 +2164,11 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Los_Angeles_Galaxy_logo.svg/330px-Los_Angeles_Galaxy_logo.svg.png",
     "title": "LA Galaxy"
   },
+  "Ludogorets Razgrad": {
+    "description": "Bulgarian association football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/e/eb/PFC_Ludogorets_Razgrad_logo.png",
+    "title": "PFC Ludogorets Razgrad"
+  },
   "Lugano": {
     "description": "Swiss association football club",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_FC_Lugano_2025.svg/330px-Logo_FC_Lugano_2025.svg.png",
@@ -1849,6 +2199,21 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Ankaragucu_logo.svg/330px-Ankaragucu_logo.svg.png",
     "title": "MKE Ankaragücü"
   },
+  "Maccabi Haifa": {
+    "description": "Association football club in Israel",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/1/15/Maccabi_Haifa_FC_Logo_2023.png",
+    "title": "Maccabi Haifa F.C."
+  },
+  "Maccabi Tel Aviv": {
+    "description": "Israeli football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/e/e9/Maccabi_Tel_Aviv.png",
+    "title": "Maccabi Tel Aviv F.C."
+  },
+  "Machida Zelvia": {
+    "description": "Japanese football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/FC_Machida_Zelvia_logo.svg/330px-FC_Machida_Zelvia_logo.svg.png",
+    "title": "FC Machida Zelvia"
+  },
   "Madura United": {
     "description": "Association football team in Indonesia",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/9/9d/Madura_United_F.C._logo.png",
@@ -1859,10 +2224,20 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/1._FSV_Mainz_05_logo.svg/330px-1._FSV_Mainz_05_logo.svg.png",
     "title": "1. FSV Mainz 05"
   },
+  "Malavan": {
+    "description": "Football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Malavan_F.C._Logo.svg/330px-Malavan_F.C._Logo.svg.png",
+    "title": "Malavan F.C."
+  },
   "Malmö FF": {
     "description": "Association football club in Sweden",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Malmo_FF_logo.svg/330px-Malmo_FF_logo.svg.png",
     "title": "Malmö FF"
+  },
+  "Mamelodi Sundowns": {
+    "description": "Association football club in South Africa",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Mamelodi_Sundowns_F.C.svg/330px-Mamelodi_Sundowns_F.C.svg.png",
+    "title": "Mamelodi Sundowns F.C."
   },
   "Manchester City": {
     "description": "Association football club in England",
@@ -1873,6 +2248,16 @@
     "description": "Association football club in England",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/330px-Manchester_United_FC_crest.svg.png",
     "title": "Manchester United F.C."
+  },
+  "Marathón": {
+    "description": "Association football club in Honduras",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/CD_Marathon.svg/330px-CD_Marathon.svg.png",
+    "title": "C.D. Marathón"
+  },
+  "Maribor": {
+    "description": "Association football club in Slovenia",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/NK_Maribor.svg/330px-NK_Maribor.svg.png",
+    "title": "NK Maribor"
   },
   "Marseille": {
     "description": "Association football club in France",
@@ -1893,6 +2278,16 @@
     "description": "Venezuelan football club",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/f/fe/CS_Mar%C3%ADtimo_de_La_Guaira.png",
     "title": "C.S. Marítimo de La Guaira"
+  },
+  "Mazatlán": {
+    "description": "Association football club in Mexico",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/d/da/Mazatl%C3%A1n_F.C._logo.svg/330px-Mazatl%C3%A1n_F.C._logo.svg.png",
+    "title": "Mazatlán F.C."
+  },
+  "Mechelen": {
+    "description": "Belgian association football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/KV_Mechelen_logo.svg/330px-KV_Mechelen_logo.svg.png",
+    "title": "KV Mechelen"
   },
   "Melbourne City": {
     "description": "Former Australian football club",
@@ -1939,6 +2334,11 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/FC_Metz_2021_Logo.svg/330px-FC_Metz_2021_Logo.svg.png",
     "title": "FC Metz"
   },
+  "Miami FC": {
+    "description": "American soccer team",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Miami_FC_logo.svg/330px-Miami_FC_logo.svg.png",
+    "title": "Miami FC"
+  },
   "Middlesbrough": {
     "description": "Association football club in England",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Middlesbrough_FC_crest.svg/330px-Middlesbrough_FC_crest.svg.png",
@@ -1979,10 +2379,20 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Minnesota_United_FC_%28MLS%29_Primary_logo.svg/330px-Minnesota_United_FC_%28MLS%29_Primary_logo.svg.png",
     "title": "Minnesota United FC"
   },
+  "Mjällby AIF": {
+    "description": "Swedish football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Mjallby_AIF_logo.svg/330px-Mjallby_AIF_logo.svg.png",
+    "title": "Mjällby AIF"
+  },
   "Modena FC": {
     "description": "Football club",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Modena_FC_2018_crest.svg/330px-Modena_FC_2018_crest.svg.png",
     "title": "Modena FC 2018"
+  },
+  "Molde": {
+    "description": "Norwegian association football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Molde_Fotball_Logo.svg/330px-Molde_Fotball_Logo.svg.png",
+    "title": "Molde FK"
   },
   "Monaco": {
     "description": "Association football club in Monaco",
@@ -1999,6 +2409,11 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/LogoASMonacoFC2021.svg/330px-LogoASMonacoFC2021.svg.png",
     "title": "AS Monaco FC"
   },
+  "Montana": {
+    "description": "Association football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/e/ee/PFC_Montana_logo.png",
+    "title": "PFC Montana"
+  },
   "Monterrey": {
     "description": "Association football club in Mexico",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Club_de_F%C3%BAtbol_Monterrey_logo.svg/330px-Club_de_F%C3%BAtbol_Monterrey_logo.svg.png",
@@ -2013,6 +2428,11 @@
     "description": "Former Canadian soccer team",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/e/ee/MontrealImpactLogo.png",
     "title": "Montreal Impact (1993–2011)"
+  },
+  "Motherwell": {
+    "description": "Association football club in Motherwell, Scotland",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Motherwell_FC_crest.svg/330px-Motherwell_FC_crest.svg.png",
+    "title": "Motherwell F.C."
   },
   "Mumbai City": {
     "description": "Association football club in India",
@@ -2034,6 +2454,11 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_NAC_Breda.svg/330px-Logo_NAC_Breda.svg.png",
     "title": "NAC Breda"
   },
+  "NEC": {
+    "description": "Dutch association football club from Nijmegen",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/NEC_Nijmegen_logo.svg/330px-NEC_Nijmegen_logo.svg.png",
+    "title": "NEC Nijmegen"
+  },
   "NK Zagreb": {
     "description": "Croatian football club",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/NK_Zagreb.svg/330px-NK_Zagreb.svg.png",
@@ -2054,20 +2479,55 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Nagoya_Grampus_Logo.svg/330px-Nagoya_Grampus_Logo.svg.png",
     "title": "Nagoya Grampus"
   },
+  "Nancy": {
+    "description": "Football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/FC_Nancy.svg/330px-FC_Nancy.svg.png",
+    "title": "FC Nancy"
+  },
+  "Nantes": {
+    "description": "Association football club in France",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Logo_FC_Nantes_%28avec_fond%29_-_2019.svg/330px-Logo_FC_Nantes_%28avec_fond%29_-_2019.svg.png",
+    "title": "FC Nantes"
+  },
   "Napoli": {
     "description": "Association football club in Italy",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/SSC_Napoli_2025_%28white_and_azure%29.svg/330px-SSC_Napoli_2025_%28white_and_azure%29.svg.png",
     "title": "SSC Napoli"
+  },
+  "Nasaf": {
+    "description": "Uzbek professional football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/FC_Nasaf_logo.svg/330px-FC_Nasaf_logo.svg.png",
+    "title": "FC Nasaf"
+  },
+  "Nashville SC": {
+    "description": "American professional soccer club based in Nashville, Tennessee",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Nashville_SC_logo%2C_2020.svg/330px-Nashville_SC_logo%2C_2020.svg.png",
+    "title": "Nashville SC"
+  },
+  "Navbahor Namangan": {
+    "description": "Association football club in Uzbekistan",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/a/ae/PFC_Navbahor_Namangan_logo.png",
+    "title": "PFC Navbahor Namangan"
   },
   "Necaxa": {
     "description": "Association football club in Mexico",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Club_Necaxa_Logo.svg/330px-Club_Necaxa_Logo.svg.png",
     "title": "Club Necaxa"
   },
+  "Neftchi Fergana": {
+    "description": "Association football club in Uzbekistan",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/7/71/Neftchi-2022-08.png",
+    "title": "FC Neftchi Fergana"
+  },
   "Neftçi Baku": {
     "description": "Azerbaijani association football club",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/9/92/Neft%C3%A7i_PFK_logo.png",
     "title": "Neftçi PFK"
+  },
+  "Neom": {
+    "description": "Association football club in Saudi Arabia",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/4/4a/Neom_SC_Logo.png",
+    "title": "Neom SC"
   },
   "New England Revolution": {
     "description": "American soccer club in Greater Boston",
@@ -2089,6 +2549,11 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/New_York_Red_Bulls_II_crest.svg/330px-New_York_Red_Bulls_II_crest.svg.png",
     "title": "New York Red Bulls II"
   },
+  "Newcastle Jets": {
+    "description": "Football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Newcastle_United_Jets_Logo.svg/330px-Newcastle_United_Jets_Logo.svg.png",
+    "title": "Newcastle Jets FC"
+  },
   "Newcastle United": {
     "description": "Association football club in England",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/330px-Newcastle_United_Logo.svg.png",
@@ -2099,10 +2564,25 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Escudo_del_Club_Atl%C3%A9tico_Newell%27s_Old_Boys_de_Rosario.svg/330px-Escudo_del_Club_Atl%C3%A9tico_Newell%27s_Old_Boys_de_Rosario.svg.png",
     "title": "Newell's Old Boys"
   },
+  "Nice": {
+    "description": "Association football club in France",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/OGC_Nice_logo.svg/330px-OGC_Nice_logo.svg.png",
+    "title": "OGC Nice"
+  },
   "Nitra": {
     "description": "Slovak football club",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/FC_Nitra_logo.svg/330px-FC_Nitra_logo.svg.png",
     "title": "FC Nitra"
+  },
+  "Noah": {
+    "description": "Association football club in Armenia",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/FC_Noah_logo_%282024%29.svg/330px-FC_Noah_logo_%282024%29.svg.png",
+    "title": "FC Noah"
+  },
+  "Nordsjælland": {
+    "description": "Danish professional football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/FC_Nordsj%C3%A6lland_logo.svg/330px-FC_Nordsj%C3%A6lland_logo.svg.png",
+    "title": "FC Nordsjælland"
   },
   "Nordstern Basel": {
     "description": "Swiss football club",
@@ -2144,6 +2624,11 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/OGC_Nice_logo.svg/330px-OGC_Nice_logo.svg.png",
     "title": "OGC Nice"
   },
+  "Olimpia": {
+    "description": "Association football club in Moldova",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/4/4d/FC_B%C4%83l%C8%9Bi_logo.jpg",
+    "title": "FC Bălți"
+  },
   "Olympiacos": {
     "description": "Greek association football club",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Olympiacos_FC_crest.svg/330px-Olympiacos_FC_crest.svg.png",
@@ -2164,20 +2649,45 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Olympique_de_Marseille_2026_logo.svg/330px-Olympique_de_Marseille_2026_logo.svg.png",
     "title": "Olympique de Marseille"
   },
+  "Omonia": {
+    "description": "Multi-sport club based in Nicosia, Cyprus",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/AC_Omonia_logo.svg/330px-AC_Omonia_logo.svg.png",
+    "title": "AC Omonia"
+  },
   "Orlando City": {
     "description": "American professional soccer club based in Orlando, Florida",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Orlando_City_2014.svg/330px-Orlando_City_2014.svg.png",
     "title": "Orlando City SC"
+  },
+  "Orlando City SC": {
+    "description": "American professional soccer club based in Orlando, Florida",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Orlando_City_2014.svg/330px-Orlando_City_2014.svg.png",
+    "title": "Orlando City SC"
+  },
+  "Orlando Pirates": {
+    "description": "South African football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Orlando_Pirates_FC_logo.svg/330px-Orlando_Pirates_FC_logo.svg.png",
+    "title": "Orlando Pirates F.C."
   },
   "Osasuna": {
     "description": "Spanish football club",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/CA_Osasuna_2024_crest.svg/330px-CA_Osasuna_2024_crest.svg.png",
     "title": "CA Osasuna"
   },
+  "Oviedo": {
+    "description": "Association football club in Spain",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Real_Oviedo_logo.svg/330px-Real_Oviedo_logo.svg.png",
+    "title": "Real Oviedo"
+  },
   "PAOK": {
     "description": "Greek association football club",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/e/e6/PAOK_FC_EMBLEM.png",
     "title": "PAOK FC"
+  },
+  "PEC Zwolle": {
+    "description": "Dutch professional football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/PEC_Zwolle_logo.svg/330px-PEC_Zwolle_logo.svg.png",
+    "title": "PEC Zwolle"
   },
   "PSV": {
     "description": "Sports club from Eindhoven, the Netherlands",
@@ -2193,6 +2703,16 @@
     "description": "Association football club in Mexico",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Pachuca_Tuzos_logo.svg/330px-Pachuca_Tuzos_logo.svg.png",
     "title": "C.F. Pachuca"
+  },
+  "Pafos": {
+    "description": "Cypriot football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Pafos_FC_crest.svg/330px-Pafos_FC_crest.svg.png",
+    "title": "Pafos FC"
+  },
+  "Pakhtakor": {
+    "description": "Association football club in Uzbekistan",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Pakhtakor_FC_logo.svg/330px-Pakhtakor_FC_logo.svg.png",
+    "title": "Pakhtakor FC"
   },
   "Palermo": {
     "description": "Association football club in Italy",
@@ -2213,6 +2733,16 @@
     "description": "Greek association football club",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Panathinaikos_F.C._logo.svg/330px-Panathinaikos_F.C._logo.svg.png",
     "title": "Panathinaikos F.C."
+  },
+  "Pari Nizhny Novgorod": {
+    "description": "Association football club in Russia",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/FC_Nizhny_Novgorod_emblem.svg/330px-FC_Nizhny_Novgorod_emblem.svg.png",
+    "title": "FC Pari Nizhny Novgorod"
+  },
+  "Paris FC": {
+    "description": "Association football club in Paris, France",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Paris_FC_logo.svg/330px-Paris_FC_logo.svg.png",
+    "title": "Paris FC"
   },
   "Paris Saint-Germain": {
     "description": "French football club",
@@ -2239,6 +2769,16 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/8/84/PAS_Tehran_F.C._%28logo%29.png",
     "title": "PAS Tehran F.C."
   },
+  "Persepolis": {
+    "description": "Iranian football club in Tehran",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/FC_Persepolis_Official_Logo.svg/330px-FC_Persepolis_Official_Logo.svg.png",
+    "title": "Persepolis F.C."
+  },
+  "Persib": {
+    "description": "Association football team in Indonesia",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/8/85/Persib_Bandung_Football_Logo.png",
+    "title": "Persib Bandung"
+  },
   "Persib Bandung": {
     "description": "Association football team in Indonesia",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/8/85/Persib_Bandung_Football_Logo.png",
@@ -2249,10 +2789,20 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Perth_Glory_FC_logo.svg/330px-Perth_Glory_FC_logo.svg.png",
     "title": "Perth Glory FC"
   },
+  "Peterborough United": {
+    "description": "Association football club in England",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Peterborough_United%27s_new_badge.svg/330px-Peterborough_United%27s_new_badge.svg.png",
+    "title": "Peterborough United F.C."
+  },
   "Peñarol": {
     "description": "Association football club in Uruguay",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Escudo_del_Club_Atl%C3%A9tico_Pe%C3%B1arol.svg/330px-Escudo_del_Club_Atl%C3%A9tico_Pe%C3%B1arol.svg.png",
     "title": "Peñarol"
+  },
+  "Philadelphia Union": {
+    "description": "American professional soccer club based in Philadelphia metropolitan area",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Philadelphia_Union_2018_logo.svg/330px-Philadelphia_Union_2018_logo.svg.png",
+    "title": "Philadelphia Union"
   },
   "Phoenix Rising": {
     "description": "American professional soccer club based in Phoenix",
@@ -2269,10 +2819,40 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Pisa_SC_crest.svg/330px-Pisa_SC_crest.svg.png",
     "title": "Pisa SC"
   },
+  "Plaza Amador": {
+    "description": "Association football club in Panama",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/2/20/Cd_plaza_amador_logo.png",
+    "title": "C.D. Plaza Amador"
+  },
+  "Pogoń Szczecin": {
+    "description": "Polish association football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Pogon_Szczecin_logo.svg/330px-Pogon_Szczecin_logo.svg.png",
+    "title": "Pogoń Szczecin"
+  },
   "Pohang Steelers": {
     "description": "South Korean football club",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Pohang_Steelers_emblem_%285_stars%29.svg/330px-Pohang_Steelers_emblem_%285_stars%29.svg.png",
     "title": "Pohang Steelers"
+  },
+  "Polokwane City": {
+    "description": "Association football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/0/02/Polokwane_City_FC_logo.png",
+    "title": "Polokwane City F.C."
+  },
+  "Port": {
+    "description": "Football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Port_FC_logo.svg/330px-Port_FC_logo.svg.png",
+    "title": "Port F.C."
+  },
+  "Port Vale": {
+    "description": "Association football club in Stoke-on-Trent, England",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Port_Vale_logo.svg/330px-Port_Vale_logo.svg.png",
+    "title": "Port Vale F.C."
+  },
+  "Portland Timbers": {
+    "description": "American professional soccer club based in Portland, Oregon",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Portland_Timbers_logo.svg/330px-Portland_Timbers_logo.svg.png",
+    "title": "Portland Timbers"
   },
   "Porto": {
     "description": "Portuguese association football club",
@@ -2304,10 +2884,30 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Club_Puebla_logo.svg/330px-Club_Puebla_logo.svg.png",
     "title": "Club Puebla"
   },
+  "Puerto Cabello": {
+    "description": "Venezuelan association football team",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/a/a7/Academia_Puerto_Cabello.png",
+    "title": "Academia Puerto Cabello"
+  },
+  "Pumas": {
+    "description": "Varsity American football team",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pumas_CU_logo.svg/330px-Pumas_CU_logo.svg.png",
+    "title": "Pumas CU football"
+  },
   "Pune City": {
     "description": "Tehsil in Maharashtra, India",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Pune_City_tehsil_in_Pune_district.png/330px-Pune_City_tehsil_in_Pune_district.png",
     "title": "Pune City taluka"
+  },
+  "Puskás Akadémia": {
+    "description": "Football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Pusk%C3%A1s_Akad%C3%A9mia_FC_logo.svg/330px-Pusk%C3%A1s_Akad%C3%A9mia_FC_logo.svg.png",
+    "title": "Puskás Akadémia FC"
+  },
+  "Pyramids": {
+    "description": "Association football club in Egypt",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/8/87/Pyramids_FC_%282020%29.png",
+    "title": "Pyramids FC"
   },
   "Qatar SC": {
     "description": "Association football club in Qatar",
@@ -2344,6 +2944,16 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/330px-Rcd_mallorca.svg.png",
     "title": "RCD Mallorca"
   },
+  "RKC Waalwijk": {
+    "description": "Association football club in the Netherlands",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/RKC_Waalwijk_logo.svg/330px-RKC_Waalwijk_logo.svg.png",
+    "title": "RKC Waalwijk"
+  },
+  "RS Berkane": {
+    "description": "Association football club in Morocco",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/d/de/RS_Berkane_%28logo%29.png",
+    "title": "RS Berkane"
+  },
   "RSC Anderlecht": {
     "description": "Football club",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/R.S.C._Anderlecht.svg/330px-R.S.C._Anderlecht.svg.png",
@@ -2369,6 +2979,16 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Racing_de_Santander_logo.svg/330px-Racing_de_Santander_logo.svg.png",
     "title": "Racing de Santander"
   },
+  "Raja Casablanca": {
+    "description": "Sports club in Casablanca, Morocco",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/b/bd/Raja_CA_logo.png",
+    "title": "Raja CA"
+  },
+  "Randers": {
+    "description": "Danish football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Randers_FC_logo.svg/330px-Randers_FC_logo.svg.png",
+    "title": "Randers FC"
+  },
   "Rangers": {
     "description": "Association football club in Scotland",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Rangers_FC.svg/330px-Rangers_FC.svg.png",
@@ -2388,6 +3008,11 @@
     "description": "Association football club in England",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Reading_FC.svg/330px-Reading_FC.svg.png",
     "title": "Reading F.C."
+  },
+  "Real Betis": {
+    "description": "Association football club in Spain",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Real_betis_logo.svg/330px-Real_betis_logo.svg.png",
+    "title": "Real Betis"
   },
   "Real Betis Balompié": {
     "description": "Association football club in Spain",
@@ -2409,6 +3034,11 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/330px-Real_Madrid_CF.svg.png",
     "title": "Real Madrid CF"
   },
+  "Real Salt Lake": {
+    "description": "American professional soccer club based in Salt Lake City",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Real_Salt_Lake_2010.svg/330px-Real_Salt_Lake_2010.svg.png",
+    "title": "Real Salt Lake"
+  },
   "Real Sociedad": {
     "description": "Spanish football club",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Real_Sociedad_logo.svg/330px-Real_Sociedad_logo.svg.png",
@@ -2428,6 +3058,11 @@
     "description": "Football club",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/2/2c/Recreativo_huelva_crest.png",
     "title": "Recreativo de Huelva"
+  },
+  "Red Bull Bragantino": {
+    "description": "Association football team in Brazil",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Red_Bull_Bragantino_logo.svg/330px-Red_Bull_Bragantino_logo.svg.png",
+    "title": "Red Bull Bragantino"
   },
   "Red Bull New York": {
     "description": "American professional soccer club based in New York metropolitan area",
@@ -2465,9 +3100,9 @@
     "title": "Rio Ave F.C."
   },
   "River Plate": {
-    "description": "Football club",
-    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/SV_Riverplate_Aruba.svg/330px-SV_Riverplate_Aruba.svg.png",
-    "title": "SV River Plate Aruba"
+    "description": "Professional sports club in Buenos Aires, Argentina",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Club_Atl%C3%A9tico_River_Plate_logo.svg/330px-Club_Atl%C3%A9tico_River_Plate_logo.svg.png",
+    "title": "Club Atlético River Plate"
   },
   "River Plate (UY)": {
     "description": "South American professional football club",
@@ -2518,6 +3153,11 @@
     "description": "Association football club in Germany",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/SC_Freiburg_logo.svg/330px-SC_Freiburg_logo.svg.png",
     "title": "SC Freiburg"
+  },
+  "SJK": {
+    "description": "Finnish football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/8/81/SJK_Akatemia_logo.png",
+    "title": "SJK Akatemia"
   },
   "SL Benfica": {
     "description": "Association football club in Portugal",
@@ -2574,6 +3214,11 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/U.C._Sampdoria_logo.svg/330px-U.C._Sampdoria_logo.svg.png",
     "title": "UC Sampdoria"
   },
+  "Samsunspor": {
+    "description": "Sports club in Turkey",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Samsunspor_crest.svg/330px-Samsunspor_crest.svg.png",
+    "title": "Samsunspor"
+  },
   "San Diego FC": {
     "description": "American professional soccer club based in San Diego",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/San_Diego_FC_logo.svg/330px-San_Diego_FC_logo.svg.png",
@@ -2584,6 +3229,16 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/San_Jose_Earthquakes_2014.svg/330px-San_Jose_Earthquakes_2014.svg.png",
     "title": "San Jose Earthquakes"
   },
+  "San Lorenzo": {
+    "description": "Argentine sports club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sanlorenzo_almagro_logo2026.png/330px-Sanlorenzo_almagro_logo2026.png",
+    "title": "San Lorenzo de Almagro"
+  },
+  "Sanfrecce Hiroshima": {
+    "description": "Japanese football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Sanfrecce_Hiroshima_logo.svg/330px-Sanfrecce_Hiroshima_logo.svg.png",
+    "title": "Sanfrecce Hiroshima"
+  },
   "Santos": {
     "description": "Association football club in Brazil",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Santos_Futebol_Clube_logo_%28with_stars_and_crown%29.png/330px-Santos_Futebol_Clube_logo_%28with_stars_and_crown%29.png",
@@ -2593,6 +3248,26 @@
     "description": "Association football club in Brazil",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Santos_Futebol_Clube_logo_%28with_stars_and_crown%29.png/330px-Santos_Futebol_Clube_logo_%28with_stars_and_crown%29.png",
     "title": "Santos FC"
+  },
+  "Santos Laguna": {
+    "description": "Association football club in Mexico",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Santos_Laguna_logo.svg/330px-Santos_Laguna_logo.svg.png",
+    "title": "Santos Laguna"
+  },
+  "Saprissa": {
+    "description": "Association football club in San José",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Escudo_Saprissa_2012.svg/330px-Escudo_Saprissa_2012.svg.png",
+    "title": "Deportivo Saprissa"
+  },
+  "Sarpsborg 08": {
+    "description": "Norwegian football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Sarpsborg_08_FF_logo.svg/330px-Sarpsborg_08_FF_logo.svg.png",
+    "title": "Sarpsborg 08 FF"
+  },
+  "Sassuolo": {
+    "description": "Association football club based in Sassuolo, Italy",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/US_Sassuolo_Calcio_logo.svg/330px-US_Sassuolo_Calcio_logo.svg.png",
+    "title": "US Sassuolo Calcio"
   },
   "Schalke 04": {
     "description": "Association football club in Germany",
@@ -2614,10 +3289,20 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Seattle_Sounders_logo.svg/330px-Seattle_Sounders_logo.svg.png",
     "title": "Seattle Sounders FC"
   },
+  "Selangor": {
+    "description": "Professional football club based in Shah Alam, Selangor, Malaysia",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Selangor_FC_logo.svg/330px-Selangor_FC_logo.svg.png",
+    "title": "Selangor F.C."
+  },
   "Semen Padang": {
     "description": "Indonesian football club",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Semen_Padang_FC_logo.svg/330px-Semen_Padang_FC_logo.svg.png",
     "title": "Semen Padang F.C."
+  },
+  "Sepahan": {
+    "description": "Iranian association football club based in Isfahan",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Sepahan_New_Logo.svg/330px-Sepahan_New_Logo.svg.png",
+    "title": "Sepahan S.C."
   },
   "Servette": {
     "description": "Association football club in Switzerland",
@@ -2649,6 +3334,11 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/FC_Shakhtar_Donetsk.svg/330px-FC_Shakhtar_Donetsk.svg.png",
     "title": "FC Shakhtar Donetsk"
   },
+  "Shamrock Rovers": {
+    "description": "Association football club in Ireland",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Shamrock_Rovers_F.C._crest.svg/330px-Shamrock_Rovers_F.C._crest.svg.png",
+    "title": "Shamrock Rovers F.C."
+  },
   "Shanghai SIPG": {
     "description": "Chinese association football club",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Shanghai_Port_F.C.svg/330px-Shanghai_Port_F.C.svg.png",
@@ -2664,6 +3354,11 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Sharjah_FC_New_Logo.svg/330px-Sharjah_FC_New_Logo.svg.png",
     "title": "Sharjah FC"
   },
+  "Sheffield United": {
+    "description": "Association football club in England",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Sheffield_United_FC_logo.svg/330px-Sheffield_United_FC_logo.svg.png",
+    "title": "Sheffield United F.C."
+  },
   "Shimizu S-Pulse": {
     "description": "Japanese football club",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Shimizu_S-Pulse_logo.svg/330px-Shimizu_S-Pulse_logo.svg.png",
@@ -2673,6 +3368,11 @@
     "description": "Association football club in Hiratsuka, Japan",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Shonan_Bellmare_logo.svg/330px-Shonan_Bellmare_logo.svg.png",
     "title": "Shonan Bellmare"
+  },
+  "Silkeborg": {
+    "description": "Association football club in Denmark",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Silkeborg_IF_logo.svg/330px-Silkeborg_IF_logo.svg.png",
+    "title": "Silkeborg IF"
   },
   "Sincan Belediyesi Ankaraspor": {
     "description": "Turkish football club",
@@ -2694,6 +3394,31 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Sivasspor_logo.svg/330px-Sivasspor_logo.svg.png",
     "title": "Sivasspor"
   },
+  "Siwelele": {
+    "description": "Football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Siwelele_F.C._logo.svg/330px-Siwelele_F.C._logo.svg.png",
+    "title": "Siwelele F.C."
+  },
+  "Slavia Prague": {
+    "description": "Czech association football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/SK_Slavia_Praha_full_logo.svg/330px-SK_Slavia_Praha_full_logo.svg.png",
+    "title": "SK Slavia Prague"
+  },
+  "Slovan Bratislava": {
+    "description": "Association football club in Slovakia",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SK_Slovan_Bratislava_logo.svg/330px-SK_Slovan_Bratislava_logo.svg.png",
+    "title": "ŠK Slovan Bratislava"
+  },
+  "Slovan Liberec": {
+    "description": "Football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/f/ff/Slovan_Liberec_logo_since_2024.png",
+    "title": "FC Slovan Liberec"
+  },
+  "Sochaux": {
+    "description": "French football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/FC_Sochaux-Montbeliard_logo.svg/330px-FC_Sochaux-Montbeliard_logo.svg.png",
+    "title": "FC Sochaux-Montbéliard"
+  },
   "Sochaux II": {
     "description": "French football club",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/FC_Sochaux-Montbeliard_logo.svg/330px-FC_Sochaux-Montbeliard_logo.svg.png",
@@ -2708,6 +3433,11 @@
     "description": "English association football club",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/FC_Southampton.svg/330px-FC_Southampton.svg.png",
     "title": "Southampton F.C."
+  },
+  "Sparta Prague": {
+    "description": "Czech association football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/AC-Sparta-LOGO2021.svg/330px-AC-Sparta-LOGO2021.svg.png",
+    "title": "AC Sparta Prague"
   },
   "Sparta Rotterdam": {
     "description": "Dutch association football club",
@@ -2744,6 +3474,21 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Real_Sporting_de_Gijon.svg/330px-Real_Sporting_de_Gijon.svg.png",
     "title": "Sporting Atlético"
   },
+  "St Patrick's Athletic": {
+    "description": "Football club in Dublin",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/St._Patrick%27s_Athletic_F.C._crest.svg/330px-St._Patrick%27s_Athletic_F.C._crest.svg.png",
+    "title": "St Patrick's Athletic F.C."
+  },
+  "St. Gallen": {
+    "description": "Swiss professional football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/FC_St._Gallen_logo.svg/330px-FC_St._Gallen_logo.svg.png",
+    "title": "FC St. Gallen"
+  },
+  "Stade Nyonnais": {
+    "description": "Swiss football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/8/89/FC_Stade_Nyonnais_logo.png",
+    "title": "FC Stade Nyonnais"
+  },
   "Stade Rennais FC": {
     "description": "Association football club in France",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Stade_Rennais_FC.svg/330px-Stade_Rennais_FC.svg.png",
@@ -2764,6 +3509,16 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Stoke_City_FC_crest_2001.svg/330px-Stoke_City_FC_crest_2001.svg.png",
     "title": "Stoke City F.C."
   },
+  "Strasbourg": {
+    "description": "Association football club in France",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Racing_Club_de_Strasbourg_logo.svg/330px-Racing_Club_de_Strasbourg_logo.svg.png",
+    "title": "RC Strasbourg Alsace"
+  },
+  "Sturm Graz": {
+    "description": "Austrian professional football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/SK_Sturm_Graz_logo.svg/330px-SK_Sturm_Graz_logo.svg.png",
+    "title": "SK Sturm Graz"
+  },
   "Sunderland": {
     "description": "Association football club in England",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Logo_Sunderland.svg/330px-Logo_Sunderland.svg.png",
@@ -2773,6 +3528,11 @@
     "description": "Association football club in England",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Logo_Sunderland.svg/330px-Logo_Sunderland.svg.png",
     "title": "Sunderland A.F.C."
+  },
+  "Surkhon Termiz": {
+    "description": "Football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/c/cf/FC_Surkhon_logo.png",
+    "title": "FC Surkhon"
   },
   "Swansea City": {
     "description": "Association football club in Swansea, Wales",
@@ -2814,10 +3574,30 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logo_TSG_Hoffenheim.svg/330px-Logo_TSG_Hoffenheim.svg.png",
     "title": "TSG 1899 Hoffenheim"
   },
+  "Talleres": {
+    "description": "Sports club in Argentina",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Escudo_Talleres_2015.svg/330px-Escudo_Talleres_2015.svg.png",
+    "title": "Talleres de Córdoba"
+  },
   "Tampa Bay Rowdies": {
     "description": "American professional soccer club based in St. Petersburg",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Tampa_Bay_Rowdies_logo_%28with_Tampa_Bay%2C_two_gold_stars%29.svg/330px-Tampa_Bay_Rowdies_logo_%28with_Tampa_Bay%2C_two_gold_stars%29.svg.png",
     "title": "Tampa Bay Rowdies"
+  },
+  "Tatran Prešov": {
+    "description": "Slovak football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/7/7e/1FC_Tatran.png",
+    "title": "1. FC Tatran Prešov"
+  },
+  "Telstar": {
+    "description": "Association football club in Velsen, Netherlands",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/SC_Telstar_logo.svg/330px-SC_Telstar_logo.svg.png",
+    "title": "SC Telstar"
+  },
+  "Terengganu": {
+    "description": "Malaysian association football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Terengganu_FC_logo.svg/330px-Terengganu_FC_logo.svg.png",
+    "title": "Terengganu FC"
   },
   "Tianjin Jinmen Tiger": {
     "description": "Chinese professional football club",
@@ -2839,6 +3619,16 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Tigres_UANL_logo_%28crest%29.svg/330px-Tigres_UANL_logo_%28crest%29.svg.png",
     "title": "Tigres UANL"
   },
+  "Tijuana": {
+    "description": "Association football club in Mexico",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Club_Tijuana_logo.svg/330px-Club_Tijuana_logo.svg.png",
+    "title": "Club Tijuana"
+  },
+  "Toluca": {
+    "description": "Association football club in Mexico",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Club_Toluca_Logo.svg/330px-Club_Toluca_Logo.svg.png",
+    "title": "Toluca FC"
+  },
   "Torino": {
     "description": "Association football club in Italy",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Torino_FC_Logo.svg/330px-Torino_FC_Logo.svg.png",
@@ -2849,10 +3639,20 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Toronto_FC_Logo.svg/330px-Toronto_FC_Logo.svg.png",
     "title": "Toronto FC"
   },
+  "Torreense": {
+    "description": "Association football club in Portugal",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/S.C.U._Torreense_logo.svg/330px-S.C.U._Torreense_logo.svg.png",
+    "title": "S.C.U. Torreense"
+  },
   "Tottenham Hotspur": {
     "description": "Association football club in England",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/330px-Tottenham_Hotspur.svg.png",
     "title": "Tottenham Hotspur F.C."
+  },
+  "Toulouse": {
+    "description": "Association football club in France",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Toulouse_FC_2018_logo.svg/330px-Toulouse_FC_2018_logo.svg.png",
+    "title": "Toulouse FC"
   },
   "Tours": {
     "description": "French football club, 1919–2025",
@@ -2864,10 +3664,20 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Trabzonspor_Amblem.svg/330px-Trabzonspor_Amblem.svg.png",
     "title": "Trabzonspor"
   },
+  "Tractor": {
+    "description": "Iranian football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Tractor_S.C._Logo.svg/330px-Tractor_S.C._Logo.svg.png",
+    "title": "Tractor S.C."
+  },
   "TuS Koblenz": {
     "description": "German football club",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/TuS_Koblenz.svg/330px-TuS_Koblenz.svg.png",
     "title": "TuS Koblenz"
+  },
+  "Turan Tovuz": {
+    "description": "Football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/b/b3/Turan_Tovuz_logo.png",
+    "title": "Turan Tovuz"
   },
   "Twente": {
     "description": "Dutch professional football club",
@@ -2888,6 +3698,16 @@
     "description": "Association football club in Mexico City, Mexico",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Club_Universidad_Nacional_logo.svg/330px-Club_Universidad_Nacional_logo.svg.png",
     "title": "Pumas UNAM"
+  },
+  "US Monastir": {
+    "description": "Tunisian association football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Usm_logo_1923.png/330px-Usm_logo_1923.png",
+    "title": "US Monastir (football)"
+  },
+  "USM Alger": {
+    "description": "Algerian association football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Usma3stars.png/330px-Usma3stars.png",
+    "title": "USM Alger"
   },
   "Udinese": {
     "description": "Italian football club",
@@ -2913,6 +3733,21 @@
     "description": "Association football club in Germany",
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/1._FC_Union_Berlin_Logo.svg/330px-1._FC_Union_Berlin_Logo.svg.png",
     "title": "1. FC Union Berlin"
+  },
+  "Union Saint-Gilloise": {
+    "description": "Belgian professional football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Royale_Union_Saint-Gilloise_logo.svg/330px-Royale_Union_Saint-Gilloise_logo.svg.png",
+    "title": "Royale Union Saint-Gilloise"
+  },
+  "Universidad Católica": {
+    "description": "Chilean football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Escudo_Club_Deportivo_Universidad_Cat%C3%B3lica.svg/330px-Escudo_Club_Deportivo_Universidad_Cat%C3%B3lica.svg.png",
+    "title": "Club Deportivo Universidad Católica"
+  },
+  "Universitatea Cluj": {
+    "description": "Association football club in Cluj-Napoca",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Cfmuniversitateacluj.png",
+    "title": "FC Universitatea Cluj"
   },
   "União São João": {
     "description": "Football club",
@@ -2959,6 +3794,11 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Vancouver_Whitecaps_logo.svg/330px-Vancouver_Whitecaps_logo.svg.png",
     "title": "Vancouver Whitecaps FC"
   },
+  "Vasco da Gama": {
+    "description": "Football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Vasco_da_Gama_logo.svg/330px-Vasco_da_Gama_logo.svg.png",
+    "title": "Vasco da Gama F.C."
+  },
   "Venezia": {
     "description": "Italian football club",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Venezia_FC_crest.svg/330px-Venezia_FC_crest.svg.png",
@@ -2984,6 +3824,16 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/VfL_Wolfsburg_logo_2026.svg/330px-VfL_Wolfsburg_logo_2026.svg.png",
     "title": "VfL Wolfsburg"
   },
+  "Viking": {
+    "description": "Association football club in Stavanger, Norway",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Viking_FK_logo_2020.svg/330px-Viking_FK_logo_2020.svg.png",
+    "title": "Viking FK"
+  },
+  "Viktoria Plzeň": {
+    "description": "Association football club in the Czech Republic",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Viktoria_Plzen_logo.svg/330px-Viktoria_Plzen_logo.svg.png",
+    "title": "FC Viktoria Plzeň"
+  },
   "Villarreal": {
     "description": "Association football club in Spain",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Villarreal_CF_logo-en.svg/330px-Villarreal_CF_logo-en.svg.png",
@@ -2998,6 +3848,11 @@
     "description": "Association football club in Spain",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Villarreal_CF_logo-en.svg/330px-Villarreal_CF_logo-en.svg.png",
     "title": "Villarreal CF"
+  },
+  "Violette": {
+    "description": "Association football club in Haiti",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/b/b9/Violette_AC_2.png",
+    "title": "Violette AC"
   },
   "Vissel Kobe": {
     "description": "Association football club in Japan",
@@ -3014,10 +3869,75 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/c/c9/Vitessedallas.png",
     "title": "Vitesse Dallas"
   },
+  "Vitória de Guimarães": {
+    "description": "Portuguese association football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Vit%C3%B3ria_Guimar%C3%A3es.svg/330px-Vit%C3%B3ria_Guimar%C3%A3es.svg.png",
+    "title": "Vitória S.C."
+  },
+  "Vizela": {
+    "description": "Portuguese association football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/F.C._Vizela_logo.svg/330px-F.C._Vizela_logo.svg.png",
+    "title": "F.C. Vizela"
+  },
+  "Volendam": {
+    "description": "Dutch football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/FC_Volendam_logo.png/330px-FC_Volendam_logo.png",
+    "title": "FC Volendam"
+  },
   "Västerås SK": {
     "description": "Swedish football club",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Vasteras_SK_logo.svg/330px-Vasteras_SK_logo.svg.png",
     "title": "Västerås SK Fotboll"
+  },
+  "Watford": {
+    "description": "Association football club in England",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Watford.svg/330px-Watford.svg.png",
+    "title": "Watford F.C."
+  },
+  "Watford FC": {
+    "description": "Association football club in England",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Watford.svg/330px-Watford.svg.png",
+    "title": "Watford F.C."
+  },
+  "Wellington Phoenix": {
+    "description": "Association football club based in New Zealand",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Wellington_Phoenix_FC_logo.svg/330px-Wellington_Phoenix_FC_logo.svg.png",
+    "title": "Wellington Phoenix FC"
+  },
+  "Werder Bremen": {
+    "description": "Association football club in Germany",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/330px-SV-Werder-Bremen-Logo.svg.png",
+    "title": "SV Werder Bremen"
+  },
+  "Werder Bremen II": {
+    "description": "German football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/330px-SV-Werder-Bremen-Logo.svg.png",
+    "title": "SV Werder Bremen II"
+  },
+  "West Bromwich Albion": {
+    "description": "Association football club in West Bromwich, England",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/West_Bromwich_Albion.svg/330px-West_Bromwich_Albion.svg.png",
+    "title": "West Bromwich Albion F.C."
+  },
+  "West Ham United": {
+    "description": "Association football club in England",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/330px-West_Ham_United_FC_logo.svg.png",
+    "title": "West Ham United F.C."
+  },
+  "Western Sydney Wanderers": {
+    "description": "Australian professional association football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Western_Sydney_Wanderers_FC.svg/330px-Western_Sydney_Wanderers_FC.svg.png",
+    "title": "Western Sydney Wanderers FC"
+  },
+  "Widzew Łódź": {
+    "description": "Polish association football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Widzew_Lodz.svg/330px-Widzew_Lodz.svg.png",
+    "title": "Widzew Łódź"
+  },
+  "Wigan Athletic": {
+    "description": "Association football club in Greater Manchester, England",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Wigan_Athletic.svg/330px-Wigan_Athletic.svg.png",
+    "title": "Wigan Athletic F.C."
   },
   "Willem II": {
     "description": "Association football club in the Netherlands",
@@ -3039,10 +3959,20 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/5/5c/Real_Housewives_of_New_York_City_%28season_15_poster%29.png",
     "title": "The Real Housewives of New York City season 15"
   },
+  "Wolfsberger AC": {
+    "description": "Austrian professional football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Wolfsberger_AC_logo.svg/330px-Wolfsberger_AC_logo.svg.png",
+    "title": "Wolfsberger AC"
+  },
   "Wolverhampton Wanderers": {
     "description": "Association football club in Wolverhampton, England",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Wolverhampton_Wanderers_FC_crest.svg/330px-Wolverhampton_Wanderers_FC_crest.svg.png",
     "title": "Wolverhampton Wanderers F.C."
+  },
+  "Wrexham": {
+    "description": "Association football club in Wrexham, Wales",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Wrexham_A.F.C._Logo.svg/330px-Wrexham_A.F.C._Logo.svg.png",
+    "title": "Wrexham A.F.C."
   },
   "Wydad": {
     "description": "Association football club in Morocco",
@@ -3060,9 +3990,19 @@
     "title": "Yokohama FC"
   },
   "Young Boys": {
-    "description": "Danish football club",
-    "thumb": "https://upload.wikimedia.org/wikipedia/en/a/ab/Young_Boys_FD_logo.png",
-    "title": "Young Boys FD"
+    "description": "Association football club in Switzerland",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/BSC_Young_Boys.svg/330px-BSC_Young_Boys.svg.png",
+    "title": "BSC Young Boys"
+  },
+  "ZED": {
+    "description": "Association football club in Giza, Egypt",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/3/39/ZED_FC_logo.png",
+    "title": "ZED FC"
+  },
+  "Zamalek": {
+    "description": "Association football club in Giza, Egypt",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Zamalek_SC_logo.svg/330px-Zamalek_SC_logo.svg.png",
+    "title": "Zamalek SC"
   },
   "Zaragoza": {
     "description": "Association football club in Spain",
@@ -3079,6 +4019,11 @@
     "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/FC_Zenit_Saint_Petersburg_crest.svg/330px-FC_Zenit_Saint_Petersburg_crest.svg.png",
     "title": "FC Zenit Saint Petersburg"
   },
+  "Zhejiang": {
+    "description": "Association football club in China",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Zhejiang_Professional_F.C.svg/330px-Zhejiang_Professional_F.C.svg.png",
+    "title": "Zhejiang Professional F.C."
+  },
   "Znicz Pruszków": {
     "description": "Association football club",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/8/84/Znicz_Pruszkow.png",
@@ -3088,6 +4033,26 @@
     "description": "Association football club",
     "thumb": "https://upload.wikimedia.org/wikipedia/en/8/84/Znicz_Pruszkow.png",
     "title": "Znicz Pruszków"
+  },
+  "Zulte Waregem": {
+    "description": "Belgian professional football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Zulte-Waregem_logo.svg/330px-Zulte-Waregem_logo.svg.png",
+    "title": "SV Zulte Waregem"
+  },
+  "Zürich": {
+    "description": "Professional association football club in Zürich, Switzerland",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/FC_Zurich_Logo_2022.svg/330px-FC_Zurich_Logo_2022.svg.png",
+    "title": "FC Zürich"
+  },
+  "Çaykur Rizespor": {
+    "description": "Turkish football club",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Caykur_Rizespor_logo.svg/330px-Caykur_Rizespor_logo.svg.png",
+    "title": "Çaykur Rizespor"
+  },
+  "Étoile du Sahel": {
+    "description": "Association football club in Tunisia",
+    "thumb": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Logo_Etoile_du_Sahel.svg/330px-Logo_Etoile_du_Sahel.svg.png",
+    "title": "Étoile Sportive du Sahel"
   },
   "İstanbul Başakşehir": {
     "description": "Turkish professional football club",

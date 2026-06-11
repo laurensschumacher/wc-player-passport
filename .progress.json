@@ -7751,6 +7751,1710 @@
         }
       ],
       "validation_status": "validated"
+    },
+    {
+      "id": "pablo-aimar-arg",
+      "name": "Pablo Aimar",
+      "nationality": "Argentina",
+      "nationality_code": "ARG",
+      "flag_emoji": "🇦🇷",
+      "position": "MID",
+      "transfermarkt_url": "https://www.transfermarkt.com/pablo-aimar/profil/spieler/3411",
+      "world_cups": [
+        {
+          "year": 2002,
+          "games": 3,
+          "goals": 0,
+          "club": "Valencia CF"
+        },
+        {
+          "year": 2006,
+          "games": 3,
+          "goals": 0,
+          "club": "Valencia CF"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "martin-demichelis-arg",
+      "name": "Martin Demichelis",
+      "nationality": "Argentina",
+      "nationality_code": "ARG",
+      "flag_emoji": "🇦🇷",
+      "position": "DEF",
+      "transfermarkt_url": "https://www.transfermarkt.com/martin-demichelis/profil/spieler/2963",
+      "world_cups": [
+        {
+          "year": 2010,
+          "games": 5,
+          "goals": 1,
+          "club": "Bayern Munich"
+        },
+        {
+          "year": 2014,
+          "games": 3,
+          "goals": 0,
+          "club": "Manchester City"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "lucio-bra",
+      "name": "Lucio",
+      "nationality": "Brazil",
+      "nationality_code": "BRA",
+      "flag_emoji": "🇧🇷",
+      "position": "DEF",
+      "transfermarkt_url": "https://www.transfermarkt.com/lucio/profil/spieler/77",
+      "world_cups": [
+        {
+          "year": 2002,
+          "games": 7,
+          "goals": 0,
+          "club": "Bayer 04 Leverkusen"
+        },
+        {
+          "year": 2006,
+          "games": 5,
+          "goals": 0,
+          "club": "Bayern Munich"
+        },
+        {
+          "year": 2010,
+          "games": 5,
+          "goals": 0,
+          "club": "Inter Milan"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "maicon-bra",
+      "name": "Maicon",
+      "nationality": "Brazil",
+      "nationality_code": "BRA",
+      "flag_emoji": "🇧🇷",
+      "position": "DEF",
+      "transfermarkt_url": "https://www.transfermarkt.com/maicon/profil/spieler/18301",
+      "world_cups": [
+        {
+          "year": 2010,
+          "games": 5,
+          "goals": 1,
+          "club": "Inter Milan"
+        },
+        {
+          "year": 2014,
+          "games": 3,
+          "goals": 0,
+          "club": "AS Roma"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "gilberto-silva-bra",
+      "name": "Gilberto Silva",
+      "nationality": "Brazil",
+      "nationality_code": "BRA",
+      "flag_emoji": "🇧🇷",
+      "position": "MID",
+      "transfermarkt_url": "https://www.transfermarkt.com/gilberto-silva/profil/spieler/3194",
+      "world_cups": [
+        {
+          "year": 2002,
+          "games": 7,
+          "goals": 0,
+          "club": "Clube Atlético Mineiro"
+        },
+        {
+          "year": 2006,
+          "games": 4,
+          "goals": 0,
+          "club": "Arsenal FC"
+        },
+        {
+          "year": 2010,
+          "games": 5,
+          "goals": 0,
+          "club": "Panathinaikos"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "edmilson-bra",
+      "name": "Edmilson",
+      "nationality": "Brazil",
+      "nationality_code": "BRA",
+      "flag_emoji": "🇧🇷",
+      "position": "DEF",
+      "transfermarkt_url": "https://www.transfermarkt.com/edmilson/profil/spieler/5343",
+      "world_cups": [
+        {
+          "year": 2002,
+          "games": 6,
+          "goals": 1,
+          "club": "Olympique Lyon"
+        },
+        {
+          "year": 2006,
+          "games": 0,
+          "goals": 0,
+          "club": "FC Barcelona"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "juan-mata-bra",
+      "name": "Juan",
+      "nationality": "Brazil",
+      "nationality_code": "BRA",
+      "flag_emoji": "🇧🇷",
+      "position": "DEF",
+      "transfermarkt_url": "https://www.transfermarkt.com/juan-mata/profil/spieler/44068",
+      "world_cups": [
+        {
+          "year": 2010,
+          "games": 1,
+          "goals": 0,
+          "club": "Valencia CF"
+        },
+        {
+          "year": 2014,
+          "games": 1,
+          "goals": 1,
+          "club": "Manchester United"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "gabriel-jesus-bra",
+      "name": "Gabriel Jesus",
+      "nationality": "Brazil",
+      "nationality_code": "BRA",
+      "flag_emoji": "🇧🇷",
+      "position": "ATT",
+      "transfermarkt_url": "https://www.transfermarkt.com/gabriel-jesus/profil/spieler/363205",
+      "world_cups": [
+        {
+          "year": 2018,
+          "games": 5,
+          "goals": 0,
+          "club": "Manchester City"
+        },
+        {
+          "year": 2022,
+          "games": 3,
+          "goals": 0,
+          "club": "Arsenal FC"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "marquinhos-bra",
+      "name": "Marquinhos",
+      "nationality": "Brazil",
+      "nationality_code": "BRA",
+      "flag_emoji": "🇧🇷",
+      "position": "DEF",
+      "transfermarkt_url": "https://www.transfermarkt.com/marquinhos/profil/spieler/181767",
+      "world_cups": [
+        {
+          "year": 2018,
+          "games": 1,
+          "goals": 0,
+          "club": "Paris Saint-Germain"
+        },
+        {
+          "year": 2022,
+          "games": 5,
+          "goals": 0,
+          "club": "Paris Saint-Germain"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "cuauhtemoc-blanco-mex",
+      "name": "Cuauhtemoc Blanco",
+      "nationality": "Mexico",
+      "nationality_code": "MEX",
+      "flag_emoji": "🇲🇽",
+      "position": "ATT",
+      "transfermarkt_url": "https://www.transfermarkt.com/cuauhtemoc-blanco/profil/spieler/28066",
+      "world_cups": [
+        {
+          "year": 2002,
+          "games": 4,
+          "goals": 1,
+          "club": "Real Valladolid CF"
+        },
+        {
+          "year": 2010,
+          "games": 3,
+          "goals": 1,
+          "club": "Tiburones Rojos de Veracruz"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "jared-borgetti-mex",
+      "name": "Jared Borgetti",
+      "nationality": "Mexico",
+      "nationality_code": "MEX",
+      "flag_emoji": "🇲🇽",
+      "position": "ATT",
+      "transfermarkt_url": "https://www.transfermarkt.com/jared-borgetti/profil/spieler/29573",
+      "world_cups": [
+        {
+          "year": 2002,
+          "games": 4,
+          "goals": 2,
+          "club": "Santos Laguna"
+        },
+        {
+          "year": 2006,
+          "games": 2,
+          "goals": 0,
+          "club": "Bolton Wanderers"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "hector-moreno-mex",
+      "name": "Hector Moreno",
+      "nationality": "Mexico",
+      "nationality_code": "MEX",
+      "flag_emoji": "🇲🇽",
+      "position": "DEF",
+      "transfermarkt_url": "https://www.transfermarkt.com/hector-moreno/profil/spieler/51046",
+      "world_cups": [
+        {
+          "year": 2010,
+          "games": 2,
+          "goals": 0,
+          "club": "AZ Alkmaar"
+        },
+        {
+          "year": 2014,
+          "games": 4,
+          "goals": 0,
+          "club": "RCD Espanyol Barcelona"
+        },
+        {
+          "year": 2018,
+          "games": 3,
+          "goals": 0,
+          "club": "Real Sociedad"
+        },
+        {
+          "year": 2022,
+          "games": 3,
+          "goals": 0,
+          "club": "CF Monterrey"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "raul-jimenez-mex",
+      "name": "Raul Jimenez",
+      "nationality": "Mexico",
+      "nationality_code": "MEX",
+      "flag_emoji": "🇲🇽",
+      "position": "ATT",
+      "transfermarkt_url": "https://www.transfermarkt.com/raul-jimenez/profil/spieler/206040",
+      "world_cups": [
+        {
+          "year": 2014,
+          "games": 1,
+          "goals": 0,
+          "club": "CF América"
+        },
+        {
+          "year": 2018,
+          "games": 2,
+          "goals": 0,
+          "club": "SL Benfica"
+        },
+        {
+          "year": 2022,
+          "games": 3,
+          "goals": 0,
+          "club": "Wolverhampton Wanderers"
+        },
+        {
+          "year": 2026,
+          "games": 1,
+          "goals": 1,
+          "club": "Unknown"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "gerardo-torrado-mex",
+      "name": "Gerardo Torrado",
+      "nationality": "Mexico",
+      "nationality_code": "MEX",
+      "flag_emoji": "🇲🇽",
+      "position": "MID",
+      "transfermarkt_url": "https://www.transfermarkt.com/gerardo-torrado/profil/spieler/7713",
+      "world_cups": [
+        {
+          "year": 2002,
+          "games": 4,
+          "goals": 1,
+          "club": "Sevilla FC"
+        },
+        {
+          "year": 2006,
+          "games": 3,
+          "goals": 0,
+          "club": "CD Cruz Azul"
+        },
+        {
+          "year": 2010,
+          "games": 4,
+          "goals": 0,
+          "club": "CD Cruz Azul"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "hector-herrera-mex",
+      "name": "Hector Herrera",
+      "nationality": "Mexico",
+      "nationality_code": "MEX",
+      "flag_emoji": "🇲🇽",
+      "position": "MID",
+      "transfermarkt_url": "https://www.transfermarkt.com/hector-herrera/profil/spieler/122043",
+      "world_cups": [
+        {
+          "year": 2014,
+          "games": 4,
+          "goals": 0,
+          "club": "FC Porto"
+        },
+        {
+          "year": 2018,
+          "games": 4,
+          "goals": 0,
+          "club": "FC Porto"
+        },
+        {
+          "year": 2022,
+          "games": 2,
+          "goals": 0,
+          "club": "Houston Dynamo FC"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "santiago-gimenez-mex",
+      "name": "Santiago Gimenez",
+      "nationality": "Mexico",
+      "nationality_code": "MEX",
+      "flag_emoji": "🇲🇽",
+      "position": "ATT",
+      "transfermarkt_url": "https://www.transfermarkt.com/santiago-gimenez/profil/spieler/552955",
+      "world_cups": [
+        {
+          "year": 2026,
+          "games": 0,
+          "goals": 0,
+          "club": "Unknown"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "joe-hart-eng",
+      "name": "Joe Hart",
+      "nationality": "England",
+      "nationality_code": "ENG",
+      "flag_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "position": "GK",
+      "transfermarkt_url": "https://www.transfermarkt.com/joe-hart/profil/spieler/40204",
+      "world_cups": [
+        {
+          "year": 2010,
+          "games": 0,
+          "goals": 0,
+          "club": "Manchester City"
+        },
+        {
+          "year": 2014,
+          "games": 2,
+          "goals": 0,
+          "club": "Manchester City"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "john-terry-eng",
+      "name": "John Terry",
+      "nationality": "England",
+      "nationality_code": "ENG",
+      "flag_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "position": "DEF",
+      "transfermarkt_url": "https://www.transfermarkt.com/john-terry/profil/spieler/3160",
+      "world_cups": [
+        {
+          "year": 2006,
+          "games": 5,
+          "goals": 0,
+          "club": "Chelsea FC"
+        },
+        {
+          "year": 2010,
+          "games": 4,
+          "goals": 0,
+          "club": "Chelsea FC"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "sol-campbell-eng",
+      "name": "Sol Campbell",
+      "nationality": "England",
+      "nationality_code": "ENG",
+      "flag_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "position": "DEF",
+      "transfermarkt_url": "https://www.transfermarkt.com/sol-campbell/profil/spieler/3198",
+      "world_cups": [
+        {
+          "year": 2002,
+          "games": 5,
+          "goals": 1,
+          "club": "Arsenal FC"
+        },
+        {
+          "year": 2006,
+          "games": 1,
+          "goals": 0,
+          "club": "Arsenal FC"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "jamie-carragher-eng",
+      "name": "Jamie Carragher",
+      "nationality": "England",
+      "nationality_code": "ENG",
+      "flag_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "position": "DEF",
+      "transfermarkt_url": "https://www.transfermarkt.com/jamie-carragher/profil/spieler/3597",
+      "world_cups": [
+        {
+          "year": 2006,
+          "games": 4,
+          "goals": 0,
+          "club": "Liverpool FC"
+        },
+        {
+          "year": 2010,
+          "games": 2,
+          "goals": 0,
+          "club": "Liverpool FC"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "james-milner-eng",
+      "name": "James Milner",
+      "nationality": "England",
+      "nationality_code": "ENG",
+      "flag_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "position": "MID",
+      "transfermarkt_url": "https://www.transfermarkt.com/james-milner/profil/spieler/3333",
+      "world_cups": [
+        {
+          "year": 2010,
+          "games": 3,
+          "goals": 0,
+          "club": "Aston Villa"
+        },
+        {
+          "year": 2014,
+          "games": 1,
+          "goals": 0,
+          "club": "Manchester City"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "jordan-henderson-eng",
+      "name": "Jordan Henderson",
+      "nationality": "England",
+      "nationality_code": "ENG",
+      "flag_emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "position": "MID",
+      "transfermarkt_url": "https://www.transfermarkt.com/jordan-henderson/profil/spieler/61651",
+      "world_cups": [
+        {
+          "year": 2014,
+          "games": 2,
+          "goals": 0,
+          "club": "Liverpool FC"
+        },
+        {
+          "year": 2018,
+          "games": 5,
+          "goals": 0,
+          "club": "Liverpool FC"
+        },
+        {
+          "year": 2022,
+          "games": 4,
+          "goals": 1,
+          "club": "Liverpool FC"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "claude-makelele-fra",
+      "name": "Claude Makelele",
+      "nationality": "France",
+      "nationality_code": "FRA",
+      "flag_emoji": "🇫🇷",
+      "position": "MID",
+      "transfermarkt_url": "https://www.transfermarkt.com/claude-makelele/profil/spieler/4182",
+      "world_cups": [
+        {
+          "year": 2002,
+          "games": 1,
+          "goals": 0,
+          "club": "Real Madrid"
+        },
+        {
+          "year": 2006,
+          "games": 7,
+          "goals": 0,
+          "club": "Chelsea FC"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "patrice-evra-fra",
+      "name": "Patrice Evra",
+      "nationality": "France",
+      "nationality_code": "FRA",
+      "flag_emoji": "🇫🇷",
+      "position": "DEF",
+      "transfermarkt_url": "https://www.transfermarkt.com/patrice-evra/profil/spieler/5285",
+      "world_cups": [
+        {
+          "year": 2010,
+          "games": 2,
+          "goals": 0,
+          "club": "Manchester United"
+        },
+        {
+          "year": 2014,
+          "games": 4,
+          "goals": 0,
+          "club": "Manchester United"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "sylvain-wiltord-fra",
+      "name": "Sylvain Wiltord",
+      "nationality": "France",
+      "nationality_code": "FRA",
+      "flag_emoji": "🇫🇷",
+      "position": "ATT",
+      "transfermarkt_url": "https://www.transfermarkt.com/sylvain-wiltord/profil/spieler/3188",
+      "world_cups": [
+        {
+          "year": 2002,
+          "games": 3,
+          "goals": 0,
+          "club": "Arsenal FC"
+        },
+        {
+          "year": 2006,
+          "games": 7,
+          "goals": 0,
+          "club": "Olympique Lyon"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "fabien-barthez-fra",
+      "name": "Fabien Barthez",
+      "nationality": "France",
+      "nationality_code": "FRA",
+      "flag_emoji": "🇫🇷",
+      "position": "GK",
+      "transfermarkt_url": "https://www.transfermarkt.com/fabien-barthez/profil/spieler/3289",
+      "world_cups": [
+        {
+          "year": 2002,
+          "games": 3,
+          "goals": 0,
+          "club": "Manchester United"
+        },
+        {
+          "year": 2006,
+          "games": 7,
+          "goals": 0,
+          "club": "Olympique Marseille"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "theo-hernandez-fra",
+      "name": "Theo Hernandez",
+      "nationality": "France",
+      "nationality_code": "FRA",
+      "flag_emoji": "🇫🇷",
+      "position": "DEF",
+      "transfermarkt_url": "https://www.transfermarkt.com/theo-hernandez/profil/spieler/339808",
+      "world_cups": [
+        {
+          "year": 2022,
+          "games": 6,
+          "goals": 1,
+          "club": "AC Milan"
+        },
+        {
+          "year": 2026,
+          "games": 0,
+          "goals": 0,
+          "club": "Unknown"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "mike-maignan-fra",
+      "name": "Mike Maignan",
+      "nationality": "France",
+      "nationality_code": "FRA",
+      "flag_emoji": "🇫🇷",
+      "position": "GK",
+      "transfermarkt_url": "https://www.transfermarkt.com/mike-maignan/profil/spieler/182906",
+      "world_cups": [
+        {
+          "year": 2022,
+          "games": 0,
+          "goals": 0,
+          "club": "AC Milan"
+        },
+        {
+          "year": 2026,
+          "games": 0,
+          "goals": 0,
+          "club": "Unknown"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "marco-materazzi-ita",
+      "name": "Marco Materazzi",
+      "nationality": "Italy",
+      "nationality_code": "ITA",
+      "flag_emoji": "🇮🇹",
+      "position": "DEF",
+      "transfermarkt_url": "https://www.transfermarkt.com/marco-materazzi/profil/spieler/5778",
+      "world_cups": [
+        {
+          "year": 2002,
+          "games": 1,
+          "goals": 0,
+          "club": "Inter Milan"
+        },
+        {
+          "year": 2006,
+          "games": 4,
+          "goals": 2,
+          "club": "Inter Milan"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "mauro-camoranesi-ita",
+      "name": "Mauro Camoranesi",
+      "nationality": "Italy",
+      "nationality_code": "ITA",
+      "flag_emoji": "🇮🇹",
+      "position": "MID",
+      "transfermarkt_url": "https://www.transfermarkt.com/mauro-camoranesi/profil/spieler/5762",
+      "world_cups": [
+        {
+          "year": 2006,
+          "games": 5,
+          "goals": 0,
+          "club": "Juventus FC"
+        },
+        {
+          "year": 2010,
+          "games": 2,
+          "goals": 0,
+          "club": "Juventus FC"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "ricardo-carvalho-por",
+      "name": "Ricardo Carvalho",
+      "nationality": "Portugal",
+      "nationality_code": "POR",
+      "flag_emoji": "🇵🇹",
+      "position": "DEF",
+      "transfermarkt_url": "https://www.transfermarkt.com/ricardo-carvalho/profil/spieler/9828",
+      "world_cups": [
+        {
+          "year": 2006,
+          "games": 6,
+          "goals": 0,
+          "club": "Chelsea FC"
+        },
+        {
+          "year": 2010,
+          "games": 4,
+          "goals": 0,
+          "club": "Chelsea FC"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "raul-meireles-por",
+      "name": "Raul Meireles",
+      "nationality": "Portugal",
+      "nationality_code": "POR",
+      "flag_emoji": "🇵🇹",
+      "position": "MID",
+      "transfermarkt_url": "https://www.transfermarkt.com/raul-meireles/profil/spieler/13168",
+      "world_cups": [
+        {
+          "year": 2010,
+          "games": 4,
+          "goals": 1,
+          "club": "FC Porto"
+        },
+        {
+          "year": 2014,
+          "games": 2,
+          "goals": 0,
+          "club": "Fenerbahce"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "fabio-coentrao-por",
+      "name": "Fabio Coentrao",
+      "nationality": "Portugal",
+      "nationality_code": "POR",
+      "flag_emoji": "🇵🇹",
+      "position": "DEF",
+      "transfermarkt_url": "https://www.transfermarkt.com/fabio-coentrao/profil/spieler/33648",
+      "world_cups": [
+        {
+          "year": 2010,
+          "games": 4,
+          "goals": 0,
+          "club": "SL Benfica"
+        },
+        {
+          "year": 2014,
+          "games": 1,
+          "goals": 0,
+          "club": "Real Madrid"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "rui-patricio-por",
+      "name": "Rui Patricio",
+      "nationality": "Portugal",
+      "nationality_code": "POR",
+      "flag_emoji": "🇵🇹",
+      "position": "GK",
+      "transfermarkt_url": "https://www.transfermarkt.com/rui-patricio/profil/spieler/45026",
+      "world_cups": [
+        {
+          "year": 2014,
+          "games": 1,
+          "goals": 0,
+          "club": "Sporting CP"
+        },
+        {
+          "year": 2018,
+          "games": 4,
+          "goals": 0,
+          "club": "Sporting CP"
+        },
+        {
+          "year": 2022,
+          "games": 0,
+          "goals": 0,
+          "club": "AS Roma"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "tiago-mendes-por",
+      "name": "Tiago Mendes",
+      "nationality": "Portugal",
+      "nationality_code": "POR",
+      "flag_emoji": "🇵🇹",
+      "position": "MID",
+      "transfermarkt_url": "https://www.transfermarkt.com/tiago-mendes/profil/spieler/8538",
+      "world_cups": [
+        {
+          "year": 2006,
+          "games": 5,
+          "goals": 0,
+          "club": "Olympique Lyon"
+        },
+        {
+          "year": 2010,
+          "games": 4,
+          "goals": 2,
+          "club": "Atlético de Madrid"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "diogo-dalot-por",
+      "name": "Diogo Dalot",
+      "nationality": "Portugal",
+      "nationality_code": "POR",
+      "flag_emoji": "🇵🇹",
+      "position": "DEF",
+      "transfermarkt_url": "https://www.transfermarkt.com/diogo-dalot/profil/spieler/357147",
+      "world_cups": [
+        {
+          "year": 2022,
+          "games": 3,
+          "goals": 0,
+          "club": "Manchester United"
+        },
+        {
+          "year": 2026,
+          "games": 0,
+          "goals": 0,
+          "club": "Unknown"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "klaas-jan-huntelaar-ned",
+      "name": "Klaas-Jan Huntelaar",
+      "nationality": "Netherlands",
+      "nationality_code": "NED",
+      "flag_emoji": "🇳🇱",
+      "position": "ATT",
+      "transfermarkt_url": "https://www.transfermarkt.com/klaas-jan-huntelaar/profil/spieler/4357",
+      "world_cups": [
+        {
+          "year": 2010,
+          "games": 4,
+          "goals": 1,
+          "club": "AC Milan"
+        },
+        {
+          "year": 2014,
+          "games": 3,
+          "goals": 1,
+          "club": "FC Schalke 04"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "rafael-van-der-vaart-ned",
+      "name": "Rafael van der Vaart",
+      "nationality": "Netherlands",
+      "nationality_code": "NED",
+      "flag_emoji": "🇳🇱",
+      "position": "MID",
+      "transfermarkt_url": "https://www.transfermarkt.com/rafael-van-der-vaart/profil/spieler/4192",
+      "world_cups": [
+        {
+          "year": 2006,
+          "games": 3,
+          "goals": 0,
+          "club": "Hamburger SV"
+        },
+        {
+          "year": 2010,
+          "games": 5,
+          "goals": 0,
+          "club": "Real Madrid"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "john-heitinga-ned",
+      "name": "John Heitinga",
+      "nationality": "Netherlands",
+      "nationality_code": "NED",
+      "flag_emoji": "🇳🇱",
+      "position": "DEF",
+      "transfermarkt_url": "https://www.transfermarkt.com/john-heitinga/profil/spieler/4315",
+      "world_cups": [
+        {
+          "year": 2006,
+          "games": 3,
+          "goals": 0,
+          "club": "Ajax Amsterdam"
+        },
+        {
+          "year": 2010,
+          "games": 7,
+          "goals": 0,
+          "club": "Everton FC"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "marouane-fellaini-bel",
+      "name": "Marouane Fellaini",
+      "nationality": "Belgium",
+      "nationality_code": "BEL",
+      "flag_emoji": "🇧🇪",
+      "position": "MID",
+      "transfermarkt_url": "https://www.transfermarkt.com/marouane-fellaini/profil/spieler/39679",
+      "world_cups": [
+        {
+          "year": 2014,
+          "games": 5,
+          "goals": 1,
+          "club": "Manchester United"
+        },
+        {
+          "year": 2018,
+          "games": 5,
+          "goals": 1,
+          "club": "Manchester United"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "thomas-meunier-bel",
+      "name": "Thomas Meunier",
+      "nationality": "Belgium",
+      "nationality_code": "BEL",
+      "flag_emoji": "🇧🇪",
+      "position": "DEF",
+      "transfermarkt_url": "https://www.transfermarkt.com/thomas-meunier/profil/spieler/100986",
+      "world_cups": [
+        {
+          "year": 2018,
+          "games": 5,
+          "goals": 1,
+          "club": "Paris Saint-Germain"
+        },
+        {
+          "year": 2022,
+          "games": 3,
+          "goals": 0,
+          "club": "Borussia Dortmund"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "egidio-arevalo-rios-uru",
+      "name": "Egidio Arevalo",
+      "nationality": "Uruguay",
+      "nationality_code": "URU",
+      "flag_emoji": "🇺🇾",
+      "position": "MID",
+      "transfermarkt_url": "https://www.transfermarkt.com/egidio-arevalo-rios/profil/spieler/54818",
+      "world_cups": [
+        {
+          "year": 2010,
+          "games": 7,
+          "goals": 0,
+          "club": "CA Peñarol"
+        },
+        {
+          "year": 2014,
+          "games": 4,
+          "goals": 0,
+          "club": "Club Atlético Morelia"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "brian-mcbride-usa",
+      "name": "Brian McBride",
+      "nationality": "USA",
+      "nationality_code": "USA",
+      "flag_emoji": "🇺🇸",
+      "position": "ATT",
+      "transfermarkt_url": "https://www.transfermarkt.com/brian-mcbride/profil/spieler/3469",
+      "world_cups": [
+        {
+          "year": 2002,
+          "games": 5,
+          "goals": 2,
+          "club": "Columbus Crew"
+        },
+        {
+          "year": 2006,
+          "games": 3,
+          "goals": 0,
+          "club": "Fulham FC"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "chung-yong-lee-kor",
+      "name": "Lee Chung-yong",
+      "nationality": "South Korea",
+      "nationality_code": "KOR",
+      "flag_emoji": "🇰🇷",
+      "position": "MID",
+      "transfermarkt_url": "https://www.transfermarkt.com/chung-yong-lee/profil/spieler/81801",
+      "world_cups": [
+        {
+          "year": 2010,
+          "games": 4,
+          "goals": 2,
+          "club": "Bolton Wanderers"
+        },
+        {
+          "year": 2014,
+          "games": 3,
+          "goals": 0,
+          "club": "Bolton Wanderers"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "yuya-osako-jpn",
+      "name": "Yuya Osako",
+      "nationality": "Japan",
+      "nationality_code": "JPN",
+      "flag_emoji": "🇯🇵",
+      "position": "ATT",
+      "transfermarkt_url": "https://www.transfermarkt.com/yuya-osako/profil/spieler/108650",
+      "world_cups": [
+        {
+          "year": 2014,
+          "games": 2,
+          "goals": 0,
+          "club": "TSV 1860 Munich"
+        },
+        {
+          "year": 2018,
+          "games": 4,
+          "goals": 1,
+          "club": "1.FC Köln"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "mohamed-salah-egy",
+      "name": "Mohamed Salah",
+      "nationality": "Egypt",
+      "nationality_code": "EGY",
+      "flag_emoji": "🇪🇬",
+      "position": "ATT",
+      "transfermarkt_url": "https://www.transfermarkt.com/mohamed-salah/profil/spieler/148455",
+      "world_cups": [
+        {
+          "year": 2018,
+          "games": 2,
+          "goals": 2,
+          "club": "Liverpool FC"
+        },
+        {
+          "year": 2026,
+          "games": 0,
+          "goals": 0,
+          "club": "Unknown"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "riyad-mahrez-alg",
+      "name": "Riyad Mahrez",
+      "nationality": "Algeria",
+      "nationality_code": "ALG",
+      "flag_emoji": "🇩🇿",
+      "position": "ATT",
+      "transfermarkt_url": "https://www.transfermarkt.com/riyad-mahrez/profil/spieler/171424",
+      "world_cups": [
+        {
+          "year": 2014,
+          "games": 1,
+          "goals": 0,
+          "club": "Leicester City"
+        },
+        {
+          "year": 2026,
+          "games": 0,
+          "goals": 0,
+          "club": "Unknown"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "arturo-vidal-chi",
+      "name": "Arturo Vidal",
+      "nationality": "Chile",
+      "nationality_code": "CHI",
+      "flag_emoji": "🇨🇱",
+      "position": "MID",
+      "transfermarkt_url": "https://www.transfermarkt.com/arturo-vidal/profil/spieler/37666",
+      "world_cups": [
+        {
+          "year": 2010,
+          "games": 4,
+          "goals": 0,
+          "club": "Bayer 04 Leverkusen"
+        },
+        {
+          "year": 2014,
+          "games": 3,
+          "goals": 0,
+          "club": "Juventus FC"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "alexis-sanchez-chi",
+      "name": "Alexis Sanchez",
+      "nationality": "Chile",
+      "nationality_code": "CHI",
+      "flag_emoji": "🇨🇱",
+      "position": "ATT",
+      "transfermarkt_url": "https://www.transfermarkt.com/alexis-sanchez/profil/spieler/40433",
+      "world_cups": [
+        {
+          "year": 2010,
+          "games": 4,
+          "goals": 0,
+          "club": "Udinese Calcio"
+        },
+        {
+          "year": 2014,
+          "games": 4,
+          "goals": 2,
+          "club": "FC Barcelona"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "claudio-bravo-chi",
+      "name": "Claudio Bravo",
+      "nationality": "Chile",
+      "nationality_code": "CHI",
+      "flag_emoji": "🇨🇱",
+      "position": "GK",
+      "transfermarkt_url": "https://www.transfermarkt.com/claudio-bravo/profil/spieler/40423",
+      "world_cups": [
+        {
+          "year": 2010,
+          "games": 4,
+          "goals": 0,
+          "club": "Real Sociedad"
+        },
+        {
+          "year": 2014,
+          "games": 4,
+          "goals": 0,
+          "club": "Real Sociedad"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "vincent-enyeama-nga",
+      "name": "Vincent Enyeama",
+      "nationality": "Nigeria",
+      "nationality_code": "NGA",
+      "flag_emoji": "🇳🇬",
+      "position": "GK",
+      "transfermarkt_url": "https://www.transfermarkt.com/vincent-enyeama/profil/spieler/37760",
+      "world_cups": [
+        {
+          "year": 2002,
+          "games": 1,
+          "goals": 0,
+          "club": "Enyimba Aba"
+        },
+        {
+          "year": 2010,
+          "games": 3,
+          "goals": 0,
+          "club": "Hapoel Tel Aviv"
+        },
+        {
+          "year": 2014,
+          "games": 4,
+          "goals": 0,
+          "club": "LOSC Lille"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "john-obi-mikel-nga",
+      "name": "Mikel John Obi",
+      "nationality": "Nigeria",
+      "nationality_code": "NGA",
+      "flag_emoji": "🇳🇬",
+      "position": "MID",
+      "transfermarkt_url": "https://www.transfermarkt.com/john-obi-mikel/profil/spieler/30739",
+      "world_cups": [
+        {
+          "year": 2010,
+          "games": 0,
+          "goals": 0,
+          "club": "Chelsea FC"
+        },
+        {
+          "year": 2014,
+          "games": 4,
+          "goals": 0,
+          "club": "Chelsea FC"
+        },
+        {
+          "year": 2018,
+          "games": 3,
+          "goals": 0,
+          "club": "Tianjin Jinmen Tiger"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "kevin-prince-boateng-gha",
+      "name": "Kevin-Prince Boateng",
+      "nationality": "Ghana",
+      "nationality_code": "GHA",
+      "flag_emoji": "🇬🇭",
+      "position": "MID",
+      "transfermarkt_url": "https://www.transfermarkt.com/kevin-prince-boateng/profil/spieler/16922",
+      "world_cups": [
+        {
+          "year": 2010,
+          "games": 5,
+          "goals": 1,
+          "club": "Portsmouth FC"
+        },
+        {
+          "year": 2014,
+          "games": 2,
+          "goals": 0,
+          "club": "FC Schalke 04"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "mark-schwarzer-aus",
+      "name": "Mark Schwarzer",
+      "nationality": "Australia",
+      "nationality_code": "AUS",
+      "flag_emoji": "🇦🇺",
+      "position": "GK",
+      "transfermarkt_url": "https://www.transfermarkt.com/mark-schwarzer/profil/spieler/3357",
+      "world_cups": [
+        {
+          "year": 2006,
+          "games": 3,
+          "goals": 0,
+          "club": "Middlesbrough FC"
+        },
+        {
+          "year": 2010,
+          "games": 3,
+          "goals": 0,
+          "club": "Fulham FC"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "mark-bresciano-aus",
+      "name": "Mark Bresciano",
+      "nationality": "Australia",
+      "nationality_code": "AUS",
+      "flag_emoji": "🇦🇺",
+      "position": "MID",
+      "transfermarkt_url": "https://www.transfermarkt.com/mark-bresciano/profil/spieler/5867",
+      "world_cups": [
+        {
+          "year": 2006,
+          "games": 4,
+          "goals": 0,
+          "club": "Parma Calcio 1913"
+        },
+        {
+          "year": 2010,
+          "games": 2,
+          "goals": 0,
+          "club": "Palermo FC"
+        },
+        {
+          "year": 2014,
+          "games": 3,
+          "goals": 0,
+          "club": "Al-Gharafa SC"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "mathew-ryan-aus",
+      "name": "Mathew Ryan",
+      "nationality": "Australia",
+      "nationality_code": "AUS",
+      "flag_emoji": "🇦🇺",
+      "position": "GK",
+      "transfermarkt_url": "https://www.transfermarkt.com/mathew-ryan/profil/spieler/128969",
+      "world_cups": [
+        {
+          "year": 2014,
+          "games": 3,
+          "goals": 0,
+          "club": "Club Brugge KV"
+        },
+        {
+          "year": 2018,
+          "games": 3,
+          "goals": 0,
+          "club": "Brighton & Hove Albion"
+        },
+        {
+          "year": 2022,
+          "games": 4,
+          "goals": 0,
+          "club": "FC Copenhagen"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "alireza-beiranvand-irn",
+      "name": "Alireza Beiranvand",
+      "nationality": "Iran",
+      "nationality_code": "IRN",
+      "flag_emoji": "🇮🇷",
+      "position": "GK",
+      "transfermarkt_url": "https://www.transfermarkt.com/alireza-beiranvand/profil/spieler/229081",
+      "world_cups": [
+        {
+          "year": 2018,
+          "games": 3,
+          "goals": 0,
+          "club": "Persepolis FC"
+        },
+        {
+          "year": 2022,
+          "games": 2,
+          "goals": 0,
+          "club": "Persepolis FC"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "alphonso-davies-can",
+      "name": "Alphonso Davies",
+      "nationality": "Canada",
+      "nationality_code": "CAN",
+      "flag_emoji": "🇨🇦",
+      "position": "DEF",
+      "transfermarkt_url": "https://www.transfermarkt.com/alphonso-davies/profil/spieler/424204",
+      "world_cups": [
+        {
+          "year": 2022,
+          "games": 3,
+          "goals": 1,
+          "club": "Bayern Munich"
+        },
+        {
+          "year": 2026,
+          "games": 0,
+          "goals": 0,
+          "club": "Unknown"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "jonathan-david-can",
+      "name": "Jonathan David",
+      "nationality": "Canada",
+      "nationality_code": "CAN",
+      "flag_emoji": "🇨🇦",
+      "position": "ATT",
+      "transfermarkt_url": "https://www.transfermarkt.com/jonathan-david/profil/spieler/533738",
+      "world_cups": [
+        {
+          "year": 2022,
+          "games": 3,
+          "goals": 0,
+          "club": "LOSC Lille"
+        },
+        {
+          "year": 2026,
+          "games": 0,
+          "goals": 0,
+          "club": "Unknown"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "stephen-eustaquio-can",
+      "name": "Stephen Eustaquio",
+      "nationality": "Canada",
+      "nationality_code": "CAN",
+      "flag_emoji": "🇨🇦",
+      "position": "MID",
+      "transfermarkt_url": "https://www.transfermarkt.com/stephen-eustaquio/profil/spieler/512913",
+      "world_cups": [
+        {
+          "year": 2022,
+          "games": 2,
+          "goals": 0,
+          "club": "FC Porto"
+        },
+        {
+          "year": 2026,
+          "games": 0,
+          "goals": 0,
+          "club": "Unknown"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "salem-al-dawsari-sau",
+      "name": "Salem Al-Dawsari",
+      "nationality": "Saudi Arabia",
+      "nationality_code": "SAU",
+      "flag_emoji": "🇸🇦",
+      "position": "MID",
+      "transfermarkt_url": "https://www.transfermarkt.com/salem-al-dawsari/profil/spieler/195332",
+      "world_cups": [
+        {
+          "year": 2018,
+          "games": 3,
+          "goals": 1,
+          "club": "Villarreal CF"
+        },
+        {
+          "year": 2022,
+          "games": 3,
+          "goals": 2,
+          "club": "Al-Hilal SFC"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "bryan-ruiz-crc",
+      "name": "Bryan Ruiz",
+      "nationality": "Costa Rica",
+      "nationality_code": "CRC",
+      "flag_emoji": "🇨🇷",
+      "position": "ATT",
+      "transfermarkt_url": "https://www.transfermarkt.com/bryan-ruiz/profil/spieler/39642",
+      "world_cups": [
+        {
+          "year": 2014,
+          "games": 5,
+          "goals": 2,
+          "club": "PSV Eindhoven"
+        },
+        {
+          "year": 2018,
+          "games": 3,
+          "goals": 0,
+          "club": "Sporting CP"
+        },
+        {
+          "year": 2022,
+          "games": 1,
+          "goals": 0,
+          "club": "LD Alajuelense"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "joel-campbell-crc",
+      "name": "Joel Campbell",
+      "nationality": "Costa Rica",
+      "nationality_code": "CRC",
+      "flag_emoji": "🇨🇷",
+      "position": "ATT",
+      "transfermarkt_url": "https://www.transfermarkt.com/joel-campbell/profil/spieler/131248",
+      "world_cups": [
+        {
+          "year": 2014,
+          "games": 5,
+          "goals": 1,
+          "club": "Olympiacos Piraeus"
+        },
+        {
+          "year": 2018,
+          "games": 2,
+          "goals": 0,
+          "club": "Real Betis Balompié"
+        },
+        {
+          "year": 2022,
+          "games": 3,
+          "goals": 0,
+          "club": "Club León FC"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "keylor-navas-crc",
+      "name": "Keylor Navas",
+      "nationality": "Costa Rica",
+      "nationality_code": "CRC",
+      "flag_emoji": "🇨🇷",
+      "position": "GK",
+      "transfermarkt_url": "https://www.transfermarkt.com/keylor-navas/profil/spieler/79422",
+      "world_cups": [
+        {
+          "year": 2014,
+          "games": 5,
+          "goals": 0,
+          "club": "Levante UD"
+        },
+        {
+          "year": 2018,
+          "games": 3,
+          "goals": 0,
+          "club": "Real Madrid"
+        },
+        {
+          "year": 2022,
+          "games": 3,
+          "goals": 0,
+          "club": "Paris Saint-Germain"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "mario-gotze-ger",
+      "name": "Mario Gotze",
+      "nationality": "Germany",
+      "nationality_code": "GER",
+      "flag_emoji": "🇩🇪",
+      "position": "ATT",
+      "transfermarkt_url": "https://www.transfermarkt.com/mario-gotze/profil/spieler/74842",
+      "world_cups": [
+        {
+          "year": 2014,
+          "games": 6,
+          "goals": 2,
+          "club": "Bayern Munich"
+        },
+        {
+          "year": 2022,
+          "games": 2,
+          "goals": 0,
+          "club": "Eintracht Frankfurt"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "niklas-sule-ger",
+      "name": "Niklas Sule",
+      "nationality": "Germany",
+      "nationality_code": "GER",
+      "flag_emoji": "🇩🇪",
+      "position": "DEF",
+      "transfermarkt_url": "https://www.transfermarkt.com/niklas-sule/profil/spieler/166601",
+      "world_cups": [
+        {
+          "year": 2018,
+          "games": 1,
+          "goals": 0,
+          "club": "Bayern Munich"
+        },
+        {
+          "year": 2022,
+          "games": 3,
+          "goals": 0,
+          "club": "Borussia Dortmund"
+        }
+      ],
+      "validation_status": "validated"
+    },
+    {
+      "id": "breel-embolo-sui",
+      "name": "Breel Embolo",
+      "nationality": "Switzerland",
+      "nationality_code": "SUI",
+      "flag_emoji": "🇨🇭",
+      "position": "ATT",
+      "transfermarkt_url": "https://www.transfermarkt.com/breel-embolo/profil/spieler/237662",
+      "world_cups": [
+        {
+          "year": 2018,
+          "games": 4,
+          "goals": 0,
+          "club": "FC Schalke 04"
+        },
+        {
+          "year": 2022,
+          "games": 4,
+          "goals": 2,
+          "club": "AS Monaco"
+        }
+      ],
+      "validation_status": "validated"
     }
   ],
   "review": [
@@ -7797,6 +9501,46 @@
     {
       "name": "Andrey Arshavin",
       "transfermarkt_url": "https://www.transfermarkt.com/andrey-arshavin/profil/spieler/32798",
+      "reason": "No FIWC game records found -- wrong TM ID or player never had WC data"
+    },
+    {
+      "name": "Diego Maradona",
+      "transfermarkt_url": "https://www.transfermarkt.com/diego-maradona/profil/spieler/0",
+      "reason": "No FIWC game records found -- wrong TM ID or player never had WC data"
+    },
+    {
+      "name": "Patrick Kluivert",
+      "transfermarkt_url": "https://www.transfermarkt.com/patrick-kluivert/profil/spieler/0",
+      "reason": "No FIWC game records found -- wrong TM ID or player never had WC data"
+    },
+    {
+      "name": "Edgar Davids",
+      "transfermarkt_url": "https://www.transfermarkt.com/edgar-davids/profil/spieler/0",
+      "reason": "No FIWC game records found -- wrong TM ID or player never had WC data"
+    },
+    {
+      "name": "Clarence Seedorf",
+      "transfermarkt_url": "https://www.transfermarkt.com/clarence-seedorf/profil/spieler/0",
+      "reason": "No FIWC game records found -- wrong TM ID or player never had WC data"
+    },
+    {
+      "name": "Slaven Bilic",
+      "transfermarkt_url": "https://www.transfermarkt.com/slaven-bilic/profil/spieler/0",
+      "reason": "No FIWC game records found -- wrong TM ID or player never had WC data"
+    },
+    {
+      "name": "Mladen Petric",
+      "transfermarkt_url": "https://www.transfermarkt.com/mladen-petric/profil/spieler/0",
+      "reason": "No FIWC game records found -- wrong TM ID or player never had WC data"
+    },
+    {
+      "name": "Cho Hyun-woo",
+      "transfermarkt_url": "https://www.transfermarkt.com/hyun-woo-cho/profil/spieler/0",
+      "reason": "No FIWC game records found -- wrong TM ID or player never had WC data"
+    },
+    {
+      "name": "Carlos Valderrama",
+      "transfermarkt_url": "https://www.transfermarkt.com/carlos-valderrama/profil/spieler/0",
       "reason": "No FIWC game records found -- wrong TM ID or player never had WC data"
     }
   ],
@@ -8075,358 +9819,571 @@
       "name": "Oscar Cardozo",
       "transfermarkt_url": "https://www.transfermarkt.com/oscar-cardozo/profil/spieler/45865",
       "reason": "Only 1 WC(s) in tournament squad"
+    },
+    {
+      "name": "Gabriel Batistuta",
+      "transfermarkt_url": "https://www.transfermarkt.com/gabriel-batistuta/profil/spieler/5959",
+      "reason": "Only 1 WC(s) in tournament squad"
+    },
+    {
+      "name": "Ariel Ortega",
+      "transfermarkt_url": "https://www.transfermarkt.com/ariel-ortega/profil/spieler/4147",
+      "reason": "Only 1 WC(s) in tournament squad"
+    },
+    {
+      "name": "Rivaldo",
+      "transfermarkt_url": "https://www.transfermarkt.com/rivaldo/profil/spieler/3372",
+      "reason": "Only 1 WC(s) in tournament squad"
+    },
+    {
+      "name": "Pavel Pardo",
+      "transfermarkt_url": "https://www.transfermarkt.com/pavel-pardo/profil/spieler/29579",
+      "reason": "Only 1 WC(s) in tournament squad"
+    },
+    {
+      "name": "Jesus Corona",
+      "transfermarkt_url": "https://www.transfermarkt.com/jesus-corona/profil/spieler/125165",
+      "reason": "Only 1 WC(s) in tournament squad"
+    },
+    {
+      "name": "Gary Neville",
+      "transfermarkt_url": "https://www.transfermarkt.com/gary-neville/profil/spieler/3403",
+      "reason": "Only 1 WC(s) in tournament squad"
+    },
+    {
+      "name": "Paul Scholes",
+      "transfermarkt_url": "https://www.transfermarkt.com/paul-scholes/profil/spieler/3397",
+      "reason": "Only 1 WC(s) in tournament squad"
+    },
+    {
+      "name": "Lilian Thuram",
+      "transfermarkt_url": "https://www.transfermarkt.com/marcus-thuram/profil/spieler/318528",
+      "reason": "Only 1 WC(s) in tournament squad"
+    },
+    {
+      "name": "Bixente Lizarazu",
+      "transfermarkt_url": "https://www.transfermarkt.com/bixente-lizarazu/profil/spieler/210",
+      "reason": "Only 1 WC(s) in tournament squad"
+    },
+    {
+      "name": "Marcel Desailly",
+      "transfermarkt_url": "https://www.transfermarkt.com/marcel-desailly/profil/spieler/3154",
+      "reason": "Only 1 WC(s) in tournament squad"
+    },
+    {
+      "name": "Quaresma",
+      "transfermarkt_url": "https://www.transfermarkt.com/ricardo-quaresma/profil/spieler/4188",
+      "reason": "Only 1 WC(s) in tournament squad"
+    },
+    {
+      "name": "Robert Prosinecki",
+      "transfermarkt_url": "https://www.transfermarkt.com/robert-prosinecki/profil/spieler/8013",
+      "reason": "Only 1 WC(s) in tournament squad"
+    },
+    {
+      "name": "Davor Suker",
+      "transfermarkt_url": "https://www.transfermarkt.com/davor-suker/profil/spieler/1407",
+      "reason": "Only 1 WC(s) in tournament squad"
+    },
+    {
+      "name": "Igor Tudor",
+      "transfermarkt_url": "https://www.transfermarkt.com/igor-tudor/profil/spieler/5752",
+      "reason": "Only 1 WC(s) in tournament squad"
+    },
+    {
+      "name": "Niko Kranjcar",
+      "transfermarkt_url": "https://www.transfermarkt.com/niko-kranjcar/profil/spieler/16746",
+      "reason": "Only 1 WC(s) in tournament squad"
+    },
+    {
+      "name": "Eduardo da Silva",
+      "transfermarkt_url": "https://www.transfermarkt.com/eduardo/profil/spieler/24633",
+      "reason": "Only 1 WC(s) in tournament squad"
+    },
+    {
+      "name": "Hwang Ui-jo",
+      "transfermarkt_url": "https://www.transfermarkt.com/ui-jo-hwang/profil/spieler/260166",
+      "reason": "Only 1 WC(s) in tournament squad"
+    },
+    {
+      "name": "Naohiro Takahara",
+      "transfermarkt_url": "https://www.transfermarkt.com/naohiro-takahara/profil/spieler/2880",
+      "reason": "Only 1 WC(s) in tournament squad"
+    },
+    {
+      "name": "El-Hadji Diouf",
+      "transfermarkt_url": "https://www.transfermarkt.com/el-hadji-diouf/profil/spieler/3604",
+      "reason": "Only 1 WC(s) in tournament squad"
+    },
+    {
+      "name": "Victor Osimhen",
+      "transfermarkt_url": "https://www.transfermarkt.com/victor-osimhen/profil/spieler/401923",
+      "reason": "Only 1 WC(s) in tournament squad"
+    },
+    {
+      "name": "Mohammed Kudus",
+      "transfermarkt_url": "https://www.transfermarkt.com/mohammed-kudus/profil/spieler/543499",
+      "reason": "Only 1 WC(s) in tournament squad"
+    },
+    {
+      "name": "Ali Daei",
+      "transfermarkt_url": "https://www.transfermarkt.com/ali-daei/profil/spieler/335",
+      "reason": "Only 1 WC(s) in tournament squad"
+    },
+    {
+      "name": "Ali Karimi",
+      "transfermarkt_url": "https://www.transfermarkt.com/ali-karimi/profil/spieler/15412",
+      "reason": "Only 1 WC(s) in tournament squad"
     }
   ],
   "done_names": [
-    "Dejan Lovren",
-    "German Pezzella",
-    "Ivica Olic",
-    "Diego Godin",
-    "Jordi Alba",
-    "Diego Lugano",
-    "Pablo Zabaleta",
-    "Josko Gvardiol",
-    "Peter Crouch",
-    "Andrea Pirlo",
-    "Iker Casillas",
-    "Takumi Minamino",
-    "Virgil van Dijk",
-    "Simon Kjaer",
-    "Carlos Bocanegra",
-    "Phil Foden",
-    "Makoto Hasebe",
-    "Nani",
-    "Adriano",
-    "Gennaro Gattuso",
-    "Serge Gnabry",
-    "Joao Felix",
-    "Igor Akinfeev",
-    "Aurelien Tchouameni",
-    "Emiliano Martinez",
-    "Wayne Rooney",
-    "Kylian Mbappe",
-    "Maya Yoshida",
-    "Joshua Kimmich",
-    "David Beckham",
-    "Thierry Henry",
-    "David Silva",
-    "Antonio Rudiger",
-    "Axel Witsel",
-    "Roberto Ayala",
-    "Mateo Kovacic",
-    "David Luiz",
-    "Wojciech Szczesny",
-    "Idrissa Gueye",
-    "Agustin Delgado",
-    "Florian Wirtz",
-    "Lucas Biglia",
-    "Nelson Valdez",
-    "Park Chu-young",
-    "Nwankwo Kanu",
-    "Jens Lehmann",
-    "Didier Drogba",
-    "Arjen Robben",
-    "Bernardo Silva",
-    "Carlos Tevez",
-    "Thomas Muller",
-    "Frank Lampard",
-    "Nicolas Lodeiro",
-    "Joe Cole",
-    "Enzo Fernandez",
-    "Frenkie de Jong",
-    "Fernando Torres",
-    "Jan Koller",
-    "Sadio Mane",
-    "Nemanja Vidic",
-    "Vinicius Junior",
-    "Dani Carvajal",
-    "Lionel Messi",
-    "Denis Cheryshev",
-    "Radamel Falcao",
-    "Lauren",
-    "Freddie Ljungberg",
-    "Thibaut Courtois",
-    "Andres Iniesta",
-    "Ronaldinho",
-    "Ruud van Nistelrooy",
-    "Ritsu Doan",
-    "Kamil Glik",
-    "Zinedine Zidane",
-    "Raheem Sterling",
-    "Moises Caicedo",
-    "Hakan Yakin",
-    "Joan Capdevila",
-    "Mario Balotelli",
-    "Daniele De Rossi",
-    "Neymar",
-    "Victor Valdes",
-    "Raul",
-    "Federico Valverde",
-    "Dries Mertens",
-    "Lukas Podolski",
-    "Davinson Sanchez",
-    "Tyler Adams",
-    "Edwin van der Sar",
-    "Clint Dempsey",
-    "Ivan Perisic",
-    "Weston McKennie",
-    "Olof Mellberg",
-    "Gianluca Zambrotta",
-    "Ismaila Sarr",
-    "Jozy Altidore",
-    "Shunsuke Nakamura",
-    "Kasper Schmeichel",
-    "Nacer Chadli",
-    "Luis Figo",
-    "Javier Hernandez",
-    "Robert Pires",
-    "Dirk Kuyt",
-    "Dani Alves",
-    "Gerard Pique",
-    "Achraf Hakimi",
-    "N'Golo Kante",
-    "Giovani Dos Santos",
-    "Hidetoshi Nakata",
-    "Carlos Vela",
-    "Artur Boruc",
-    "Christian Eriksen",
-    "Cafu",
-    "Emil Forsberg",
-    "Victor Moses",
-    "Lucas Paqueta",
-    "Julian Alvarez",
-    "Pierre-Emile Hojbjerg",
-    "Carlos Salcido",
-    "Harry Kane",
-    "Matthew Ryan",
-    "Antonio Valencia",
-    "Jordan Ayew",
-    "Sami Khedira",
-    "Jerome Boateng",
-    "Rodrygo",
-    "Rodri",
-    "Pepe",
-    "Ferran Torres",
-    "Mile Jedinak",
-    "Ruben Dias",
-    "Diego Forlan",
-    "Odion Ighalo",
-    "Claudio Marchisio",
-    "Rafael Marquez",
-    "Tim Howard",
-    "Edson Alvarez",
-    "Mark van Bommel",
-    "Nicolas Otamendi",
-    "Andrej Kramaric",
-    "Khalilou Fadiga",
-    "Ilkay Gundogan",
-    "Son Heung-min",
-    "Francesco Totti",
-    "Stephen Appiah",
-    "Miroslav Klose",
-    "Bruno Fernandes",
-    "Gonzalo Higuain",
-    "Darijo Srna",
-    "Toni Kroos",
-    "Ashley Cole",
-    "Helder Postiga",
-    "Javier Mascherano",
-    "Yannick Carrasco",
-    "Leroy Sane",
-    "Didier Zokora",
-    "Yerry Mina",
-    "Edison Cavani",
-    "Richard Kingston",
-    "Bruno Alves",
-    "Yuto Nagatomo",
-    "Jude Bellingham",
-    "Cha Du-ri",
-    "Roberto Carlos",
-    "Alvaro Morata",
-    "Sulley Muntari",
-    "Wesley Sneijder",
-    "Geremi",
-    "Shinji Kagawa",
-    "Michael Owen",
-    "Rodrigo Bentancur",
-    "Aliou Cisse",
-    "Olivier Giroud",
-    "Javad Nekounam",
-    "Angel Di Maria",
-    "Christian Pulisic",
-    "Michael Bradley",
-    "Park Ji-sung",
-    "Kai Havertz",
-    "Ivan Rakitic",
-    "Elano",
-    "Kaka",
-    "Simao Sabrosa",
-    "Alex Iwobi",
-    "Moussa Dembele",
-    "David Trezeguet",
-    "Hernan Crespo",
-    "Landon Donovan",
-    "Lucas Hernandez",
-    "Rigobert Song",
-    "Marcos Rojo",
-    "Oscar Cardozo",
-    "Maximiliano Pereira",
-    "Per Mertesacker",
-    "Luka Modric",
-    "Asamoah Gyan",
-    "Emre Belozoglu",
-    "David Villa",
-    "Marcelo Brozovic",
-    "Juan Cuadrado",
-    "Manuel Neuer",
-    "Hakim Ziyech",
-    "Enner Valencia",
-    "Franck Ribery",
-    "Kolo Toure",
-    "Nicolas Anelka",
-    "Yann Sommer",
-    "Marc-Andre ter Stegen",
-    "Aron Gunnarsson",
-    "Gylfi Sigurdsson",
-    "Joseba Etxeberria",
-    "John Obi Mikel",
-    "Franck Kessie",
-    "Sergio Ramos",
-    "Mario Mandzukic",
-    "Rio Ferdinand",
-    "Fabio Cannavaro",
-    "Hulk",
-    "Stipe Pletikosa",
-    "Mesut Ozil",
-    "Wataru Endo",
-    "Philippe Senderos",
-    "Andre Ayew",
-    "Joseph Yobo",
-    "Granit Xhaka",
-    "DaMarcus Beasley",
-    "Denzel Dumfries",
-    "Maniche",
-    "Michael Ballack",
-    "Salomon Kalou",
-    "Tim Cahill",
-    "Romelu Lukaku",
-    "Sergio Aguero",
-    "Ki Sung-yueng",
-    "Aaron Ramsey",
-    "Steven Gerrard",
-    "Zlatan Ibrahimovic",
-    "Piotr Zielinski",
-    "Darwin Nunez",
-    "Patrick Vieira",
-    "Nicklas Bendtner",
-    "Hwang Hee-chan",
-    "Luis Suarez",
-    "Andres Guardado",
-    "Xherdan Shaqiri",
-    "Joao Moutinho",
-    "Juan Roman Riquelme",
-    "Philippe Coutinho",
-    "Maxi Rodriguez",
-    "Ramires",
-    "Arkadiusz Milik",
-    "Bukayo Saka",
-    "Lee Young-pyo",
-    "Xavi Hernandez",
-    "Sardar Azmoun",
-    "Marcelo",
-    "Jon Dahl Tomasson",
     "Andrey Arshavin",
-    "Diogo Jota",
-    "Eduardo Camavinga",
-    "Alisson",
-    "Marcus Rashford",
-    "Raphael Varane",
-    "Xabi Alonso",
-    "Marcos Senna",
-    "Petr Cech",
-    "Tomas Rosicky",
-    "Robert Lewandowski",
-    "Deco",
-    "Kalidou Koulibaly",
-    "Harry Kewell",
-    "Yaya Toure",
-    "Karim Benzema",
+    "Javier Mascherano",
+    "Didier Zokora",
+    "Simon Kjaer",
+    "Patrice Evra",
+    "Franck Ribery",
+    "Juan Roman Riquelme",
+    "Edson Alvarez",
+    "Mile Jedinak",
+    "Olivier Giroud",
+    "Oscar Cardozo",
+    "Wojciech Szczesny",
     "Philipp Lahm",
-    "Ahmed Musa",
-    "Keisuke Honda",
-    "Gavi",
-    "Valon Behrami",
-    "Vincent Kompany",
-    "Pavel Nedved",
-    "Juan Sebastian Veron",
-    "Stephan Lichtsteiner",
-    "Hirving Lozano",
-    "Jakub Blaszczykowski",
-    "Lee Kang-in",
-    "Eden Hazard",
-    "Ever Banega",
-    "Manuel Akanji",
-    "Rodrigo De Paul",
-    "Cristiano Ronaldo",
-    "Casemiro",
-    "Oscar",
-    "Paul Pogba",
-    "Robinho",
-    "Luca Toni",
-    "Ezequiel Lavezzi",
-    "Julio Cesar",
-    "Javier Zanetti",
-    "Wilfried Bony",
-    "Fernando Hierro",
-    "Mario Gomez",
-    "Peter Odemwingie",
-    "Toby Alderweireld",
-    "Seol Ki-hyeon",
-    "Miguel Layun",
-    "Thiago Silva",
-    "Oliver Kahn",
-    "Bastian Schweinsteiger",
-    "Cesc Fabregas",
-    "Grzegorz Krychowiak",
-    "Juan Mata",
-    "Mats Hummels",
-    "Ronaldo Nazario",
-    "Alessandro Del Piero",
-    "Gareth Bale",
-    "Samuel Eto'o",
-    "Emmanuel Eboue",
-    "Cho Gue-sung",
-    "Antoine Griezmann",
-    "El Hadji Diouf",
-    "Victor Lindelof",
-    "Walter Samuel",
-    "William Gallas",
-    "Richarlison",
-    "Lautaro Martinez",
-    "Pedri",
-    "Fernandinho",
+    "Xabi Alonso",
+    "Salem Al-Dawsari",
+    "Lucas Paqueta",
+    "Robert Prosinecki",
     "Hugo Lloris",
-    "Giorgio Chiellini",
-    "Jan Vertonghen",
-    "Carles Puyol",
-    "Georginio Wijnaldum",
-    "Mehdi Mahdavikia",
-    "Michael Essien",
-    "Kevin De Bruyne",
-    "Youssef En-Nesyri",
-    "Guillermo Ochoa",
-    "Gianluigi Buffon",
-    "Marco Verratti",
+    "Rivaldo",
+    "Ismaila Sarr",
+    "Odion Ighalo",
+    "Arkadiusz Milik",
     "John Mensah",
+    "Xavi Hernandez",
+    "Sulley Muntari",
     "Robin van Persie",
-    "Dejan Stankovic",
-    "Leonardo Bonucci",
-    "Federico Chiesa",
-    "Memphis Depay",
+    "Cesc Fabregas",
+    "Dani Alves",
+    "Gabriel Jesus",
+    "Lee Kang-in",
+    "Edison Cavani",
+    "Radamel Falcao",
+    "Davinson Sanchez",
+    "Gary Neville",
+    "Lukas Podolski",
+    "Mario Gotze",
+    "Virgil van Dijk",
+    "Mats Hummels",
+    "Naohiro Takahara",
+    "Jan Koller",
+    "Diego Godin",
+    "Diogo Dalot",
+    "Hidetoshi Nakata",
+    "Ali Daei",
+    "Eden Hazard",
+    "Carlos Salcido",
+    "Raphael Varane",
+    "Ivica Olic",
+    "Ferran Torres",
+    "Marcos Senna",
+    "Mehdi Mahdavikia",
+    "Rodrygo",
+    "Andres Guardado",
+    "Hector Herrera",
+    "Patrick Kluivert",
+    "Enzo Fernandez",
+    "Miguel Layun",
+    "Marouane Fellaini",
+    "Serge Gnabry",
+    "Cho Gue-sung",
+    "Richard Kingston",
+    "Geremi",
+    "Emre Belozoglu",
+    "Joshua Kimmich",
+    "Zinedine Zidane",
+    "Niklas Sule",
+    "William Gallas",
+    "Jerome Boateng",
+    "El-Hadji Diouf",
+    "Freddie Ljungberg",
+    "Artur Boruc",
+    "Jude Bellingham",
+    "Nemanja Vidic",
+    "Simao Sabrosa",
+    "Bastian Schweinsteiger",
+    "Steven Gerrard",
+    "Robinho",
+    "Franck Kessie",
+    "Didier Drogba",
+    "Achraf Hakimi",
+    "Joseba Etxeberria",
+    "Joao Moutinho",
+    "Aurelien Tchouameni",
+    "Andres Iniesta",
+    "Alireza Beiranvand",
+    "Pedri",
+    "Leroy Sane",
+    "Rigobert Song",
+    "Joe Hart",
+    "Ruud van Nistelrooy",
+    "Igor Akinfeev",
+    "Jan Vertonghen",
+    "Sylvain Wiltord",
+    "Ilkay Gundogan",
+    "Ramires",
+    "Yuya Osako",
+    "Mesut Ozil",
+    "Olof Mellberg",
+    "Andrea Pirlo",
+    "Rodrigo De Paul",
     "Jamal Musiala",
-    "Hakan Sukur",
-    "Edouard Mendy",
+    "Mario Balotelli",
+    "Luka Modric",
+    "Per Mertesacker",
+    "Kylian Mbappe",
+    "Victor Osimhen",
+    "Alexis Sanchez",
+    "Igor Tudor",
+    "Javier Hernandez",
+    "Lionel Messi",
+    "Jordan Ayew",
+    "N'Golo Kante",
+    "Maniche",
+    "Breel Embolo",
+    "Joe Cole",
+    "Yannick Carrasco",
+    "Ki Sung-yueng",
+    "Antonio Valencia",
+    "Juan Cuadrado",
+    "Rafael Marquez",
+    "Jozy Altidore",
+    "Gareth Bale",
+    "Tim Cahill",
+    "Sergio Aguero",
+    "Raul Jimenez",
+    "Arturo Vidal",
+    "Michael Bradley",
+    "Gavi",
+    "Piotr Zielinski",
+    "Javier Zanetti",
+    "Matthew Ryan",
+    "Petr Cech",
+    "Jordan Henderson",
+    "Granit Xhaka",
+    "Joao Felix",
+    "Grzegorz Krychowiak",
     "Ousmane Dembele",
-    "James Rodriguez"
+    "Michael Essien",
+    "DaMarcus Beasley",
+    "Antoine Griezmann",
+    "Andre Ayew",
+    "German Pezzella",
+    "Gilberto Silva",
+    "Wesley Sneijder",
+    "Oscar",
+    "Lauren",
+    "Hector Moreno",
+    "Wayne Rooney",
+    "Nicolas Anelka",
+    "Lee Young-pyo",
+    "Jon Dahl Tomasson",
+    "Jonathan David",
+    "Sami Khedira",
+    "Alvaro Morata",
+    "Ronaldo Nazario",
+    "Diogo Jota",
+    "Makoto Hasebe",
+    "Sardar Azmoun",
+    "Tyler Adams",
+    "Bukayo Saka",
+    "Lucas Hernandez",
+    "Leonardo Bonucci",
+    "Hwang Ui-jo",
+    "Carlos Bocanegra",
+    "Deco",
+    "Gerardo Torrado",
+    "Karim Benzema",
+    "Maicon",
+    "Stipe Pletikosa",
+    "Nacer Chadli",
+    "Alex Iwobi",
+    "Weston McKennie",
+    "Nelson Valdez",
+    "Guillermo Ochoa",
+    "Ezequiel Lavezzi",
+    "Toni Kroos",
+    "Julio Cesar",
+    "Cho Hyun-woo",
+    "Shunsuke Nakamura",
+    "Rui Patricio",
+    "Mikel John Obi",
+    "Fernando Hierro",
+    "Daniele De Rossi",
+    "Mario Mandzukic",
+    "Stephan Lichtsteiner",
+    "Mohamed Salah",
+    "Cuauhtemoc Blanco",
+    "Gylfi Sigurdsson",
+    "Carlos Valderrama",
+    "Park Chu-young",
+    "Federico Valverde",
+    "Raul Meireles",
+    "Lucas Biglia",
+    "Lee Chung-yong",
+    "Ivan Rakitic",
+    "Julian Alvarez",
+    "Raheem Sterling",
+    "Cha Du-ri",
+    "Yuto Nagatomo",
+    "Kasper Schmeichel",
+    "Asamoah Gyan",
+    "Keylor Navas",
+    "Miroslav Klose",
+    "Harry Kewell",
+    "Diego Lugano",
+    "Xherdan Shaqiri",
+    "Emil Forsberg",
+    "Quaresma",
+    "Agustin Delgado",
+    "Mohammed Kudus",
+    "Ever Banega",
+    "Riyad Mahrez",
+    "Mladen Petric",
+    "Hulk",
+    "Sol Campbell",
+    "Clint Dempsey",
+    "James Rodriguez",
+    "Marcos Rojo",
+    "Tiago Mendes",
+    "Maximiliano Pereira",
+    "Wilfried Bony",
+    "Toby Alderweireld",
+    "Iker Casillas",
+    "Martin Demichelis",
+    "Gianluigi Buffon",
+    "Aliou Cisse",
+    "Nicolas Lodeiro",
+    "Manuel Neuer",
+    "Pablo Zabaleta",
+    "Carles Puyol",
+    "Mark Schwarzer",
+    "Bruno Alves",
+    "Jens Lehmann",
+    "Gerard Pique",
+    "Nicklas Bendtner",
+    "Edouard Mendy",
+    "Ahmed Musa",
+    "Peter Crouch",
+    "Marquinhos",
+    "John Heitinga",
+    "Zlatan Ibrahimovic",
+    "Thomas Muller",
+    "Robert Pires",
+    "Tim Howard",
+    "Federico Chiesa",
+    "Denis Cheryshev",
+    "Vincent Enyeama",
+    "Landon Donovan",
+    "Juan Sebastian Veron",
+    "John Terry",
+    "Joan Capdevila",
+    "Victor Valdes",
+    "Claudio Bravo",
+    "Aron Gunnarsson",
+    "David Beckham",
+    "James Milner",
+    "El Hadji Diouf",
+    "Sadio Mane",
+    "Ritsu Doan",
+    "Hernan Crespo",
+    "Slaven Bilic",
+    "Jesus Corona",
+    "Brian McBride",
+    "Cristiano Ronaldo",
+    "John Obi Mikel",
+    "Thomas Meunier",
+    "Phil Foden",
+    "Marcelo",
+    "Stephen Appiah",
+    "Emmanuel Eboue",
+    "Nwankwo Kanu",
+    "Sergio Ramos",
+    "Lucio",
+    "Andrej Kramaric",
+    "Joseph Yobo",
+    "Casemiro",
+    "Alessandro Del Piero",
+    "Gennaro Gattuso",
+    "David Villa",
+    "Roberto Carlos",
+    "Dani Carvajal",
+    "Victor Moses",
+    "Florian Wirtz",
+    "Michael Owen",
+    "Hwang Hee-chan",
+    "Jared Borgetti",
+    "Frenkie de Jong",
+    "Enner Valencia",
+    "Maxi Rodriguez",
+    "Kaka",
+    "Patrick Vieira",
+    "Juan",
+    "Rafael van der Vaart",
+    "Jamie Carragher",
+    "Giovani Dos Santos",
+    "Fabio Cannavaro",
+    "Memphis Depay",
+    "Vinicius Junior",
+    "Christian Eriksen",
+    "Rio Ferdinand",
+    "David Silva",
+    "Javad Nekounam",
+    "Keisuke Honda",
+    "Kevin De Bruyne",
+    "Helder Postiga",
+    "Eduardo Camavinga",
+    "Wataru Endo",
+    "Valon Behrami",
+    "Jakub Blaszczykowski",
+    "Ashley Cole",
+    "Hakim Ziyech",
+    "Robert Lewandowski",
+    "Claudio Marchisio",
+    "Marcelo Brozovic",
+    "Luca Toni",
+    "Salomon Kalou",
+    "Mike Maignan",
+    "Moises Caicedo",
+    "Stephen Eustaquio",
+    "Edmilson",
+    "Roberto Ayala",
+    "Paul Scholes",
+    "Philippe Senderos",
+    "Luis Suarez",
+    "Paul Pogba",
+    "Kamil Glik",
+    "Mark van Bommel",
+    "David Trezeguet",
+    "Joel Campbell",
+    "Gabriel Batistuta",
+    "Rodri",
+    "Diego Maradona",
+    "Bruno Fernandes",
+    "Edwin van der Sar",
+    "Claude Makelele",
+    "Cafu",
+    "Aaron Ramsey",
+    "Kai Havertz",
+    "Moussa Dembele",
+    "Gonzalo Higuain",
+    "Seol Ki-hyeon",
+    "Hakan Yakin",
+    "Darijo Srna",
+    "Youssef En-Nesyri",
+    "Maya Yoshida",
+    "Bernardo Silva",
+    "Mauro Camoranesi",
+    "Thiago Silva",
+    "Pepe",
+    "Pierre-Emile Hojbjerg",
+    "Marc-Andre ter Stegen",
+    "Thibaut Courtois",
+    "Hirving Lozano",
+    "Egidio Arevalo",
+    "Lautaro Martinez",
+    "Mateo Kovacic",
+    "Christian Pulisic",
+    "Walter Samuel",
+    "Alphonso Davies",
+    "Yaya Toure",
+    "Idrissa Gueye",
+    "David Luiz",
+    "Georginio Wijnaldum",
+    "Fabio Coentrao",
+    "Thierry Henry",
+    "Nicolas Otamendi",
+    "Richarlison",
+    "Dejan Stankovic",
+    "Marco Materazzi",
+    "Pavel Nedved",
+    "Diego Forlan",
+    "Romelu Lukaku",
+    "Oliver Kahn",
+    "Ivan Perisic",
+    "Eduardo da Silva",
+    "Mathew Ryan",
+    "Ruben Dias",
+    "Elano",
+    "Marcus Rashford",
+    "Theo Hernandez",
+    "Mark Bresciano",
+    "Josko Gvardiol",
+    "Lilian Thuram",
+    "Bryan Ruiz",
+    "Frank Lampard",
+    "Gianluca Zambrotta",
+    "Samuel Eto'o",
+    "Marco Verratti",
+    "Santiago Gimenez",
+    "Tomas Rosicky",
+    "Khalilou Fadiga",
+    "Son Heung-min",
+    "Jordi Alba",
+    "Bixente Lizarazu",
+    "Pavel Pardo",
+    "Francesco Totti",
+    "Philippe Coutinho",
+    "Neymar",
+    "Carlos Vela",
+    "Fernando Torres",
+    "Davor Suker",
+    "Denzel Dumfries",
+    "Pablo Aimar",
+    "Luis Figo",
+    "Hakan Sukur",
+    "Peter Odemwingie",
+    "Kolo Toure",
+    "Giorgio Chiellini",
+    "Yerry Mina",
+    "Dejan Lovren",
+    "Park Ji-sung",
+    "Shinji Kagawa",
+    "Kevin-Prince Boateng",
+    "Clarence Seedorf",
+    "Ali Karimi",
+    "Marcel Desailly",
+    "Vincent Kompany",
+    "Dirk Kuyt",
+    "Angel Di Maria",
+    "Niko Kranjcar",
+    "Rodrigo Bentancur",
+    "Kalidou Koulibaly",
+    "Axel Witsel",
+    "Raul",
+    "Arjen Robben",
+    "Juan Mata",
+    "Ricardo Carvalho",
+    "Mario Gomez",
+    "Michael Ballack",
+    "Klaas-Jan Huntelaar",
+    "Edgar Davids",
+    "Manuel Akanji",
+    "Adriano",
+    "Alisson",
+    "Emiliano Martinez",
+    "Takumi Minamino",
+    "Nani",
+    "Darwin Nunez",
+    "Ronaldinho",
+    "Fernandinho",
+    "Ariel Ortega",
+    "Yann Sommer",
+    "Victor Lindelof",
+    "Dries Mertens",
+    "Carlos Tevez",
+    "Fabien Barthez",
+    "Harry Kane",
+    "Antonio Rudiger"
   ]
 }

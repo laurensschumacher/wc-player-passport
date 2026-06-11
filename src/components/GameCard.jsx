@@ -106,7 +106,6 @@ export default function GameCard({
               <TournamentRow
                 key={`wc-${row.data.year}`}
                 wc={row.data}
-                nationalityCode={player.nationality_code}
                 index={i}
               />
             ) : (

@@ -76,6 +76,139 @@ FOOTY_DESC_TOKENS = (
     "footballing",
 )
 
+# Manual Wikipedia title overrides for clubs whose informal name doesn't
+# resolve via the candidate-generation heuristics. Tried first, before
+# any other variants. Names match the strings used in lineups.json /
+# world_cup_players.json.
+MANUAL_TITLES: dict[str, str] = {
+    "AEK Larnaca": "AEK Larnaca FC",
+    "APOEL": "APOEL FC",
+    "Akron Tolyatti": "FC Akron Tolyatti",
+    "Al Ahly": "Al Ahly SC",
+    "Al Bataeh": "Al Bataeh Club",
+    "Al Dhafra": "Al Dhafra FC",
+    "Al Nasr": "Al Nasr SC (Dubai)",
+    "Al-Ahli": "Al-Ahli Saudi FC",
+    "Al-Faisaly": "Al-Faisaly FC",
+    "Al-Fateh": "Al-Fateh SC",
+    "Al-Hussein": "Al-Hussein SC (Irbid)",
+    "Al-Karma": "Al-Karma SC",
+    "Al-Qadsiah": "Al-Qadsiah FC",
+    "Al-Sadd": "Al Sadd SC",
+    "Al-Sailiya": "Al-Sailiya SC",
+    "Al-Talaba": "Al-Talaba SC",
+    "Al-Wakrah": "Al-Wakrah SC",
+    "Al-Zawraa": "Al-Zawraa SC",
+    "Angers": "Angers SCO",
+    "Antwerp": "Royal Antwerp F.C.",
+    "Apollon Limassol": "Apollon Limassol FC",
+    "Astana": "FC Astana",
+    "Atlanta United FC": "Atlanta United FC",
+    "Atromitos": "Atromitos F.C.",
+    "Auckland FC": "Auckland FC",
+    "Bodø/Glimt": "FK Bodø/Glimt",
+    "Brøndby": "Brøndby IF",
+    "Castellón": "CD Castellón",
+    "Charlton Athletic": "Charlton Athletic F.C.",
+    "Chaves": "G.D. Chaves",
+    "Club Africain": "Club Africain",
+    "Club Brugge": "Club Brugge KV",
+    "Cremonese": "U.S. Cremonese",
+    "Dender": "F.C.V. Dender E.H.",
+    "Derby County": "Derby County F.C.",
+    "Dibba": "Dibba Al-Hisn SC",
+    "Dinamo Samarqand": "FC Dinamo Samarqand",
+    "Dynamo Makhachkala": "FC Dynamo Makhachkala",
+    "El Paso Locomotive FC": "El Paso Locomotive FC",
+    "Elche": "Elche CF",
+    "Espérance de Tunis": "Espérance Sportive de Tunis",
+    "Estrela Amadora": "C.F. Estrela da Amadora",
+    "FC Augsburg": "FC Augsburg",
+    "FC Dallas": "FC Dallas",
+    "FC St. Pauli": "FC St. Pauli",
+    "FCSB": "FCSB",
+    "Gangwon FC": "Gangwon FC",
+    "Gaziantep": "Gaziantep F.K.",
+    "Gil Vicente": "Gil Vicente F.C.",
+    "Girona": "Girona FC",
+    "Grazer AK": "Grazer AK",
+    "Guadalajara": "C.D. Guadalajara",
+    "Heart of Midlothian": "Heart of Midlothian F.C.",
+    "Heracles Almelo": "Heracles Almelo",
+    "Hibernian": "Hibernian F.C.",
+    "Hradec Králové": "FC Hradec Králové",
+    "Huracán": "Club Atlético Huracán",
+    "Ironi Kiryat Shmona": "Hapoel Ironi Kiryat Shmona F.C.",
+    "Iğdır": "Iğdır F.K.",
+    "JS Kabylie": "JS Kabylie",
+    "Jagiellonia Białystok": "Jagiellonia Białystok",
+    "Juárez": "FC Juárez",
+    "Kashima Antlers": "Kashima Antlers",
+    "Kasımpaşa": "Kasımpaşa S.K.",
+    "Kifisia": "Kifisia F.C.",
+    "Le Havre": "Le Havre AC",
+    "Levante": "Levante UD",
+    "Maccabi Haifa": "Maccabi Haifa F.C.",
+    "Mamelodi Sundowns": "Mamelodi Sundowns F.C.",
+    "Maribor": "NK Maribor",
+    "Mazatlán": "Mazatlán F.C.",
+    "Miami FC": "Miami FC",
+    "Motherwell": "Motherwell F.C.",
+    "Nashville SC": "Nashville SC",
+    "Navbahor Namangan": "Navbahor Namangan",
+    "Neftchi Fergana": "Neftchi Fergana",
+    "New York City FC": "New York City FC",
+    "Nice": "OGC Nice",
+    "Nordsjælland": "FC Nordsjælland",
+    "Orlando Pirates": "Orlando Pirates F.C.",
+    "Oviedo": "Real Oviedo",
+    "PEC Zwolle": "PEC Zwolle",
+    "Pafos": "Pafos FC",
+    "Pakhtakor": "Pakhtakor Tashkent FK",
+    "Pari Nizhny Novgorod": "FC Pari Nizhny Novgorod",
+    "Persepolis": "Persepolis F.C.",
+    "Peterborough United": "Peterborough United F.C.",
+    "Philadelphia Union": "Philadelphia Union",
+    "Pogoń Szczecin": "Pogoń Szczecin",
+    "Polokwane City": "Polokwane City F.C.",
+    "Port": "Port F.C.",
+    "Pyramids": "Pyramids FC",
+    "RKC Waalwijk": "RKC Waalwijk",
+    "Raja Casablanca": "Raja CA",
+    "Real Betis": "Real Betis",
+    "River Plate": "Club Atlético River Plate",
+    "Santos": "Santos FC",
+    "Saprissa": "Deportivo Saprissa",
+    "Sassuolo": "U.S. Sassuolo Calcio",
+    "Selangor": "Selangor F.C.",
+    "Sepahan": "Sepahan S.C.",
+    "Shamrock Rovers": "Shamrock Rovers F.C.",
+    "Sheffield United": "Sheffield United F.C.",
+    "Slavia Prague": "SK Slavia Prague",
+    "Slovan Bratislava": "ŠK Slovan Bratislava",
+    "Sparta Prague": "AC Sparta Prague",
+    "Spartak Moscow": "FC Spartak Moscow",
+    "St. Gallen": "FC St. Gallen",
+    "Stade Nyonnais": "Stade Nyonnais FC",
+    "Strasbourg": "RC Strasbourg Alsace",
+    "Toluca": "Deportivo Toluca F.C.",
+    "Torreense": "S.C.U. Torreense",
+    "Tractor": "Tractor S.C.",
+    "USM Alger": "USM Alger",
+    "Union Saint-Gilloise": "Royale Union Saint-Gilloise",
+    "Viking": "Viking FK",
+    "Viktoria Plzeň": "FC Viktoria Plzeň",
+    "Volendam": "FC Volendam",
+    "Wellington Phoenix": "Wellington Phoenix FC",
+    "Werder Bremen": "SV Werder Bremen",
+    "West Ham United": "West Ham United F.C.",
+    "Widzew Łódź": "Widzew Łódź",
+    "Young Boys": "BSC Young Boys",
+    "Zamalek": "Zamalek SC",
+    "Zürich": "FC Zürich",
+    "Çaykur Rizespor": "Çaykur Rizespor",
+}
+
 
 def _rate_limit() -> None:
     global _last_call
@@ -148,6 +281,10 @@ def title_candidates(name: str) -> list[str]:
             seen.add(t)
             out.append(t)
 
+    # Manual override always wins.
+    if name in MANUAL_TITLES:
+        add(MANUAL_TITLES[name])
+
     has_marker = bool(FOOTY_TITLE_RE.search(name))
 
     if has_marker:
@@ -162,7 +299,7 @@ def title_candidates(name: str) -> list[str]:
         # Disambiguator parenthetical for clubs like "Banfield (football club)"
         add(f"{name} (football club)")
 
-    return out[:5]
+    return out[:6]
 
 
 def fetch_summary(title: str) -> dict | None:
@@ -203,11 +340,11 @@ def is_club(summary: dict) -> bool:
     return False
 
 
-def _try_summary(title: str) -> dict | None:
+def _try_summary(title: str, *, trusted: bool = False) -> dict | None:
     summ = fetch_summary(title)
     if not summ or summ.get("type") == "disambiguation":
         return None
-    if not is_club(summ):
+    if not trusted and not is_club(summ):
         return None
     thumb = (summ.get("thumbnail") or {}).get("source")
     orig = (summ.get("originalimage") or {}).get("source")
@@ -233,7 +370,14 @@ def _name_matches_title(name: str, title: str) -> bool:
 
 def resolve_club(name: str) -> dict | None:
     """Return summary dict for the article representing this club, else None."""
+    manual = MANUAL_TITLES.get(name)
+    if manual:
+        info = _try_summary(manual, trusted=True)
+        if info:
+            return info
     for cand in title_candidates(name):
+        if cand == manual:
+            continue  # already tried as trusted
         info = _try_summary(cand)
         if info:
             return info

@@ -433,7 +433,165 @@ CANDIDATES = [
     # ===== DENMARK (extra) =====
     {"name": "Kasper Schmeichel",     "nationality": "Denmark", "code": "DEN", "flag": "🇩🇰", "position": "gk",         "tm_slug": "kasper-schmeichel",       "tm_id": 49020},
 
+    # ====================================================================
+    # ROUND 2 EXTENSIONS - additional candidates (tm_id=0 -> scraper search fallback)
+    # ====================================================================
+
+    # ----- ARGENTINA (extra) -----
+    {"name": "Diego Maradona", "nationality": "Argentina", "code": "ARG", "flag": "🇦🇷", "position": "midfielder", "tm_slug": "diego-maradona", "tm_id": 0},
+    {"name": "Gabriel Batistuta", "nationality": "Argentina", "code": "ARG", "flag": "🇦🇷", "position": "attacker", "tm_slug": "gabriel-batistuta", "tm_id": 0},
+    {"name": "Pablo Aimar", "nationality": "Argentina", "code": "ARG", "flag": "🇦🇷", "position": "midfielder", "tm_slug": "pablo-aimar", "tm_id": 0},
+    {"name": "Ariel Ortega", "nationality": "Argentina", "code": "ARG", "flag": "🇦🇷", "position": "attacker", "tm_slug": "ariel-ortega", "tm_id": 0},
+    {"name": "Martin Demichelis", "nationality": "Argentina", "code": "ARG", "flag": "🇦🇷", "position": "defender", "tm_slug": "martin-demichelis", "tm_id": 0},
+
+    # ----- BRAZIL (extra) -----
+    {"name": "Rivaldo", "nationality": "Brazil", "code": "BRA", "flag": "🇧🇷", "position": "attacker", "tm_slug": "rivaldo", "tm_id": 0},
+    {"name": "Lucio", "nationality": "Brazil", "code": "BRA", "flag": "🇧🇷", "position": "defender", "tm_slug": "lucio", "tm_id": 0},
+    {"name": "Maicon", "nationality": "Brazil", "code": "BRA", "flag": "🇧🇷", "position": "defender", "tm_slug": "maicon", "tm_id": 0},
+    {"name": "Gilberto Silva", "nationality": "Brazil", "code": "BRA", "flag": "🇧🇷", "position": "midfielder", "tm_slug": "gilberto-silva", "tm_id": 0},
+    {"name": "Edmilson", "nationality": "Brazil", "code": "BRA", "flag": "🇧🇷", "position": "defender", "tm_slug": "edmilson", "tm_id": 0},
+    {"name": "Juan", "nationality": "Brazil", "code": "BRA", "flag": "🇧🇷", "position": "defender", "tm_slug": "juan", "tm_id": 0},
+    {"name": "Gabriel Jesus", "nationality": "Brazil", "code": "BRA", "flag": "🇧🇷", "position": "attacker", "tm_slug": "gabriel-jesus", "tm_id": 0},
+    {"name": "Marquinhos", "nationality": "Brazil", "code": "BRA", "flag": "🇧🇷", "position": "defender", "tm_slug": "marquinhos", "tm_id": 0},
+
+    # ----- MEXICO (extra) -----
+    {"name": "Cuauhtemoc Blanco", "nationality": "Mexico", "code": "MEX", "flag": "🇲🇽", "position": "attacker", "tm_slug": "cuauhtemoc-blanco", "tm_id": 0},
+    {"name": "Jared Borgetti", "nationality": "Mexico", "code": "MEX", "flag": "🇲🇽", "position": "attacker", "tm_slug": "jared-borgetti", "tm_id": 0},
+    {"name": "Pavel Pardo", "nationality": "Mexico", "code": "MEX", "flag": "🇲🇽", "position": "midfielder", "tm_slug": "pavel-pardo", "tm_id": 0},
+    {"name": "Hector Moreno", "nationality": "Mexico", "code": "MEX", "flag": "🇲🇽", "position": "defender", "tm_slug": "hector-moreno", "tm_id": 0},
+    {"name": "Raul Jimenez", "nationality": "Mexico", "code": "MEX", "flag": "🇲🇽", "position": "attacker", "tm_slug": "raul-jimenez", "tm_id": 0},
+    {"name": "Gerardo Torrado", "nationality": "Mexico", "code": "MEX", "flag": "🇲🇽", "position": "midfielder", "tm_slug": "gerardo-torrado", "tm_id": 0},
+    {"name": "Hector Herrera", "nationality": "Mexico", "code": "MEX", "flag": "🇲🇽", "position": "midfielder", "tm_slug": "hector-herrera", "tm_id": 0},
+    {"name": "Jesus Corona", "nationality": "Mexico", "code": "MEX", "flag": "🇲🇽", "position": "attacker", "tm_slug": "jesus-corona", "tm_id": 0},
+    {"name": "Santiago Gimenez", "nationality": "Mexico", "code": "MEX", "flag": "🇲🇽", "position": "attacker", "tm_slug": "santiago-gimenez", "tm_id": 0},
+
+    # ----- ENGLAND (extra) -----
+    {"name": "Joe Hart", "nationality": "England", "code": "ENG", "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "position": "gk", "tm_slug": "joe-hart", "tm_id": 0},
+    {"name": "John Terry", "nationality": "England", "code": "ENG", "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "position": "defender", "tm_slug": "john-terry", "tm_id": 0},
+    {"name": "Sol Campbell", "nationality": "England", "code": "ENG", "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "position": "defender", "tm_slug": "sol-campbell", "tm_id": 0},
+    {"name": "Gary Neville", "nationality": "England", "code": "ENG", "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "position": "defender", "tm_slug": "gary-neville", "tm_id": 0},
+    {"name": "Paul Scholes", "nationality": "England", "code": "ENG", "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "position": "midfielder", "tm_slug": "paul-scholes", "tm_id": 0},
+    {"name": "Jamie Carragher", "nationality": "England", "code": "ENG", "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "position": "defender", "tm_slug": "jamie-carragher", "tm_id": 0},
+    {"name": "James Milner", "nationality": "England", "code": "ENG", "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "position": "midfielder", "tm_slug": "james-milner", "tm_id": 0},
+    {"name": "Jordan Henderson", "nationality": "England", "code": "ENG", "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "position": "midfielder", "tm_slug": "jordan-henderson", "tm_id": 0},
+
+    # ----- FRANCE (extra) -----
+    {"name": "Lilian Thuram", "nationality": "France", "code": "FRA", "flag": "🇫🇷", "position": "defender", "tm_slug": "lilian-thuram", "tm_id": 0},
+    {"name": "Bixente Lizarazu", "nationality": "France", "code": "FRA", "flag": "🇫🇷", "position": "defender", "tm_slug": "bixente-lizarazu", "tm_id": 0},
+    {"name": "Marcel Desailly", "nationality": "France", "code": "FRA", "flag": "🇫🇷", "position": "defender", "tm_slug": "marcel-desailly", "tm_id": 0},
+    {"name": "Claude Makelele", "nationality": "France", "code": "FRA", "flag": "🇫🇷", "position": "midfielder", "tm_slug": "claude-makelele", "tm_id": 0},
+    {"name": "Patrice Evra", "nationality": "France", "code": "FRA", "flag": "🇫🇷", "position": "defender", "tm_slug": "patrice-evra", "tm_id": 0},
+    {"name": "Sylvain Wiltord", "nationality": "France", "code": "FRA", "flag": "🇫🇷", "position": "attacker", "tm_slug": "sylvain-wiltord", "tm_id": 0},
+    {"name": "Fabien Barthez", "nationality": "France", "code": "FRA", "flag": "🇫🇷", "position": "gk", "tm_slug": "fabien-barthez", "tm_id": 0},
+    {"name": "Theo Hernandez", "nationality": "France", "code": "FRA", "flag": "🇫🇷", "position": "defender", "tm_slug": "theo-hernandez", "tm_id": 0},
+    {"name": "Mike Maignan", "nationality": "France", "code": "FRA", "flag": "🇫🇷", "position": "gk", "tm_slug": "mike-maignan", "tm_id": 0},
+
+    # ----- ITALY (extra) -----
+    {"name": "Marco Materazzi", "nationality": "Italy", "code": "ITA", "flag": "🇮🇹", "position": "defender", "tm_slug": "marco-materazzi", "tm_id": 0},
+    {"name": "Mauro Camoranesi", "nationality": "Italy", "code": "ITA", "flag": "🇮🇹", "position": "midfielder", "tm_slug": "mauro-camoranesi", "tm_id": 0},
+
+    # ----- PORTUGAL (extra) -----
+    {"name": "Ricardo Carvalho", "nationality": "Portugal", "code": "POR", "flag": "🇵🇹", "position": "defender", "tm_slug": "ricardo-carvalho", "tm_id": 0},
+    {"name": "Raul Meireles", "nationality": "Portugal", "code": "POR", "flag": "🇵🇹", "position": "midfielder", "tm_slug": "raul-meireles", "tm_id": 0},
+    {"name": "Fabio Coentrao", "nationality": "Portugal", "code": "POR", "flag": "🇵🇹", "position": "defender", "tm_slug": "fabio-coentrao", "tm_id": 0},
+    {"name": "Rui Patricio", "nationality": "Portugal", "code": "POR", "flag": "🇵🇹", "position": "gk", "tm_slug": "rui-patricio", "tm_id": 0},
+    {"name": "Quaresma", "nationality": "Portugal", "code": "POR", "flag": "🇵🇹", "position": "attacker", "tm_slug": "ricardo-quaresma", "tm_id": 0},
+    {"name": "Tiago Mendes", "nationality": "Portugal", "code": "POR", "flag": "🇵🇹", "position": "midfielder", "tm_slug": "tiago", "tm_id": 0},
+    {"name": "Diogo Dalot", "nationality": "Portugal", "code": "POR", "flag": "🇵🇹", "position": "defender", "tm_slug": "diogo-dalot", "tm_id": 0},
+
+    # ----- NETHERLANDS (extra) -----
+    {"name": "Klaas-Jan Huntelaar", "nationality": "Netherlands", "code": "NED", "flag": "🇳🇱", "position": "attacker", "tm_slug": "klaas-jan-huntelaar", "tm_id": 0},
+    {"name": "Patrick Kluivert", "nationality": "Netherlands", "code": "NED", "flag": "🇳🇱", "position": "attacker", "tm_slug": "patrick-kluivert", "tm_id": 0},
+    {"name": "Edgar Davids", "nationality": "Netherlands", "code": "NED", "flag": "🇳🇱", "position": "midfielder", "tm_slug": "edgar-davids", "tm_id": 0},
+    {"name": "Clarence Seedorf", "nationality": "Netherlands", "code": "NED", "flag": "🇳🇱", "position": "midfielder", "tm_slug": "clarence-seedorf", "tm_id": 0},
+    {"name": "Rafael van der Vaart", "nationality": "Netherlands", "code": "NED", "flag": "🇳🇱", "position": "midfielder", "tm_slug": "rafael-van-der-vaart", "tm_id": 0},
+    {"name": "John Heitinga", "nationality": "Netherlands", "code": "NED", "flag": "🇳🇱", "position": "defender", "tm_slug": "john-heitinga", "tm_id": 0},
+
+    # ----- CROATIA (extra) -----
+    {"name": "Robert Prosinecki", "nationality": "Croatia", "code": "CRO", "flag": "🇭🇷", "position": "midfielder", "tm_slug": "robert-prosinecki", "tm_id": 0},
+    {"name": "Davor Suker", "nationality": "Croatia", "code": "CRO", "flag": "🇭🇷", "position": "attacker", "tm_slug": "davor-suker", "tm_id": 0},
+    {"name": "Igor Tudor", "nationality": "Croatia", "code": "CRO", "flag": "🇭🇷", "position": "defender", "tm_slug": "igor-tudor", "tm_id": 0},
+    {"name": "Slaven Bilic", "nationality": "Croatia", "code": "CRO", "flag": "🇭🇷", "position": "defender", "tm_slug": "slaven-bilic", "tm_id": 0},
+    {"name": "Niko Kranjcar", "nationality": "Croatia", "code": "CRO", "flag": "🇭🇷", "position": "midfielder", "tm_slug": "niko-kranjcar", "tm_id": 0},
+    {"name": "Eduardo da Silva", "nationality": "Croatia", "code": "CRO", "flag": "🇭🇷", "position": "attacker", "tm_slug": "eduardo-da-silva", "tm_id": 0},
+    {"name": "Mladen Petric", "nationality": "Croatia", "code": "CRO", "flag": "🇭🇷", "position": "attacker", "tm_slug": "mladen-petric", "tm_id": 0},
+
+    # ----- BELGIUM (extra) -----
+    {"name": "Marouane Fellaini", "nationality": "Belgium", "code": "BEL", "flag": "🇧🇪", "position": "midfielder", "tm_slug": "marouane-fellaini", "tm_id": 0},
+    {"name": "Thomas Meunier", "nationality": "Belgium", "code": "BEL", "flag": "🇧🇪", "position": "defender", "tm_slug": "thomas-meunier", "tm_id": 0},
+
+    # ----- URUGUAY (extra) -----
+    {"name": "Egidio Arevalo", "nationality": "Uruguay", "code": "URU", "flag": "🇺🇾", "position": "midfielder", "tm_slug": "egidio-arevalo", "tm_id": 0},
+
+    # ----- USA (extra) -----
+    {"name": "Brian McBride", "nationality": "USA", "code": "USA", "flag": "🇺🇸", "position": "attacker", "tm_slug": "brian-mcbride", "tm_id": 0},
+
+    # ----- SOUTH KOREA (extra) -----
+    {"name": "Lee Chung-yong", "nationality": "South Korea", "code": "KOR", "flag": "🇰🇷", "position": "midfielder", "tm_slug": "chung-yong-lee", "tm_id": 0},
+    {"name": "Hwang Ui-jo", "nationality": "South Korea", "code": "KOR", "flag": "🇰🇷", "position": "attacker", "tm_slug": "ui-jo-hwang", "tm_id": 0},
+    {"name": "Cho Hyun-woo", "nationality": "South Korea", "code": "KOR", "flag": "🇰🇷", "position": "gk", "tm_slug": "hyun-woo-cho", "tm_id": 0},
+
+    # ----- JAPAN (extra) -----
+    {"name": "Naohiro Takahara", "nationality": "Japan", "code": "JPN", "flag": "🇯🇵", "position": "attacker", "tm_slug": "naohiro-takahara", "tm_id": 0},
+    {"name": "Yuya Osako", "nationality": "Japan", "code": "JPN", "flag": "🇯🇵", "position": "attacker", "tm_slug": "yuya-osako", "tm_id": 0},
+
+    # ----- EGYPT (extra) -----
+    {"name": "Mohamed Salah", "nationality": "Egypt", "code": "EGY", "flag": "🇪🇬", "position": "attacker", "tm_slug": "mohamed-salah", "tm_id": 0},
+
+    # ----- ALGERIA (extra) -----
+    {"name": "Riyad Mahrez", "nationality": "Algeria", "code": "ALG", "flag": "🇩🇿", "position": "attacker", "tm_slug": "riyad-mahrez", "tm_id": 0},
+
+    # ----- CHILE (extra) -----
+    {"name": "Arturo Vidal", "nationality": "Chile", "code": "CHI", "flag": "🇨🇱", "position": "midfielder", "tm_slug": "arturo-vidal", "tm_id": 0},
+    {"name": "Alexis Sanchez", "nationality": "Chile", "code": "CHI", "flag": "🇨🇱", "position": "attacker", "tm_slug": "alexis-sanchez", "tm_id": 0},
+    {"name": "Claudio Bravo", "nationality": "Chile", "code": "CHI", "flag": "🇨🇱", "position": "gk", "tm_slug": "claudio-bravo", "tm_id": 0},
+
+    # ----- SENEGAL (extra) -----
+    {"name": "El-Hadji Diouf", "nationality": "Senegal", "code": "SEN", "flag": "🇸🇳", "position": "attacker", "tm_slug": "el-hadji-diouf", "tm_id": 0},
+
+    # ----- NIGERIA (extra) -----
+    {"name": "Vincent Enyeama", "nationality": "Nigeria", "code": "NGA", "flag": "🇳🇬", "position": "gk", "tm_slug": "vincent-enyeama", "tm_id": 0},
+    {"name": "Mikel John Obi", "nationality": "Nigeria", "code": "NGA", "flag": "🇳🇬", "position": "midfielder", "tm_slug": "mikel-john-obi", "tm_id": 0},
+    {"name": "Victor Osimhen", "nationality": "Nigeria", "code": "NGA", "flag": "🇳🇬", "position": "attacker", "tm_slug": "victor-osimhen", "tm_id": 0},
+
+    # ----- GHANA (extra) -----
+    {"name": "Kevin-Prince Boateng", "nationality": "Ghana", "code": "GHA", "flag": "🇬🇭", "position": "midfielder", "tm_slug": "kevin-prince-boateng", "tm_id": 0},
+    {"name": "Mohammed Kudus", "nationality": "Ghana", "code": "GHA", "flag": "🇬🇭", "position": "midfielder", "tm_slug": "mohammed-kudus", "tm_id": 0},
+
+    # ----- AUSTRALIA (extra) -----
+    {"name": "Mark Schwarzer", "nationality": "Australia", "code": "AUS", "flag": "🇦🇺", "position": "gk", "tm_slug": "mark-schwarzer", "tm_id": 0},
+    {"name": "Mark Bresciano", "nationality": "Australia", "code": "AUS", "flag": "🇦🇺", "position": "midfielder", "tm_slug": "mark-bresciano", "tm_id": 0},
+    {"name": "Mathew Ryan", "nationality": "Australia", "code": "AUS", "flag": "🇦🇺", "position": "gk", "tm_slug": "mathew-ryan", "tm_id": 0},
+
+    # ----- IRAN (extra) -----
+    {"name": "Ali Daei", "nationality": "Iran", "code": "IRN", "flag": "🇮🇷", "position": "attacker", "tm_slug": "ali-daei", "tm_id": 0},
+    {"name": "Ali Karimi", "nationality": "Iran", "code": "IRN", "flag": "🇮🇷", "position": "midfielder", "tm_slug": "ali-karimi", "tm_id": 0},
+    {"name": "Alireza Beiranvand", "nationality": "Iran", "code": "IRN", "flag": "🇮🇷", "position": "gk", "tm_slug": "alireza-beiranvand", "tm_id": 0},
+
+    # ----- COLOMBIA (extra) -----
+    {"name": "Carlos Valderrama", "nationality": "Colombia", "code": "COL", "flag": "🇨🇴", "position": "midfielder", "tm_slug": "carlos-valderrama", "tm_id": 0},
+
+    # ----- CANADA (extra) -----
+    {"name": "Alphonso Davies", "nationality": "Canada", "code": "CAN", "flag": "🇨🇦", "position": "defender", "tm_slug": "alphonso-davies", "tm_id": 0},
+    {"name": "Jonathan David", "nationality": "Canada", "code": "CAN", "flag": "🇨🇦", "position": "attacker", "tm_slug": "jonathan-david", "tm_id": 0},
+    {"name": "Stephen Eustaquio", "nationality": "Canada", "code": "CAN", "flag": "🇨🇦", "position": "midfielder", "tm_slug": "stephen-eustaquio", "tm_id": 0},
+
+    # ----- SAUDI ARABIA (extra) -----
+    {"name": "Salem Al-Dawsari", "nationality": "Saudi Arabia", "code": "SAU", "flag": "🇸🇦", "position": "midfielder", "tm_slug": "salem-al-dawsari", "tm_id": 0},
+
+    # ----- COSTA RICA (extra) -----
+    {"name": "Bryan Ruiz", "nationality": "Costa Rica", "code": "CRC", "flag": "🇨🇷", "position": "attacker", "tm_slug": "bryan-ruiz", "tm_id": 0},
+    {"name": "Joel Campbell", "nationality": "Costa Rica", "code": "CRC", "flag": "🇨🇷", "position": "attacker", "tm_slug": "joel-campbell", "tm_id": 0},
+    {"name": "Keylor Navas", "nationality": "Costa Rica", "code": "CRC", "flag": "🇨🇷", "position": "gk", "tm_slug": "keylor-navas", "tm_id": 0},
+
+    # ----- GERMANY (extra) -----
+    {"name": "Mario Gotze", "nationality": "Germany", "code": "GER", "flag": "🇩🇪", "position": "attacker", "tm_slug": "mario-gotze", "tm_id": 0},
+    {"name": "Niklas Sule", "nationality": "Germany", "code": "GER", "flag": "🇩🇪", "position": "defender", "tm_slug": "niklas-suele", "tm_id": 0},
+
+    # ----- SWITZERLAND (extra) -----
+    {"name": "Breel Embolo", "nationality": "Switzerland", "code": "SUI", "flag": "🇨🇭", "position": "attacker", "tm_slug": "breel-embolo", "tm_id": 0},
+
 ]
 # fmt: on
 
-assert len(CANDIDATES) == 350, f"Expected 350 candidates, got {len(CANDIDATES)}"
+assert len(CANDIDATES) == 448, f"Expected 448 candidates, got {len(CANDIDATES)}"
