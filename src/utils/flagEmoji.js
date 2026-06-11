@@ -2,11 +2,14 @@
 // dataset. Only the codes that actually appear are included; everything else
 // falls back to a globe emoji.
 const ALPHA3_TO_ALPHA2 = {
-  ARG: "AR", AUS: "AU", BEL: "BE", BIH: "BA", BRA: "BR", CAN: "CA",
-  CHL: "CL", CIV: "CI", CMR: "CM", COL: "CO", CRC: "CR", CRO: "HR",
+  ALG: "DZ",
+  ARG: "AR", AUS: "AU", AUT: "AT", BEL: "BE", BIH: "BA", BRA: "BR", CAN: "CA",
+  CHL: "CL", CIV: "CI", CMR: "CM", COD: "CD", COL: "CO", CPV: "CV",
+  CRC: "CR", CRO: "HR", CUW: "CW",
   CZE: "CZ", DEN: "DK", ECU: "EC", EGY: "EG", ENG: "GB-ENG", ESP: "ES",
-  FRA: "FR", GER: "DE", GHA: "GH", GRE: "GR", HON: "HN", HRV: "HR",
-  ISL: "IS", IRN: "IR", ITA: "IT", JAM: "JM", JPN: "JP", KOR: "KR",
+  FRA: "FR", GER: "DE", GHA: "GH", GRE: "GR", HAI: "HT", HON: "HN", HRV: "HR",
+  ISL: "IS", IRN: "IR", IRQ: "IQ", ITA: "IT", JAM: "JM", JOR: "JO",
+  JPN: "JP", KOR: "KR",
   KSA: "SA", MAR: "MA", MEX: "MX", NED: "NL", NGA: "NG", NIR: "GB-NIR",
   NOR: "NO", NZL: "NZ", PAN: "PA", PAR: "PY", PER: "PE", POL: "PL",
   POR: "PT", QAT: "QA", ROU: "RO", RSA: "ZA", RUS: "RU", SCO: "GB-SCT",

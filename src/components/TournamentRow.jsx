@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
 import { flagFromCode } from "../utils/flagEmoji";
+import ClubLogo from "./ClubLogo";
 
 export default function TournamentRow({ wc, nationalityCode, index }) {
   const isFutureSquadOnly =
@@ -42,9 +43,10 @@ export default function TournamentRow({ wc, nationalityCode, index }) {
         )}
         <div
           title={wc.club}
-          className="mt-0.5 text-sm text-slate-400 truncate"
+          className="mt-0.5 text-sm text-slate-400 truncate flex items-center gap-1.5"
         >
-          <span className="text-slate-500">Club:</span> {wc.club || "Unknown"}
+          <ClubLogo name={wc.club} size={16} />
+          <span className="truncate">{wc.club || "Unknown"}</span>
         </div>
       </div>
     </motion.div>

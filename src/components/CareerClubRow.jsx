@@ -1,4 +1,5 @@
 import { motion } from "framer-motion";
+import ClubLogo from "./ClubLogo";
 
 export default function CareerClubRow({ club, index }) {
   const range =
@@ -20,9 +21,7 @@ export default function CareerClubRow({ club, index }) {
       <div className="text-xs font-semibold text-slate-400 w-14 tabular-nums">
         {range}
       </div>
-      <div className="text-base shrink-0" aria-hidden>
-        🏟️
-      </div>
+      <ClubLogo name={club.club} size={22} />
       <div className="flex-1 min-w-0 text-sm text-slate-300 truncate">
         {club.club}
       </div>

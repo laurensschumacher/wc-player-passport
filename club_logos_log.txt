@@ -1,0 +1,488 @@
+Unique clubs: 636
+
+Resolved: 571 / 636
+Unresolved (65):
+  - Akhisarspor
+  - Alès
+  - Arta/Solar7
+  - Atlético Malagueño
+  - Bahia
+  - Banfield
+  - Bellinzona
+  - Belstone
+  - Boulogne
+  - Brandsen
+  - Cannes
+  - Cornellà
+  - Dalian Professional (2009-2024)
+  - Delta Warsaw
+  - GBS Academy
+  - Gallos Caliente Tijuana
+  - Gent
+  - Guadalajara
+  - Guingamp
+  - Hebei FC (2010-2023)
+  - Horadada
+  - Jiangsu Suning
+  - Jong Ajax
+  - KS Częstochowa
+  - Korea University
+  - La Louvière
+  - Lanceros Boyacá
+  - Las Palmas
+  - Leganés
+  - Lens
+  … and 35 more
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+  ! download failed for Anyang LG Cheetahs (https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/FC_Seoul_logo.svg/330px-FC_Seoul_logo.svg.png)
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+  ! download failed for Barcelona SC (https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Escudo_oficial_del_Barcelona_Sporting_Club.png/330px-Escudo_oficial_del_Barcelona_Sporting_Club.png)
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+  downloaded 100/571
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 30s
+  ! download failed for Betis (https://upload.wikimedia.org/wikipedia/en/f/f5/Betis_CF_Valladolid.png)
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+  downloaded 125/571
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+  ! download failed for Caen (https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/SM_Caen_2016_logo.svg/330px-SM_Caen_2016_logo.svg.png)
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 30s
+  ! download failed for Cardiff City (https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Cardiff_City_crest.svg/330px-Cardiff_City_crest.svg.png)
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+  ! download failed for Chiasso (https://upload.wikimedia.org/wikipedia/en/thumb/4/43/FC_Chiasso_logo.svg/330px-FC_Chiasso_logo.svg.png)
+  downloaded 150/571
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 30s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+  ! download failed for Club Brugge (https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Club_Brugge_KV_logo.svg/330px-Club_Brugge_KV_logo.svg.png)
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 30s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 30s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+  ! download failed for Deportivo Guadalajara (https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Guadalajara_CD.svg/330px-Guadalajara_CD.svg.png)
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+  ! download failed for Derby County (https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Derby_County_crest.svg/330px-Derby_County_crest.svg.png)
+   429 backoff 30s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 30s
+  downloaded 200/571
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+  ! download failed for FC Jurong (https://upload.wikimedia.org/wikipedia/en/e/ea/Albirex_Niigata_Singapore_FC_new_logo.png)
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+  downloaded 225/571
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+  ! download failed for Girona (https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Girona_FC_Logo.svg/330px-Girona_FC_Logo.svg.png)
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 30s
+  ! download failed for Great Olympics (https://upload.wikimedia.org/wikipedia/en/8/8f/The_Official_Accra_Great_Olympics_logo.jpg)
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+  downloaded 250/571
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+  ! download failed for Hertha BSC (https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hertha_BSC_Logo_2012.svg/330px-Hertha_BSC_Logo_2012.svg.png)
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 30s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+  ! download failed for Hércules (https://upload.wikimedia.org/wikipedia/en/0/04/USV_Hercules_logo.png)
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 30s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 30s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+  downloaded 275/571
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+  ! download failed for Juventude (https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Juventude_crest.png/330px-Juventude_crest.png)
+   429 backoff 30s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+  ! download failed for Kitchee (https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Kitchee_SC_crest.svg/330px-Kitchee_SC_crest.svg.png)
+   429 backoff 30s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+  ! download failed for Le Havre (https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Le_Havre_AC_logo.svg/330px-Le_Havre_AC_logo.svg.png)
+   429 backoff 30s
+  downloaded 300/571
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+  ! download failed for Lokomotiva (https://upload.wikimedia.org/wikipedia/en/6/67/FK_Lokomotiva_Br%C4%8Dko_logo.png)
+   429 backoff 1s
+   429 backoff 30s
+   429 backoff 1s
+   429 backoff 1s
+  downloaded 325/571
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+  ! download failed for Marítimo (https://upload.wikimedia.org/wikipedia/en/thumb/3/30/C.S._Mar%C3%ADtimo_logo.svg/330px-C.S._Mar%C3%ADtimo_logo.svg.png)
+   429 backoff 1s
+   429 backoff 30s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+  downloaded 350/571
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+  ! download failed for Mumbai City (https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Mumbai_City_FC_logo.svg/330px-Mumbai_City_FC_logo.svg.png)
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+  ! download failed for New York City FC (https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Logo_New_York_City_FC_2025.svg/330px-Logo_New_York_City_FC_2025.svg.png)
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+  downloaded 375/571
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+  downloaded 400/571
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+  ! download failed for Porto B (https://upload.wikimedia.org/wikipedia/en/6/68/CA_do_Porto.png)
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+  ! download failed for Pune City (https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Pune_City_tehsil_in_Pune_district.png/330px-Pune_City_tehsil_in_Pune_district.png)
+   429 backoff 30s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+  ! download failed for Quick Boys (https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Quick_Boys_logo.svg/330px-Quick_Boys_logo.svg.png)
+  downloaded 425/571
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 30s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+  ! download failed for River Plate (https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/SV_Riverplate_Aruba.svg/330px-SV_Riverplate_Aruba.svg.png)
+  downloaded 450/571
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+  ! download failed for Sagan Tosu (https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Sagan_Tosu_logo.svg/330px-Sagan_Tosu_logo.svg.png)
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 30s
+  ! download failed for Salernitana (https://upload.wikimedia.org/wikipedia/en/thumb/8/85/US_Salernitana_1919_logo.svg/330px-US_Salernitana_1919_logo.svg.png)
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+  ! download failed for Santos (https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Santos_Futebol_Clube_logo_%28with_stars_and_crown%29.png/330px-Santos_Futebol_Clube_logo_%28with_stars_and_crown%29.png)
+  downloaded 475/571
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 30s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+  ! download failed for Shanghai Shenhua (https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Shanghai_Shenhua_F.C.svg/330px-Shanghai_Shenhua_F.C.svg.png)
+   429 backoff 30s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+  ! download failed for Spartak Moscow (https://upload.wikimedia.org/wikipedia/en/thumb/9/93/FC_Spartak_Moscow_crest.svg/330px-FC_Spartak_Moscow_crest.svg.png)
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+  downloaded 525/571
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+  downloaded 550/571
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+  ! download failed for Västerås SK (https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Vasteras_SK_logo.svg/330px-Vasteras_SK_logo.svg.png)
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 1s
+  ! download failed for Young Boys (https://upload.wikimedia.org/wikipedia/en/a/ab/Young_Boys_FD_logo.png)
+   429 backoff 1s
+   429 backoff 1s
+   429 backoff 30s
+Wrote /Users/laschumacher/Downloads/coding/vibe-playport/src/data/club_logos.json
+Wrote /Users/laschumacher/Downloads/coding/vibe-playport/club_logos.json
+
+Logos saved: 403 | Download failures: 32 | Unresolved clubs: 65

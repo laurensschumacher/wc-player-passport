@@ -94,3 +94,49 @@ export function matchesPlayer(guess, target) {
   }
   return false;
 }
+
+// Country aliases for the Lineup Passport mode. Keys + values are
+// normalized via normalizeName before comparison.
+const COUNTRY_ALIASES = {
+  "united states": ["usa", "united states of america", "us", "america"],
+  "united kingdom": ["uk", "great britain", "britain"],
+  "south korea": ["korea republic", "korea", "republic of korea"],
+  "north korea": ["korea dpr", "dpr korea"],
+  "czech republic": ["czechia"],
+  "ivory coast": ["cote d ivoire", "côte d ivoire"],
+  "cote d ivoire": ["ivory coast"],
+  "bosnia and herzegovina": ["bosnia", "bosnia herzegovina", "bih"],
+  "cape verde": ["cabo verde"],
+  "dr congo": [
+    "democratic republic of the congo",
+    "democratic republic of congo",
+    "drc",
+    "congo dr",
+    "congo democratic republic",
+  ],
+  "saudi arabia": ["ksa"],
+  "south africa": ["rsa"],
+  "new zealand": ["nz"],
+  "curacao": ["curaçao"],
+  "curaçao": ["curacao"],
+  netherlands: ["holland", "the netherlands"],
+};
+
+export function matchesCountry(guess, target) {
+  const g = normalizeName(guess);
+  const t = normalizeName(target);
+  if (!g || !t) return false;
+  if (g === t) return true;
+  const aliases = COUNTRY_ALIASES[t] || [];
+  for (const a of aliases) {
+    if (g === normalizeName(a)) return true;
+  }
+  // Reverse direction: target may itself be an alias of the canonical name
+  // we have aliases for.
+  for (const [canon, list] of Object.entries(COUNTRY_ALIASES)) {
+    if (list.some((a) => normalizeName(a) === t) && g === normalizeName(canon)) {
+      return true;
+    }
+  }
+  return false;
+}

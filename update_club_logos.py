@@ -39,6 +39,7 @@ import requests
 
 REPO_ROOT = Path(__file__).resolve().parent
 DATA_PATH = REPO_ROOT / "world_cup_players.json"
+LINEUPS_PATH = REPO_ROOT / "src" / "data" / "lineups.json"
 JSON_OUTPUTS = [
     REPO_ROOT / "src" / "data" / "club_logos.json",
     REPO_ROOT / "club_logos.json",
@@ -48,11 +49,14 @@ LOGOS_DIR.mkdir(parents=True, exist_ok=True)
 TITLE_CACHE = REPO_ROOT / "cache" / "club_titles.json"
 TITLE_CACHE.parent.mkdir(parents=True, exist_ok=True)
 
-UA = "PlayerPassport/1.0 (private hobby project; contact: local)"
-RATE_LIMIT_S = 0.3
+UA = "PlayerPassportBot/1.0 (private hobby; runs once to assemble crests)"
+RATE_LIMIT_S = 1.0
+MAX_429_WAIT = 30  # cap honored Retry-After to keep the script moving
+# Clubs that are placeholders, not real teams.
+SKIP_CLUBS = {"Without Club", ""}
 
 session = requests.Session()
-session.headers.update({"User-Agent": UA})
+session.headers.update({"User-Agent": UA, "Api-User-Agent": UA})
 _last_call = 0.0
 
 FOOTY_TITLE_RE = re.compile(
@@ -67,6 +71,9 @@ FOOTY_DESC_TOKENS = (
     "soccer team",
     "association football",
     "professional football",
+    "sports club",
+    "sport club",
+    "footballing",
 )
 
 
@@ -79,21 +86,24 @@ def _rate_limit() -> None:
 
 
 def get(url: str, *, max_retries: int = 4, timeout: int = 30) -> requests.Response | None:
-    for attempt in range(max_retries):
+    attempt = 0
+    while attempt < max_retries:
         _rate_limit()
         try:
             r = session.get(url, timeout=timeout)
         except requests.RequestException as e:
             print(f"   ! {e}; retry {attempt + 1}")
             time.sleep(2 ** attempt)
+            attempt += 1
             continue
         if r.status_code == 429:
-            wait = int(r.headers.get("Retry-After", "5"))
+            wait = min(int(r.headers.get("Retry-After", "5")), MAX_429_WAIT)
             print(f"   429 backoff {wait}s")
             time.sleep(wait)
             continue
         if 500 <= r.status_code < 600:
             time.sleep(2 ** attempt)
+            attempt += 1
             continue
         return r
     return None
@@ -111,12 +121,19 @@ def collect_clubs(players: list[dict]) -> list[str]:
     for p in players:
         for w in p.get("world_cups") or []:
             club = (w.get("club") or "").strip()
-            if club:
+            if club and club not in SKIP_CLUBS:
                 s.add(club)
         for c in p.get("career_clubs") or []:
             club = (c.get("club") or "").strip()
-            if club:
+            if club and club not in SKIP_CLUBS:
                 s.add(club)
+    if LINEUPS_PATH.exists():
+        lineups = json.loads(LINEUPS_PATH.read_text(encoding="utf-8"))
+        for t in lineups.get("teams") or []:
+            for p in (t.get("players") or []) + (t.get("bench") or []):
+                club = (p.get("club") or "").strip()
+                if club and club not in SKIP_CLUBS:
+                    s.add(club)
     return sorted(s)
 
 
@@ -133,20 +150,19 @@ def title_candidates(name: str) -> list[str]:
 
     has_marker = bool(FOOTY_TITLE_RE.search(name))
 
-    # If the name contains "FC ..." or "... FC", that's our strongest signal.
     if has_marker:
         add(name)
-        # Try the dotted form
         add(re.sub(r"\bFC\b", "F.C.", name))
         add(re.sub(r"\bF\.C\.", "FC", name))
     else:
-        # Add disambiguator suffix/prefix variants
         add(f"{name} F.C.")
         add(f"FC {name}")
-        # Last resort: bare name (could be city/country, validated by desc)
+        # Bare name (could resolve via redirects to e.g. RSC Anderlecht)
         add(name)
+        # Disambiguator parenthetical for clubs like "Banfield (football club)"
+        add(f"{name} (football club)")
 
-    return out[:4]
+    return out[:5]
 
 
 def fetch_summary(title: str) -> dict | None:
@@ -160,39 +176,80 @@ def fetch_summary(title: str) -> dict | None:
         return None
 
 
+def opensearch_titles(query: str, limit: int = 5) -> list[str]:
+    """Wikipedia OpenSearch — returns candidate article titles for query."""
+    url = (
+        "https://en.wikipedia.org/w/api.php?action=opensearch&format=json"
+        f"&limit={limit}&search={quote(query)}"
+    )
+    r = get(url)
+    if not r or r.status_code != 200:
+        return []
+    try:
+        data = r.json()
+        return list(data[1] or [])
+    except Exception:
+        return []
+
+
 def is_club(summary: dict) -> bool:
     desc = (summary.get("description") or "").lower()
     if any(tok in desc for tok in FOOTY_DESC_TOKENS):
         return True
     title = summary.get("title", "")
     if FOOTY_TITLE_RE.search(title):
-        # Title contains a footy marker — still require desc to NOT explicitly
-        # say "city"/"town"/"village" to avoid false positives like "AFC Asia".
         if not re.search(r"\b(city|town|village|comune|capital|municipality)\b", desc):
             return True
     return False
 
 
+def _try_summary(title: str) -> dict | None:
+    summ = fetch_summary(title)
+    if not summ or summ.get("type") == "disambiguation":
+        return None
+    if not is_club(summ):
+        return None
+    thumb = (summ.get("thumbnail") or {}).get("source")
+    orig = (summ.get("originalimage") or {}).get("source")
+    url = thumb or orig
+    if not url:
+        return None
+    return {
+        "title": summ.get("title"),
+        "thumb": url,
+        "description": summ.get("description"),
+    }
+
+
+def _name_matches_title(name: str, title: str) -> bool:
+    """Sanity check: returned title shares a meaningful token with the query."""
+    norm = lambda s: re.sub(r"[^a-z0-9]+", " ", unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode().lower()).strip()
+    name_tokens = {t for t in norm(name).split() if len(t) >= 3}
+    title_norm = norm(title)
+    if not name_tokens:
+        return name.lower() in title.lower()
+    return any(t in title_norm for t in name_tokens)
+
+
 def resolve_club(name: str) -> dict | None:
     """Return summary dict for the article representing this club, else None."""
     for cand in title_candidates(name):
-        summ = fetch_summary(cand)
-        if not summ:
-            continue
-        if summ.get("type") == "disambiguation":
-            continue
-        if not is_club(summ):
-            continue
-        thumb = (summ.get("thumbnail") or {}).get("source")
-        orig = (summ.get("originalimage") or {}).get("source")
-        url = thumb or orig
-        if not url:
-            continue
-        return {
-            "title": summ.get("title"),
-            "thumb": url,
-            "description": summ.get("description"),
-        }
+        info = _try_summary(cand)
+        if info:
+            return info
+    # Fallback: opensearch — try multiple queries, then deeper bare-name list
+    seen_titles: set[str] = set()
+    queries = [f"{name} football club", f"{name} club", f"{name} FC", name]
+    for query in queries:
+        for cand in opensearch_titles(query, limit=10):
+            if cand in seen_titles:
+                continue
+            seen_titles.add(cand)
+            if not _name_matches_title(name, cand):
+                continue
+            info = _try_summary(cand)
+            if info:
+                return info
     return None
 
 
@@ -224,7 +281,9 @@ def main() -> int:
     if TITLE_CACHE.exists():
         title_cache = json.loads(TITLE_CACHE.read_text(encoding="utf-8"))
 
-    only = sys.argv[1:] if len(sys.argv) > 1 else None
+    only = [a for a in sys.argv[1:] if not a.startswith("--")] or None
+    flags = {a for a in sys.argv[1:] if a.startswith("--")}
+    skip_uncached = "--no-retry-failures" in flags
     if only:
         clubs = [c for c in clubs if c in only]
         print(f"Filtered to {len(clubs)} clubs")
@@ -237,6 +296,9 @@ def main() -> int:
         if cached and cached.get("thumb"):
             resolved[club] = cached
             continue
+        if skip_uncached:
+            failures.append(club)
+            continue
         info = resolve_club(club)
         if info:
             resolved[club] = info
@@ -244,7 +306,6 @@ def main() -> int:
             print(f"  [{i:3d}/{len(clubs)}] {club:35s} -> {info['title']!r}")
         else:
             failures.append(club)
-            title_cache[club] = {"failed": True}
             print(f"  [{i:3d}/{len(clubs)}] {club:35s} -> NO MATCH")
         if i % 20 == 0:
             TITLE_CACHE.write_text(
@@ -270,6 +331,15 @@ def main() -> int:
     url_to_path: dict[str, str] = {}
     succ = 0
     fail = 0
+
+    def write_logos() -> None:
+        for path in JSON_OUTPUTS:
+            path.parent.mkdir(parents=True, exist_ok=True)
+            path.write_text(
+                json.dumps(logos, indent=2, ensure_ascii=False, sort_keys=True) + "\n",
+                encoding="utf-8",
+            )
+
     for i, (club, info) in enumerate(sorted(resolved.items()), 1):
         thumb = info["thumb"]
         if thumb in url_to_path:
@@ -291,17 +361,14 @@ def main() -> int:
             url_to_path[thumb] = rel
             succ += 1
             if i % 25 == 0:
-                print(f"  downloaded {i}/{len(resolved)}")
+                print(f"  downloaded {i}/{len(resolved)}", flush=True)
+                write_logos()
         else:
             fail += 1
             print(f"  ! download failed for {club} ({thumb})")
 
+    write_logos()
     for path in JSON_OUTPUTS:
-        path.parent.mkdir(parents=True, exist_ok=True)
-        path.write_text(
-            json.dumps(logos, indent=2, ensure_ascii=False, sort_keys=True) + "\n",
-            encoding="utf-8",
-        )
         print(f"Wrote {path}")
 
     print(f"\nLogos saved: {succ} | Download failures: {fail} | Unresolved clubs: {len(failures)}")
