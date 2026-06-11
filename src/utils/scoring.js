@@ -56,16 +56,41 @@ export function normalizeName(s) {
  *   - exact normalized match of the last token (surname-only guess)
  *   - exact normalized match of the first token if it is at least 5 chars
  *     (covers mononyms / well-known short names like "Ronaldo", "Pepe")
+ *   - either side may carry a common generational suffix
+ *     ("jr", "sr", "junior", "senior", "ii", "iii", "iv") which is stripped
+ *     before comparison — so "Neymar Jr" matches the mononym "Neymar".
  */
+const NAME_SUFFIXES = new Set([
+  "jr",
+  "sr",
+  "junior",
+  "senior",
+  "ii",
+  "iii",
+  "iv",
+]);
+
+function stripNameSuffixes(tokens) {
+  let end = tokens.length;
+  while (end > 1 && NAME_SUFFIXES.has(tokens[end - 1])) end -= 1;
+  return tokens.slice(0, end);
+}
+
 export function matchesPlayer(guess, target) {
   const g = normalizeName(guess);
   const t = normalizeName(target);
   if (!g || !t) return false;
   if (g === t) return true;
-  const tokens = t.split(" ");
-  if (tokens.length > 1) {
-    if (g === tokens[tokens.length - 1]) return true;
-    if (tokens[0].length >= 5 && g === tokens[0]) return true;
+
+  const gTokens = stripNameSuffixes(g.split(" "));
+  const tTokens = stripNameSuffixes(t.split(" "));
+  const gStripped = gTokens.join(" ");
+  const tStripped = tTokens.join(" ");
+  if (gStripped === tStripped) return true;
+
+  if (tTokens.length > 1) {
+    if (gStripped === tTokens[tTokens.length - 1]) return true;
+    if (tTokens[0].length >= 5 && gStripped === tTokens[0]) return true;
   }
   return false;
 }

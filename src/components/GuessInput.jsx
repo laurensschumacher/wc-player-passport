@@ -104,6 +104,8 @@ export default function GuessInput({
             disabled={disabled}
             placeholder="Guess the player…"
             autoComplete="off"
+            autoCorrect="off"
+            autoCapitalize="off"
             spellCheck={false}
             className="w-full px-4 py-3 min-h-[48px] rounded-xl bg-slate-900 ring-1 ring-slate-700 focus:ring-2 focus:ring-indigo-500/60 focus:outline-none text-white placeholder-slate-500 disabled:opacity-50"
           />
