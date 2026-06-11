@@ -76,6 +76,37 @@ function stripNameSuffixes(tokens) {
   return tokens.slice(0, end);
 }
 
+// Levenshtein distance, but bails out as soon as the running min exceeds `max`.
+function editDistance(a, b, max) {
+  if (Math.abs(a.length - b.length) > max) return max + 1;
+  if (a === b) return 0;
+  const m = a.length;
+  const n = b.length;
+  let prev = new Array(n + 1);
+  let curr = new Array(n + 1);
+  for (let j = 0; j <= n; j++) prev[j] = j;
+  for (let i = 1; i <= m; i++) {
+    curr[0] = i;
+    let rowMin = curr[0];
+    for (let j = 1; j <= n; j++) {
+      const cost = a.charCodeAt(i - 1) === b.charCodeAt(j - 1) ? 0 : 1;
+      curr[j] = Math.min(prev[j] + 1, curr[j - 1] + 1, prev[j - 1] + cost);
+      if (curr[j] < rowMin) rowMin = curr[j];
+    }
+    if (rowMin > max) return max + 1;
+    [prev, curr] = [curr, prev];
+  }
+  return prev[n];
+}
+
+// Allow 1-character typos for tokens of length >= 6 (e.g. "betancur" vs
+// "bentancur"). Stricter on shorter names to avoid false positives.
+function fuzzyEquals(a, b) {
+  if (a === b) return true;
+  if (a.length < 6 || b.length < 6) return false;
+  return editDistance(a, b, 1) <= 1;
+}
+
 export function matchesPlayer(guess, target) {
   const g = normalizeName(guess);
   const t = normalizeName(target);
@@ -87,9 +118,12 @@ export function matchesPlayer(guess, target) {
   const gStripped = gTokens.join(" ");
   const tStripped = tTokens.join(" ");
   if (gStripped === tStripped) return true;
+  if (fuzzyEquals(gStripped, tStripped)) return true;
 
   if (tTokens.length > 1) {
-    if (gStripped === tTokens[tTokens.length - 1]) return true;
+    const tLast = tTokens[tTokens.length - 1];
+    if (gStripped === tLast) return true;
+    if (fuzzyEquals(gStripped, tLast)) return true;
     if (tTokens[0].length >= 5 && gStripped === tTokens[0]) return true;
   }
   return false;
